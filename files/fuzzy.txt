@@ -4,6 +4,9 @@ du coup
 email
 émail
 adresse de messagerie
+adresses de messagerie
+adresse de courriel
+adresses de courriel
 code court
 embarquer
 embarqué
