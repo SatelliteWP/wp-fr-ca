@@ -14589,7 +14589,7 @@ msgstr "Réglages de pied de page"
 
 #: inc/core/class-astra-admin-settings.php:745
 msgid "Blog Layouts"
-msgstr "Mises en page du blog"
+msgstr "Mises en page du blogue"
 
 #: inc/core/class-astra-admin-settings.php:740
 msgid "Header Options"
