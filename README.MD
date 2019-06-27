@@ -29,7 +29,7 @@ You can also merge PO files together to make the dictionary better
 
 
 ## Maintainers
-This project was created originally from an idea by [Cedric Bethencourt](https://github.com/cedricus) and is maintained by [SatelliteWP](https://www.satellitewp.com/en?utm_source=wp-fr-ca).
+This project was created and is maintained by [SatelliteWP](https://www.satellitewp.com/en?utm_source=wp-fr-ca) from an idea by [Cedric Bethencourt](https://github.com/cedricus).
 
 ## Contributing
 Ideas are welcome.
