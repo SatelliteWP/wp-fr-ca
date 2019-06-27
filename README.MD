@@ -21,7 +21,11 @@ You can now start mass translating using PO-Merger, our fuzzy file and dictionar
 
 Here is the suggested command line that will maximize your effort:
 
-    wp po merger fr-ca fr <source> --diff-only --fuzzy=files/fuzzy.txt --dictionary=files/dictionary.po
+    wp po merge fr-ca fr <source> --diff-only --fuzzy=files/fuzzy.txt --dictionary=files/dictionary.po
+
+You can also merge PO files together to make the dictionary better
+
+    wp po merge-file files/dictionary.po my-other-file.po
 
 
 ## Maintainers
