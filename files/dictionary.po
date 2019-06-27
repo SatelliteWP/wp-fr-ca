@@ -10329,7 +10329,7 @@ msgstr "Téléverser"
 #: wp-includes/js/dist/edit-post.js:4629
 #: wp-includes/js/dist/edit-post.js:5491
 msgid "Featured Image"
-msgstr "Image à la Une"
+msgstr "Image mise en avant"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2256
 msgid "Sorry, deleting the term failed."
