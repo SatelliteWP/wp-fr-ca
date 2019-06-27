@@ -19,3 +19,4 @@ mot-clés
 mot-clef
 mots-clefs
 évènement
+image à la une
