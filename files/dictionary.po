@@ -605,7 +605,8 @@ msgid "&#8221;"
 msgstr " &raquo;"
 
 #. translators: opening curly double quote
-#: wp-includes/formatting.php:98 wp-includes/formatting.php:5241
+#: wp-includes/formatting.php:98
+#: wp-includes/formatting.php:5241
 msgctxt "opening curly double quote"
 msgid "&#8220;"
 msgstr "&laquo; "
@@ -644,17 +645,20 @@ msgstr "Mode de récupération &#8212; %s"
 msgid "[%s] Login Details"
 msgstr "[%s] Détails de connexion"
 
-#: wp-includes/media-template.php:485 wp-includes/media-template.php:596
+#: wp-includes/media-template.php:485
+#: wp-includes/media-template.php:596
 #: wp-includes/media.php:3675
 msgid "Move to Trash"
 msgstr "Déplacer vers la corbeille"
 
-#: wp-includes/media-template.php:483 wp-includes/media-template.php:594
+#: wp-includes/media-template.php:483
+#: wp-includes/media-template.php:594
 #: wp-includes/media.php:3676
 msgid "Restore from Trash"
 msgstr "Récupérer de la corbeille"
 
-#: wp-includes/wp-db.php:1131 wp-includes/wp-db.php:1676
+#: wp-includes/wp-db.php:1131
+#: wp-includes/wp-db.php:1676
 #: wp-includes/wp-db.php:1834
 msgid "https://wordpress.org/support/forums/"
 msgstr "https://fr.forums.wordpress.com/"
@@ -900,7 +904,8 @@ msgstr "Fonctionnalité activée"
 msgid "Feature deactivated"
 msgstr "Fonctionnalité désactivée"
 
-#: wp-includes/js/dist/edit-post.js:1430 wp-includes/js/dist/edit-post.js:4215
+#: wp-includes/js/dist/edit-post.js:1430
+#: wp-includes/js/dist/edit-post.js:4215
 msgid "Block Manager"
 msgstr "Gestionnaire de bloc"
 
@@ -1085,7 +1090,8 @@ msgstr "Citation de la chanson Hello Dolly, par Jerry Herman :"
 msgid "https://wordpress.org/support/article/cookies/"
 msgstr "https://wordpress.org/support/article/cookies/"
 
-#: wp-login.php:865 wp-includes/user.php:3591
+#: wp-login.php:865
+#: wp-includes/user.php:3591
 msgid "Missing confirm key."
 msgstr "Clé de confirmation manquante."
 
@@ -1129,7 +1135,8 @@ msgstr "Site %d"
 msgid "The site appears to be already initialized."
 msgstr "Le site semble avoir déjà été initialisé."
 
-#: wp-includes/ms-site.php:675 wp-includes/ms-site.php:806
+#: wp-includes/ms-site.php:675
+#: wp-includes/ms-site.php:806
 msgid "Site with the ID does not exist."
 msgstr "Aucun site n’existe pour cet ID."
 
@@ -1153,18 +1160,21 @@ msgstr "Le site ne peut pas être supprimé de la base de données."
 msgid "Could not update site in the database."
 msgstr "Impossible de mettre à jour le site dans la base de données."
 
-#: wp-includes/ms-site.php:159 wp-includes/ms-site.php:212
+#: wp-includes/ms-site.php:159
+#: wp-includes/ms-site.php:212
 msgid "Site does not exist."
 msgstr "Le site n’existe pas."
 
-#: wp-includes/ms-site.php:154 wp-includes/ms-site.php:207
-#: wp-includes/ms-site.php:670 wp-includes/ms-site.php:801
+#: wp-includes/ms-site.php:154
+#: wp-includes/ms-site.php:207
+#: wp-includes/ms-site.php:670
+#: wp-includes/ms-site.php:801
 msgid "Site ID must not be empty."
 msgstr "L’ID du site ne doit pas être vide."
 
 #: wp-includes/ms-site.php:69
 msgid "Could not insert site into the database."
-msgstr "Impossible d’insérer le site en base de données."
+msgstr "Impossible d’insérer le site dans la base de données."
 
 #: wp-includes/ms-functions.php:2015
 msgid "Unable to submit this form, please try again."
@@ -1204,7 +1214,8 @@ msgid "The site is experiencing technical difficulties."
 msgstr "Ce site rencontre des difficultés techniques."
 
 #. translators: 1: a number of pixels wide, 2: a number of pixels tall.
-#: wp-includes/media-template.php:389 wp-includes/media-template.php:574
+#: wp-includes/media-template.php:389
+#: wp-includes/media-template.php:574
 msgid "%1$s by %2$s pixels"
 msgstr "%1$s pixels par %2$s"
 
@@ -1236,7 +1247,8 @@ msgstr "Essayez encore"
 msgid "Font size: %s"
 msgstr "Taille de police : %s"
 
-#: wp-includes/class-wp.php:299 wp-includes/ms-deprecated.php:275
+#: wp-includes/class-wp.php:299
+#: wp-includes/ms-deprecated.php:275
 #: wp-includes/ms-deprecated.php:294
 msgid "A variable mismatch has been detected."
 msgstr "Une disparité variable a été détectée."
@@ -1270,7 +1282,8 @@ msgstr "Raccourcis clavier de bloc classique"
 msgid "This image has an empty alt attribute"
 msgstr "L’attribut alt de cette image est vide."
 
-#: wp-includes/js/dist/edit-post.js:4619 wp-includes/js/dist/edit-post.js:5624
+#: wp-includes/js/dist/edit-post.js:4619
+#: wp-includes/js/dist/edit-post.js:5624
 msgid "Permalink"
 msgstr "Permalien"
 
@@ -2307,7 +2320,8 @@ msgid "Editor settings"
 msgstr "Paramètres de l'éditeur"
 
 #. translators: ARIA label for the Document sidebar tab, not selected.
-#: wp-includes/js/dist/edit-post.js:5043 wp-includes/js/dist/edit-post.js:5062
+#: wp-includes/js/dist/edit-post.js:5043
+#: wp-includes/js/dist/edit-post.js:5062
 #: wp-includes/js/dist/edit-post.js:5063
 msgid "Document"
 msgstr "Document"
@@ -2355,7 +2369,8 @@ msgstr "Extensions de l'éditeur"
 msgid "Advanced Panels"
 msgstr "Panneaux avancés"
 
-#: wp-includes/js/dist/edit-post.js:4637 wp-includes/js/dist/edit-post.js:5766
+#: wp-includes/js/dist/edit-post.js:4637
+#: wp-includes/js/dist/edit-post.js:5766
 msgid "Discussion"
 msgstr "Discussion"
 
@@ -2515,7 +2530,8 @@ msgctxt "noun"
 msgid "View"
 msgstr "Vue"
 
-#: wp-includes/js/dist/edit-post.js:2958 wp-includes/js/dist/edit-post.js:4607
+#: wp-includes/js/dist/edit-post.js:2958
+#: wp-includes/js/dist/edit-post.js:4607
 msgid "Options"
 msgstr "Options"
 
@@ -2587,7 +2603,8 @@ msgstr "Mise à jour échouée"
 msgid "Scheduling failed"
 msgstr "Planification échouée"
 
-#: wp-includes/js/dist/editor.js:4379 wp-includes/js/dist/editor.js:4380
+#: wp-includes/js/dist/editor.js:4379
+#: wp-includes/js/dist/editor.js:4380
 msgid "Publishing failed"
 msgstr "Publication échouée"
 
@@ -2732,7 +2749,8 @@ msgstr "Voulez-vous passer cette publication en privé ?"
 msgid "Move to trash"
 msgstr "Déplacer vers la corbeille"
 
-#: wp-includes/js/dist/editor.js:12638 wp-includes/js/dist/editor.js:12643
+#: wp-includes/js/dist/editor.js:12638
+#: wp-includes/js/dist/editor.js:12643
 msgid "Add title"
 msgstr "Ajouter un titre"
 
@@ -2744,11 +2762,13 @@ msgstr "Termes"
 msgid "Parent Term"
 msgstr "Terme parent"
 
-#: wp-includes/js/dist/editor.js:11854 wp-includes/js/dist/editor.js:11855
+#: wp-includes/js/dist/editor.js:11854
+#: wp-includes/js/dist/editor.js:11855
 msgid "Add new term"
 msgstr "Ajouter nouveau terme"
 
-#: wp-includes/js/dist/editor.js:11854 wp-includes/js/dist/editor.js:11855
+#: wp-includes/js/dist/editor.js:11854
+#: wp-includes/js/dist/editor.js:11855
 msgid "Add new category"
 msgstr "Ajouter nouvelle catégorie"
 
@@ -2762,12 +2782,14 @@ msgctxt "term"
 msgid "%s removed"
 msgstr "%s retiré"
 
-#: wp-includes/js/dist/editor.js:10449 wp-includes/js/dist/editor.js:11606
+#: wp-includes/js/dist/editor.js:10449
+#: wp-includes/js/dist/editor.js:11606
 msgctxt "term"
 msgid "%s added"
 msgstr "%s ajouté"
 
-#: wp-includes/js/dist/editor.js:10448 wp-includes/js/dist/editor.js:11606
+#: wp-includes/js/dist/editor.js:10448
+#: wp-includes/js/dist/editor.js:11606
 msgid "Term"
 msgstr "Terme"
 
@@ -2831,12 +2853,14 @@ msgstr "Confirmez-vous la planification ?"
 msgid "Are you ready to submit for review?"
 msgstr "Confirmez-vous la mise en attente de relecture ?"
 
-#: wp-includes/media-template.php:469 wp-includes/media-template.php:647
+#: wp-includes/media-template.php:469
+#: wp-includes/media-template.php:647
 #: wp-includes/js/dist/editor.js:10866
 msgid "Copy Link"
 msgstr "Copier le lien"
 
-#: wp-includes/js/dist/editor.js:10866 wp-includes/js/dist/edit-post.js:1398
+#: wp-includes/js/dist/editor.js:10866
+#: wp-includes/js/dist/edit-post.js:1398
 #: wp-includes/js/dist/block-library.js:12010
 msgid "Copied!"
 msgstr "Copié!"
@@ -2899,7 +2923,8 @@ msgctxt "imperative verb"
 msgid "Preview"
 msgstr "Aperçu"
 
-#: wp-includes/js/dist/editor.js:9073 wp-includes/js/dist/editor.js:9083
+#: wp-includes/js/dist/editor.js:9073
+#: wp-includes/js/dist/editor.js:9083
 msgid "Generating preview…"
 msgstr "Génération de l’aperçu…"
 
@@ -3223,7 +3248,8 @@ msgstr "Erreur de chargement du bloc : %s"
 msgid "Number of items"
 msgstr "Nombre d’éléments"
 
-#: wp-includes/js/dist/components.js:35118 wp-includes/js/dist/editor.js:11606
+#: wp-includes/js/dist/components.js:35118
+#: wp-includes/js/dist/editor.js:11606
 msgid "Category"
 msgstr "Catégorie"
 
@@ -3308,7 +3334,8 @@ msgstr "Taille de police personnalisée"
 #: wp-includes/class-wp-customize-manager.php:4270
 #: wp-includes/class-wp-customize-manager.php:5572
 #: wp-includes/class-wp-customize-manager.php:5593
-#: wp-includes/js/dist/components.js:31986 wp-includes/js/dist/editor.js:9198
+#: wp-includes/js/dist/components.js:31986
+#: wp-includes/js/dist/editor.js:9198
 msgid "(opens in a new tab)"
 msgstr "(ouvre dans un nouvel onglet)"
 
@@ -3431,7 +3458,8 @@ msgstr "Sélecteur de couleur personnalisée"
 msgid "No results."
 msgstr "Aucun résultat."
 
-#: wp-includes/post.php:279 wp-includes/js/dist/editor.js:6631
+#: wp-includes/post.php:279
+#: wp-includes/js/dist/editor.js:6631
 msgid "Block updated."
 msgstr "Bloc mis à jour."
 
@@ -3463,7 +3491,8 @@ msgstr "Navigation dans la liste des blocs"
 msgid "Filter blocks list"
 msgstr "Filtrer la liste des blocs"
 
-#: wp-includes/post.php:270 wp-includes/js/dist/block-editor.js:11203
+#: wp-includes/post.php:270
+#: wp-includes/js/dist/block-editor.js:11203
 #: wp-includes/js/dist/edit-post.js:4155
 msgid "No blocks found."
 msgstr "Aucun bloc trouvé."
@@ -3907,7 +3936,8 @@ msgstr "Courriel de l'auteur du commentaire"
 msgid "Comment Author"
 msgstr "Auteur du commentaire"
 
-#: wp-includes/comment.php:3340 wp-includes/comment.php:3449
+#: wp-includes/comment.php:3340
+#: wp-includes/comment.php:3449
 msgid "WordPress Comments"
 msgstr "Commentaires WordPress"
 
@@ -3929,9 +3959,12 @@ msgstr "Le lien a expiré."
 msgid "You need a higher level of permission."
 msgstr "Vous devez posséder des permissions plus élevées."
 
-#: wp-includes/script-loader.php:938 wp-includes/script-loader.php:1435
-#: wp-includes/script-loader.php:1523 wp-includes/script-loader.php:1777
-#: wp-includes/class-wp-xmlrpc-server.php:3884 wp-includes/functions.php:2928
+#: wp-includes/script-loader.php:938
+#: wp-includes/script-loader.php:1435
+#: wp-includes/script-loader.php:1523
+#: wp-includes/script-loader.php:1777
+#: wp-includes/class-wp-xmlrpc-server.php:3884
+#: wp-includes/functions.php:2928
 #: wp-includes/class-wp-customize-manager.php:450
 msgid "Something went wrong."
 msgstr "Oups! Quelque chose ne va pas."
@@ -4413,14 +4446,17 @@ msgstr "%s:"
 
 #. translators: 1: comment author's name, 2: comment author's IP address, 3:
 #. comment author's hostname
-#: wp-includes/pluggable.php:1558 wp-includes/pluggable.php:1728
+#: wp-includes/pluggable.php:1558
+#: wp-includes/pluggable.php:1728
 msgid "Author: %1$s (IP address: %2$s, %3$s)"
 msgstr "Auteur : %1$s (adresse IP : %2$s, %3$s)"
 
 #. translators: 1: trackback/pingback website name, 2: website IP address, 3:
 #. website hostname
-#: wp-includes/pluggable.php:1532 wp-includes/pluggable.php:1545
-#: wp-includes/pluggable.php:1708 wp-includes/pluggable.php:1718
+#: wp-includes/pluggable.php:1532
+#: wp-includes/pluggable.php:1545
+#: wp-includes/pluggable.php:1708
+#: wp-includes/pluggable.php:1718
 msgid "Website: %1$s (IP address: %2$s, %3$s)"
 msgstr "Site web : %1$s (adresse IP : %2$s, %3$s)"
 
@@ -4436,7 +4472,8 @@ msgstr "La récupération de la vérification du nonce a échoué. Veuillez rée
 msgid "Only UUID V4 is supported at this time."
 msgstr "Seul le système UUID v4 est reconnu à l’heure actuelle."
 
-#: wp-includes/deprecated.php:3935 wp-includes/deprecated.php:3952
+#: wp-includes/deprecated.php:3935
+#: wp-includes/deprecated.php:3952
 msgid "The Press This plugin is required."
 msgstr "L’extension « Press This » est requise."
 
@@ -4534,7 +4571,8 @@ msgstr "Mois"
 msgid "Date"
 msgstr "Date"
 
-#: wp-includes/class-wp-editor.php:189 wp-includes/class-wp-editor.php:1286
+#: wp-includes/class-wp-editor.php:189
+#: wp-includes/class-wp-editor.php:1286
 msgctxt "Name for the Visual editor tab"
 msgid "Visual"
 msgstr "Visuel"
@@ -4613,7 +4651,8 @@ msgid "Unable to trash changes."
 msgstr "Impossible de mettre les modifications à la corbeille."
 
 #. translators: %s: number of invalid settings
-#: wp-includes/script-loader.php:1464 wp-includes/script-loader.php:1466
+#: wp-includes/script-loader.php:1464
+#: wp-includes/script-loader.php:1466
 #: wp-includes/class-wp-customize-manager.php:2733
 msgid "Unable to save due to %s invalid setting."
 msgid_plural "Unable to save due to %s invalid settings."
@@ -4663,7 +4702,8 @@ msgstr "Code HTML arbitraire."
 msgid "Show tag counts"
 msgstr "Afficher le nombre d’étiquettes"
 
-#: wp-includes/category-template.php:839 wp-includes/category-template.php:849
+#: wp-includes/category-template.php:839
+#: wp-includes/category-template.php:849
 msgid "%s item"
 msgid_plural "%s items"
 msgstr[0] "%s élément"
@@ -4999,7 +5039,8 @@ msgid "Featured Image"
 msgstr "Image mise en avant"
 
 #. translators: 1: suggested width number, 2: suggested height number.
-#: wp-includes/media-template.php:275 wp-includes/media.php:3719
+#: wp-includes/media-template.php:275
+#: wp-includes/media.php:3719
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
 msgstr "Dimensions suggérées de l’image : %1$s par %2$s pixels."
 
@@ -5245,7 +5286,8 @@ msgctxt "New site notification email subject"
 msgid "[%1$s] Activate %2$s"
 msgstr "[%1$s] Activation de %2$s"
 
-#: wp-includes/blocks/rss.php:19 wp-includes/widgets.php:1449
+#: wp-includes/blocks/rss.php:19
+#: wp-includes/widgets.php:1449
 #: wp-includes/widgets.php:1572
 msgid "RSS Error:"
 msgstr "Erreur Rss :"
@@ -5259,7 +5301,8 @@ msgid "Invalid slug."
 msgstr "Identifiant non valide."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:647
-#: wp-includes/rest-api.php:1215 wp-includes/user.php:3328
+#: wp-includes/rest-api.php:1215
+#: wp-includes/user.php:3328
 msgid "Invalid email address."
 msgstr "Adresse courriel non valide."
 
@@ -5276,7 +5319,8 @@ msgstr "Fonction de rappel JSONP non valide."
 msgid "Invalid page template."
 msgstr "Modèle de page non valide."
 
-#: wp-includes/script-loader.php:1476 wp-includes/rest-api.php:1209
+#: wp-includes/script-loader.php:1476
+#: wp-includes/rest-api.php:1209
 #: wp-includes/post.php:3556
 msgid "Invalid date."
 msgstr "Date non valide."
@@ -5406,7 +5450,8 @@ msgctxt "Theme starter content"
 msgid "About"
 msgstr "À propos de"
 
-#: wp-includes/theme.php:2099 wp-includes/theme.php:2172
+#: wp-includes/theme.php:2099
+#: wp-includes/theme.php:2172
 msgctxt "Theme starter content"
 msgid "Home"
 msgstr "Accueil"
@@ -5623,9 +5668,12 @@ msgid "%s is not a valid IP address."
 msgstr "%s n’est pas une adresse IP valide."
 
 #. translators: 1: parameter, 2: type name
-#: wp-includes/rest-api.php:1147 wp-includes/rest-api.php:1163
-#: wp-includes/rest-api.php:1187 wp-includes/rest-api.php:1192
-#: wp-includes/rest-api.php:1197 wp-includes/rest-api.php:1202
+#: wp-includes/rest-api.php:1147
+#: wp-includes/rest-api.php:1163
+#: wp-includes/rest-api.php:1187
+#: wp-includes/rest-api.php:1192
+#: wp-includes/rest-api.php:1197
+#: wp-includes/rest-api.php:1202
 msgid "%1$s is not of type %2$s."
 msgstr "Le paramètre %1$s n’est pas de type %2$s."
 
@@ -6062,7 +6110,8 @@ msgstr "L’ID pour l’article associé au fichier."
 msgid "Invalid parent type."
 msgstr "Type de parent non valide."
 
-#: wp-includes/post.php:1635 wp-includes/js/dist/edit-post.js:4640
+#: wp-includes/post.php:1635
+#: wp-includes/js/dist/edit-post.js:4640
 #: wp-includes/js/dist/edit-post.js:5821
 msgid "Page Attributes"
 msgstr "Attributs de page"
@@ -6136,7 +6185,8 @@ msgctxt "post type general name"
 msgid "Changesets"
 msgstr "Jeux de modifications"
 
-#: wp-includes/post.php:143 wp-includes/post.php:144
+#: wp-includes/post.php:143
+#: wp-includes/post.php:144
 msgid "Custom CSS"
 msgstr "CSS personnalisé"
 
@@ -6196,7 +6246,9 @@ msgctxt "previous set of posts"
 msgid "Previous"
 msgstr "Précédent"
 
-#: wp-login.php:615 wp-login.php:1072 wp-includes/general-template.php:463
+#: wp-login.php:615
+#: wp-login.php:1072
+#: wp-includes/general-template.php:463
 msgid "Username or Email Address"
 msgstr "Nom d’utilisateur ou adresse courriel"
 
@@ -6509,15 +6561,18 @@ msgstr "Saut en avant d’1 seconde"
 msgid "Time Slider"
 msgstr "Curseur de temps"
 
-#: wp-includes/script-loader.php:1207 wp-includes/theme.php:1464
+#: wp-includes/script-loader.php:1207
+#: wp-includes/theme.php:1464
 msgid "Pause"
 msgstr "Pause"
 
-#: wp-includes/script-loader.php:1206 wp-includes/theme.php:1465
+#: wp-includes/script-loader.php:1206
+#: wp-includes/theme.php:1465
 msgid "Play"
 msgstr "Lecture"
 
-#: wp-includes/taxonomy.php:2124 wp-includes/taxonomy.php:2838
+#: wp-includes/taxonomy.php:2124
+#: wp-includes/taxonomy.php:2838
 msgid "A name is required for this term."
 msgstr "Un nom est nécessaire pour ce terme."
 
@@ -6664,7 +6719,8 @@ msgctxt "site"
 msgid "&larr; Back to %s"
 msgstr "&larr; Retour vers %s"
 
-#: wp-includes/wp-db.php:1931 wp-includes/wp-db.php:1937
+#: wp-includes/wp-db.php:1931
+#: wp-includes/wp-db.php:1937
 msgid "Unable to retrieve the error message from MySQL"
 msgstr "Impossible de retrouver le message d’erreur depuis MYSQL"
 
@@ -6713,7 +6769,8 @@ msgstr "Mettre à jour maintenant"
 msgid "Search results for &#8220;%s&#8221;"
 msgstr "Résultats de recherche pour « %s »"
 
-#: wp-login.php:730 wp-includes/script-loader.php:1369
+#: wp-login.php:730
+#: wp-includes/script-loader.php:1369
 msgid "Confirm use of weak password"
 msgstr "Confirmer l’utilisation du mot de passe faible"
 
@@ -6722,7 +6779,8 @@ msgctxt "password strength"
 msgid "Password strength unknown"
 msgstr "Force du mot de passe inconnue"
 
-#: wp-includes/script-loader.php:937 wp-includes/script-loader.php:1522
+#: wp-includes/script-loader.php:937
+#: wp-includes/script-loader.php:1522
 #: wp-includes/rest-api/class-wp-rest-server.php:921
 msgid "Sorry, you are not allowed to do that."
 msgstr "Désolé, vous n’avez pas l’autorisation de faire cela."
@@ -6733,7 +6791,8 @@ msgstr "Désolé, vous n’avez pas l’autorisation de prévisualiser les broui
 
 #. translators: Password change notification email subject. %s: Site title
 #. translators: Password change notification email subject. %s: Site name
-#: wp-includes/pluggable.php:1840 wp-includes/user.php:1974
+#: wp-includes/pluggable.php:1840
+#: wp-includes/user.php:1974
 msgid "[%s] Password Changed"
 msgstr "[%s] Mot de passe changé"
 
@@ -6786,7 +6845,8 @@ msgstr "Options du lien"
 msgid "Link inserted."
 msgstr "Lien inséré."
 
-#: wp-includes/script-loader.php:1394 wp-includes/js/dist/block-editor.js:16442
+#: wp-includes/script-loader.php:1394
+#: wp-includes/js/dist/block-editor.js:16442
 msgid "Link selected."
 msgstr "Lien sélectionné."
 
@@ -6836,7 +6896,8 @@ msgstr "Vous ne pouvez supprimer une taxonomie interne."
 msgid "Drag boxes here"
 msgstr "Glissez les blocs ici"
 
-#: wp-includes/script-loader.php:1442 wp-includes/blocks/rss.php:35
+#: wp-includes/script-loader.php:1442
+#: wp-includes/blocks/rss.php:35
 #: wp-includes/blocks/latest-posts.php:35
 #: wp-includes/js/dist/block-library.js:18213
 #: wp-includes/js/dist/block-library.js:18637
@@ -6892,7 +6953,8 @@ msgstr "Valider"
 msgid "%1$s %2$s %3$s %4$s Feed"
 msgstr "Flux pour %1$s %2$s %3$s %4$s"
 
-#: wp-includes/functions.php:6076 wp-includes/js/dist/components.js:34198
+#: wp-includes/functions.php:6076
+#: wp-includes/js/dist/components.js:34198
 msgid "Close dialog"
 msgstr "Fermez la boîte de dialogue"
 
@@ -7001,7 +7063,8 @@ msgstr "(Actuellement réglé sur : %s)"
 msgid "https://codex.wordpress.org/Debugging_in_WordPress"
 msgstr "https://codex.wordpress.org/Debugging_in_WordPress"
 
-#: wp-includes/script-loader.php:1668 wp-includes/script-loader.php:1678
+#: wp-includes/script-loader.php:1668
+#: wp-includes/script-loader.php:1678
 msgid "Changes saved."
 msgstr "Changements sauvegardés."
 
@@ -7015,8 +7078,10 @@ msgid "Need more help? <a href='%s'>We got it</a>."
 msgstr "Besoin de plus d’aide? <a href='%s'>En voici</a>."
 
 #. translators: %s: WP_User->ID
-#: wp-includes/class-wp-user.php:270 wp-includes/class-wp-user.php:303
-#: wp-includes/class-wp-user.php:344 wp-includes/class-wp-user.php:369
+#: wp-includes/class-wp-user.php:270
+#: wp-includes/class-wp-user.php:303
+#: wp-includes/class-wp-user.php:344
+#: wp-includes/class-wp-user.php:369
 msgid "Use %s instead."
 msgstr "Utilisez plutôt %s."
 
@@ -7113,7 +7178,8 @@ msgid "You are currently browsing the %s blog archives."
 msgstr "Vous parcourez actuellement les archives du blogue %s."
 
 #. translators: %s: email address
-#: wp-signup.php:672 wp-signup.php:830
+#: wp-signup.php:672
+#: wp-signup.php:830
 msgid "Check your inbox at %s and click the link given."
 msgstr "Veuillez vérifier votre boite de réception à l’adresse %s et cliquer sur le lien reçu."
 
@@ -7127,7 +7193,8 @@ msgid "Oops! That embed can&#8217;t be found."
 msgstr "Oups! Ce contenu intégré n’a pas pu être trouvé."
 
 #. translators: %s: Name of current post
-#: wp-includes/embed.php:933 wp-includes/post-template.php:290
+#: wp-includes/embed.php:933
+#: wp-includes/post-template.php:290
 msgid "Continue reading %s"
 msgstr "Lire la suite de %s"
 
@@ -7152,7 +7219,8 @@ msgstr "Auteur :"
 msgid "Error reconnecting to the database"
 msgstr "Erreur de reconnexion à la base de données"
 
-#: wp-includes/wp-db.php:1670 wp-includes/wp-db.php:1827
+#: wp-includes/wp-db.php:1670
+#: wp-includes/wp-db.php:1827
 msgid "Are you sure that the database server is running?"
 msgstr "Confirmez-vous que le serveur de la base de données fonctionne correctement?"
 
@@ -7210,7 +7278,8 @@ msgid "%1$s (since %2$s; %3$s)"
 msgstr "%1$s (depuis la %2$s; %3$s)"
 
 #. translators: 1: function name, 2: WordPress version number
-#: wp-includes/rest-api.php:541 wp-includes/rest-api.php:565
+#: wp-includes/rest-api.php:541
+#: wp-includes/rest-api.php:565
 msgid "%1$s (since %2$s; no alternative available)"
 msgstr "%1$s (depuis la %2$s; pas d’alternative disponible)"
 
@@ -7280,13 +7349,15 @@ msgid "Post Type Archive"
 msgstr "Archive du type de contenus"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1140
-#: wp-includes/user.php:1580 wp-includes/ms-functions.php:470
+#: wp-includes/user.php:1580
+#: wp-includes/ms-functions.php:470
 #: wp-includes/ms-functions.php:477
 msgid "Sorry, that username is not allowed."
 msgstr "Désolé, ce nom d’utilisateur n’est pas autorisé."
 
 #. translators: playlist item title
-#: wp-includes/media.php:1912 wp-includes/media.php:1929
+#: wp-includes/media.php:1912
+#: wp-includes/media.php:1929
 msgctxt "playlist item title"
 msgid "&#8220;%s&#8221;"
 msgstr "&laquo; %s &raquo;"
@@ -7419,7 +7490,8 @@ msgid "Posts published on %s"
 msgstr "Publications publiées sur %s"
 
 #. translators: %s: 'document_title_separator' filter name
-#: wp-includes/feed.php:103 wp-includes/feed.php:129
+#: wp-includes/feed.php:103
+#: wp-includes/feed.php:129
 msgid "Use the %s filter instead."
 msgstr "Utilisez le filtre %s à la place."
 
@@ -7475,7 +7547,8 @@ msgstr "Prévisualisation : %s"
 msgid "The requested theme does not exist."
 msgstr "Le thème demandé n’existe pas."
 
-#: wp-includes/category.php:49 wp-includes/category-template.php:360
+#: wp-includes/category.php:49
+#: wp-includes/category-template.php:360
 #: wp-includes/class-wp-query.php:1791
 msgid "%1$s is deprecated. Use %2$s instead."
 msgstr "%1$s est obsolète. Utilisez %2$s à la place."
@@ -7494,7 +7567,8 @@ msgstr "Ouvrir/fermer la section : %s"
 #. Asian characters), enter 'characters_excluding_spaces' or
 #. 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate
 #. into your own language.
-#: wp-includes/script-loader.php:2165 wp-includes/formatting.php:3764
+#: wp-includes/script-loader.php:2165
+#: wp-includes/formatting.php:3764
 #: wp-includes/js/dist/editor.js:12850
 msgctxt "Word count type. Do not translate!"
 msgid "words"
@@ -7613,7 +7687,8 @@ msgstr "Identité du site Web"
 msgid "Add to menu: %1$s (%2$s)"
 msgstr "Ajouter au menu : %1$s (%2$s)"
 
-#: wp-includes/wp-db.php:1460 wp-includes/wp-db.php:1477
+#: wp-includes/wp-db.php:1460
+#: wp-includes/wp-db.php:1477
 msgid "WordPress database error:"
 msgstr "Erreur de la base de données WordPress :"
 
@@ -7621,7 +7696,8 @@ msgstr "Erreur de la base de données WordPress :"
 msgid "To set your password, visit the following address:"
 msgstr "Pour configurer votre mot de passe, rendez-vous à l’adresse suivante :"
 
-#: wp-includes/user.php:1563 wp-includes/ms-functions.php:491
+#: wp-includes/user.php:1563
+#: wp-includes/ms-functions.php:491
 msgid "Username may not be longer than 60 characters."
 msgstr "L’identifiant ne doit pas faire plus de 60 caractères."
 
@@ -7738,11 +7814,13 @@ msgstr "Retirer la piste vidéo"
 msgid "Remove poster image"
 msgstr "Retirer l’image de couverture"
 
-#: wp-includes/media-template.php:1209 wp-includes/media-template.php:1223
+#: wp-includes/media-template.php:1209
+#: wp-includes/media-template.php:1223
 msgid "Remove video source"
 msgstr "Retirer la source vidéo"
 
-#: wp-includes/media-template.php:1125 wp-includes/media-template.php:1140
+#: wp-includes/media-template.php:1125
+#: wp-includes/media-template.php:1140
 msgid "Remove audio source"
 msgstr "Retirer la source audio"
 
@@ -8089,12 +8167,14 @@ msgid "Custom Link"
 msgstr "Lien personnalisé"
 
 #. translators: revision date format, see https://secure.php.net/date
-#: wp-includes/post-template.php:1819 wp-includes/post-template.php:1859
+#: wp-includes/post-template.php:1819
+#: wp-includes/post-template.php:1859
 msgctxt "revision date format"
 msgid "F j, Y @ H:i:s"
 msgstr "j F Y à G \\h i \\m\\i\\n"
 
-#: wp-includes/media-template.php:886 wp-includes/class-wp-editor.php:1736
+#: wp-includes/media-template.php:886
+#: wp-includes/class-wp-editor.php:1736
 #: wp-includes/class-wp-customize-nav-menus.php:1193
 msgid "Link Text"
 msgstr "Texte du lien"
@@ -8133,7 +8213,8 @@ msgstr "Prévisualisation en direct"
 msgid "No categories found."
 msgstr "Aucune catégorie trouvée."
 
-#: wp-includes/script-loader.php:898 wp-includes/class-wp-editor.php:1279
+#: wp-includes/script-loader.php:898
+#: wp-includes/class-wp-editor.php:1279
 msgid "Distraction-free writing mode"
 msgstr "Mode d’écriture sans distraction"
 
@@ -8179,7 +8260,8 @@ msgctxt "translations"
 msgid "Available"
 msgstr "Disponible"
 
-#: wp-includes/link-template.php:2610 wp-includes/link-template.php:2667
+#: wp-includes/link-template.php:2610
+#: wp-includes/link-template.php:2667
 #: wp-includes/link-template.php:2712
 msgid "Posts navigation"
 msgstr "Navigation des articles"
@@ -8198,15 +8280,20 @@ msgid "Trash"
 msgstr "Corbeille"
 
 #. translators: %s: trackback/pingback/comment author URL
-#: wp-includes/pluggable.php:1534 wp-includes/pluggable.php:1547
-#: wp-includes/pluggable.php:1562 wp-includes/pluggable.php:1710
-#: wp-includes/pluggable.php:1720 wp-includes/pluggable.php:1732
+#: wp-includes/pluggable.php:1534
+#: wp-includes/pluggable.php:1547
+#: wp-includes/pluggable.php:1562
+#: wp-includes/pluggable.php:1710
+#: wp-includes/pluggable.php:1720
+#: wp-includes/pluggable.php:1732
 msgid "URL: %s"
 msgstr "Adresse web : %s"
 
 #. translators: %s: comment text
-#: wp-includes/pluggable.php:1536 wp-includes/pluggable.php:1549
-#: wp-includes/pluggable.php:1564 wp-includes/pluggable.php:1734
+#: wp-includes/pluggable.php:1536
+#: wp-includes/pluggable.php:1549
+#: wp-includes/pluggable.php:1564
+#: wp-includes/pluggable.php:1734
 msgid "Comment: %s"
 msgstr "Commentaire : %s"
 
@@ -8261,7 +8348,8 @@ msgid "Asides"
 msgstr "En passant"
 
 #. translators: Daily archive title. %s: Date
-#: wp-includes/general-template.php:1573 wp-includes/general-template.php:2226
+#: wp-includes/general-template.php:1573
+#: wp-includes/general-template.php:2226
 msgctxt "daily archives date format"
 msgid "F j, Y"
 msgstr "j F Y"
@@ -8542,7 +8630,8 @@ msgctxt "HTML tag"
 msgid "Address"
 msgstr "Adresse"
 
-#: wp-includes/class-wp-editor.php:1291 wp-includes/js/dist/edit-post.js:1463
+#: wp-includes/class-wp-editor.php:1291
+#: wp-includes/js/dist/edit-post.js:1463
 #: wp-includes/js/dist/edit-post.js:3941
 msgid "Keyboard Shortcuts"
 msgstr "Raccourcis clavier"
@@ -8590,12 +8679,14 @@ msgstr "Année"
 msgid "Genre"
 msgstr "Genre"
 
-#: wp-includes/media-template.php:437 wp-includes/media-template.php:629
+#: wp-includes/media-template.php:437
+#: wp-includes/media-template.php:629
 #: wp-includes/media.php:2273
 msgid "Album"
 msgstr "Album"
 
-#: wp-includes/media-template.php:436 wp-includes/media-template.php:628
+#: wp-includes/media-template.php:436
+#: wp-includes/media-template.php:628
 #: wp-includes/media.php:2272
 msgid "Artist"
 msgstr "Artiste"
@@ -8614,7 +8705,8 @@ msgstr "Attribut &laquo; Title &raquo; de l’image"
 msgid "Advanced Options"
 msgstr "Options avancées"
 
-#: wp-includes/media-template.php:1033 wp-includes/js/dist/components.js:32632
+#: wp-includes/media-template.php:1033
+#: wp-includes/js/dist/components.js:32632
 msgid "Custom Size"
 msgstr "Taille personalisée"
 
@@ -8679,7 +8771,8 @@ msgctxt "Move widget"
 msgid "Move"
 msgstr "Déplacer"
 
-#: wp-includes/media-template.php:1159 wp-includes/media-template.php:1250
+#: wp-includes/media-template.php:1159
+#: wp-includes/media-template.php:1250
 msgctxt "auto preload"
 msgid "Auto"
 msgstr "Automatique"
@@ -8884,7 +8977,8 @@ msgctxt "list style"
 msgid "Square"
 msgstr "Carré"
 
-#: wp-includes/script-loader.php:911 wp-includes/class-wp-editor.php:1080
+#: wp-includes/script-loader.php:911
+#: wp-includes/class-wp-editor.php:1080
 msgid "Bulleted list"
 msgstr "Liste à puces"
 
@@ -8924,7 +9018,8 @@ msgctxt "TinyMCE"
 msgid "Formats"
 msgstr "Formats"
 
-#: wp-includes/media-template.php:1147 wp-includes/media-template.php:1231
+#: wp-includes/media-template.php:1147
+#: wp-includes/media-template.php:1231
 msgid "Add alternate sources for maximum HTML5 playback:"
 msgstr "Ajoutez des sources alternatives pour une lecture optimale avec HTML5 :"
 
@@ -8980,7 +9075,8 @@ msgstr "Glisser-déposer pour réorganiser les pistes."
 msgid "Add Subtitles"
 msgstr "Ajouter des sous-titres"
 
-#: wp-includes/media.php:3733 wp-includes/js/dist/block-library.js:15732
+#: wp-includes/media.php:3733
+#: wp-includes/js/dist/block-library.js:15732
 #: wp-includes/js/dist/block-library.js:15741
 msgid "Select Poster Image"
 msgstr "Choisir une image de couverture"
@@ -9029,7 +9125,8 @@ msgstr "Sélectionner et rogner"
 msgid "Choose Image"
 msgstr "Choisir une image"
 
-#: wp-includes/media.php:3708 wp-includes/media.php:3726
+#: wp-includes/media.php:3708
+#: wp-includes/media.php:3726
 #: wp-includes/media.php:3732
 msgid "Cancel Edit"
 msgstr "Annuler la modification"
@@ -9055,13 +9152,15 @@ msgstr "Il n’y a pas de sous-titres associés."
 msgid "Poster Image"
 msgstr "Image de couverture"
 
-#: wp-includes/media-template.php:1167 wp-includes/media-template.php:1258
+#: wp-includes/media-template.php:1167
+#: wp-includes/media-template.php:1258
 #: wp-includes/js/dist/block-library.js:14450
 #: wp-includes/js/dist/block-library.js:15695
 msgid "Autoplay"
 msgstr "Lecture automatique"
 
-#: wp-includes/media-template.php:1160 wp-includes/media-template.php:1251
+#: wp-includes/media-template.php:1160
+#: wp-includes/media-template.php:1251
 #: wp-includes/js/dist/block-library.js:14471
 #: wp-includes/js/dist/block-library.js:15723
 msgid "Metadata"
@@ -9094,7 +9193,8 @@ msgid "Show Tracklist"
 msgstr "Montrer la liste des pistes"
 
 #: wp-includes/class-wp-customize-section.php:348
-#: wp-includes/class-wp-customize-widgets.php:823 wp-includes/media.php:3643
+#: wp-includes/class-wp-customize-widgets.php:823
+#: wp-includes/media.php:3643
 #: wp-includes/class-wp-customize-panel.php:357
 #: wp-includes/customize/class-wp-customize-themes-panel.php:70
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:72
@@ -9107,7 +9207,8 @@ msgstr "Retour"
 msgid "Image Details"
 msgstr "Détails de l’image"
 
-#: wp-includes/script-loader.php:919 wp-includes/class-wp-editor.php:1276
+#: wp-includes/script-loader.php:919
+#: wp-includes/class-wp-editor.php:1276
 msgid "Insert Read More tag"
 msgstr "Insérer la balise « Lire la suite... »"
 
@@ -9185,7 +9286,8 @@ msgstr "Respecter la casse"
 msgid "Find and replace"
 msgstr "Chercher et remplacer"
 
-#: wp-includes/media-template.php:960 wp-includes/media.php:3641
+#: wp-includes/media-template.php:960
+#: wp-includes/media.php:3641
 msgid "Replace"
 msgstr "Remplacer"
 
@@ -9285,7 +9387,8 @@ msgid "bullet list"
 msgstr "Liste à puces"
 
 #. translators: ARIA label for the Block sidebar tab, not selected.
-#: wp-includes/js/dist/edit-post.js:5039 wp-includes/js/dist/edit-post.js:5050
+#: wp-includes/js/dist/edit-post.js:5039
+#: wp-includes/js/dist/edit-post.js:5050
 msgid "Block"
 msgstr "Bloc"
 
@@ -9293,7 +9396,8 @@ msgstr "Bloc"
 msgid "Increase indent"
 msgstr "Augmenter l’indentation"
 
-#: wp-includes/script-loader.php:913 wp-includes/class-wp-editor.php:1081
+#: wp-includes/script-loader.php:913
+#: wp-includes/class-wp-editor.php:1081
 msgid "Numbered list"
 msgstr "Liste numérotée"
 
@@ -9362,8 +9466,11 @@ msgstr "En-têtes suggérés aléatoires"
 msgid "Randomize uploaded headers"
 msgstr "En-têtes chargés aléatoires"
 
-#: wp-login.php:944 wp-includes/admin-bar.php:174 wp-includes/update.php:158
-#: wp-includes/update.php:382 wp-includes/update.php:567
+#: wp-login.php:944
+#: wp-includes/admin-bar.php:174
+#: wp-includes/update.php:158
+#: wp-includes/update.php:382
+#: wp-includes/update.php:567
 msgid "https://wordpress.org/support/"
 msgstr "https://wpfr.net/support"
 
@@ -9379,7 +9486,8 @@ msgstr "Source alternative"
 msgid "Style"
 msgstr "Style"
 
-#: wp-includes/script-loader.php:910 wp-includes/class-wp-editor.php:1121
+#: wp-includes/script-loader.php:910
+#: wp-includes/class-wp-editor.php:1121
 msgid "Insert image"
 msgstr "Insérer une image"
 
@@ -9516,7 +9624,8 @@ msgstr "Lien vers le fichier média"
 msgid "Embed or Link"
 msgstr "Intégrer ou lier"
 
-#: wp-includes/media-template.php:396 wp-includes/media-template.php:585
+#: wp-includes/media-template.php:396
+#: wp-includes/media-template.php:585
 msgid "Length:"
 msgstr "Durée :"
 
@@ -9582,7 +9691,8 @@ msgstr[1] "%s semaines"
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:278
 #: wp-includes/class-wp-customize-nav-menus.php:199
 #: wp-includes/class-wp-customize-nav-menus.php:352
-#: wp-includes/nav-menu.php:825 wp-includes/nav-menu.php:904
+#: wp-includes/nav-menu.php:825
+#: wp-includes/nav-menu.php:904
 msgid "#%d (no title)"
 msgstr "#%d (pas de titre)"
 
@@ -9592,22 +9702,26 @@ msgstr "JavaScript doit être activé pour utiliser cette fonctionnalité."
 
 #. translators: Date/Time format, see https://secure.php.net/date
 #. translators: localized date and time format, see https://secure.php.net/date
-#: wp-includes/script-loader.php:152 wp-includes/script-loader.php:613
+#: wp-includes/script-loader.php:152
+#: wp-includes/script-loader.php:613
 #: wp-includes/class-wp-locale.php:387
 msgid "F j, Y g:i a"
 msgstr "j F Y G \\h i \\m\\i\\n"
 
 #. translators: Time format, see https://secure.php.net/date
 #. translators: localized time format, see https://secure.php.net/date
-#: wp-includes/script-loader.php:148 wp-includes/script-loader.php:609
+#: wp-includes/script-loader.php:148
+#: wp-includes/script-loader.php:609
 #: wp-includes/class-wp-locale.php:385
 msgid "g:i a"
 msgstr "G \\h i \\m\\i\\n"
 
 #. translators: Date format, see https://secure.php.net/date
 #. translators: localized date format, see https://secure.php.net/date
-#: wp-includes/script-loader.php:151 wp-includes/script-loader.php:611
-#: wp-includes/media.php:3234 wp-includes/class-wp-locale.php:383
+#: wp-includes/script-loader.php:151
+#: wp-includes/script-loader.php:611
+#: wp-includes/media.php:3234
+#: wp-includes/class-wp-locale.php:383
 msgid "F j, Y"
 msgstr "j F Y"
 
@@ -9624,7 +9738,8 @@ msgid "(more&hellip;)"
 msgstr "(suite&hellip;)"
 
 #. translators: 1: month, 2: day, 3: year, 4: hour, 5: minute
-#: wp-includes/script-loader.php:1594 wp-includes/script-loader.php:1626
+#: wp-includes/script-loader.php:1594
+#: wp-includes/script-loader.php:1626
 msgid "%1$s %2$s, %3$s @ %4$s:%5$s"
 msgstr "%2$s %1$s %3$s à %4$s h %5$s min"
 
@@ -9633,7 +9748,8 @@ msgstr "%2$s %1$s %3$s à %4$s h %5$s min"
 msgid "%s <span class=\"says\">says:</span>"
 msgstr "%s <span class=\"says\">dit :</span>"
 
-#: wp-includes/general-template.php:274 wp-includes/general-template.php:282
+#: wp-includes/general-template.php:274
+#: wp-includes/general-template.php:282
 msgctxt "label"
 msgid "Search for:"
 msgstr "Rechercher :"
@@ -9643,7 +9759,8 @@ msgctxt "placeholder"
 msgid "Search &hellip;"
 msgstr "Recherche&hellip;"
 
-#: wp-includes/script-loader.php:1439 wp-includes/functions.php:6094
+#: wp-includes/script-loader.php:1439
+#: wp-includes/functions.php:6094
 msgid "Session expired"
 msgstr "La session a expiré"
 
@@ -9667,7 +9784,8 @@ msgstr "Adresse web de WordPress (URL)"
 #: wp-includes/class-wp-xmlrpc-server.php:2626
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:362
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:641
-#: wp-includes/user.php:1532 wp-includes/user.php:1885
+#: wp-includes/user.php:1532
+#: wp-includes/user.php:1885
 #: wp-includes/user.php:1891
 msgid "Invalid user ID."
 msgstr "Identifiant utilisateur non valide."
@@ -9680,7 +9798,8 @@ msgstr "Décrivez cette image&hellip;"
 msgid "Random Order"
 msgstr "Ordre aléatoire"
 
-#: wp-includes/media.php:3689 wp-includes/js/dist/block-editor.js:16177
+#: wp-includes/media.php:3689
+#: wp-includes/js/dist/block-editor.js:16177
 msgid "Insert from URL"
 msgstr "Insérer à partir d&rsquo;une adresse web"
 
@@ -9697,7 +9816,8 @@ msgstr "Aléatoire"
 msgid "Add to Gallery"
 msgstr "Ajouter à la galerie"
 
-#: wp-includes/media-template.php:1312 wp-includes/media.php:3665
+#: wp-includes/media-template.php:1312
+#: wp-includes/media.php:3665
 msgid "No items found."
 msgstr "Aucun élément trouvé."
 
@@ -9718,7 +9838,8 @@ msgstr "Désélectionner"
 msgid "Sorry, that file cannot be edited."
 msgstr "Désolé, ce fichier ne peut pas être modifié."
 
-#: wp-includes/media-template.php:488 wp-includes/media-template.php:599
+#: wp-includes/media-template.php:488
+#: wp-includes/media-template.php:599
 #: wp-includes/media.php:3677
 msgid "Delete Permanently"
 msgstr "Supprimer définitivement"
@@ -9778,7 +9899,8 @@ msgid "Insert into page"
 msgstr "Insérer dans la page"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:27
-#: wp-includes/post.php:2629 wp-includes/js/dist/editor.js:8836
+#: wp-includes/post.php:2629
+#: wp-includes/js/dist/editor.js:8836
 #: wp-includes/js/dist/block-editor.js:16132
 #: wp-includes/js/dist/block-library.js:14521
 msgid "Audio"
@@ -9796,13 +9918,15 @@ msgstr "Tous les éléments média"
 msgid "&#8592; Return to library"
 msgstr "&#8592; Revenir à la bibliothèque"
 
-#: wp-includes/media-template.php:733 wp-includes/media-template.php:940
+#: wp-includes/media-template.php:733
+#: wp-includes/media-template.php:940
 #: wp-includes/media-template.php:1059
 #: wp-includes/js/dist/block-library.js:10197
 msgid "Custom URL"
 msgstr "Lien personnalisé"
 
-#: wp-includes/media-template.php:802 wp-includes/js/dist/block-library.js:6986
+#: wp-includes/media-template.php:802
+#: wp-includes/js/dist/block-library.js:6986
 #: wp-includes/js/dist/block-library.js:7070
 #: wp-includes/js/dist/block-library.js:8665
 #: wp-includes/js/dist/block-library.js:13277
@@ -9815,7 +9939,8 @@ msgstr "Colonnes"
 msgid "Alt Text"
 msgstr "Texte alternatif"
 
-#: wp-includes/media-template.php:548 wp-includes/media.php:3686
+#: wp-includes/media-template.php:548
+#: wp-includes/media.php:3686
 msgid "Attachment Details"
 msgstr "Détails du fichier joint"
 
@@ -9852,7 +9977,8 @@ msgstr "Déposez vos fichiers n&rsquo;importe où pour les mettre en ligne"
 msgid "Insert gallery"
 msgstr "Insérer la galerie"
 
-#: wp-includes/media-template.php:206 wp-includes/media-template.php:212
+#: wp-includes/media-template.php:206
+#: wp-includes/media-template.php:212
 #: wp-includes/js/dist/components.js:31536
 msgid "Drop files to upload"
 msgstr "Déposez vos fichiers pour les mettre en ligne"
@@ -9861,7 +9987,8 @@ msgstr "Déposez vos fichiers pour les mettre en ligne"
 msgid "Create Gallery"
 msgstr "Créer une galerie"
 
-#: wp-includes/media.php:3657 wp-includes/js/dist/block-editor.js:16168
+#: wp-includes/media.php:3657
+#: wp-includes/js/dist/block-editor.js:16168
 msgid "Media Library"
 msgstr "Bibliothèque de médias"
 
@@ -9869,7 +9996,8 @@ msgstr "Bibliothèque de médias"
 msgid "Already Installed"
 msgstr "Déjà installé"
 
-#: wp-includes/media-template.php:721 wp-includes/media-template.php:793
+#: wp-includes/media-template.php:721
+#: wp-includes/media-template.php:793
 #: wp-includes/media-template.php:1048
 #: wp-includes/js/dist/block-library.js:10191
 #: wp-includes/js/dist/block-library.js:11726
@@ -9877,7 +10005,8 @@ msgstr "Déjà installé"
 msgid "Media File"
 msgstr "Fichier média"
 
-#: wp-includes/media-template.php:728 wp-includes/media-template.php:790
+#: wp-includes/media-template.php:728
+#: wp-includes/media-template.php:790
 #: wp-includes/media-template.php:1051
 #: wp-includes/js/dist/block-library.js:10194
 #: wp-includes/js/dist/block-library.js:11729
@@ -9886,8 +10015,10 @@ msgid "Attachment Page"
 msgstr "Page du fichier joint"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:103
-#: wp-includes/media-template.php:698 wp-includes/media-template.php:780
-#: wp-includes/media-template.php:934 wp-includes/media-template.php:1044
+#: wp-includes/media-template.php:698
+#: wp-includes/media-template.php:780
+#: wp-includes/media-template.php:934
+#: wp-includes/media-template.php:1044
 #: wp-includes/js/dist/block-library.js:10373
 #: wp-includes/js/dist/block-library.js:11736
 #: wp-includes/js/dist/block-library.js:13289
@@ -9967,7 +10098,8 @@ msgstr "%1$s %2$s"
 msgid "Select Color"
 msgstr "Sélectionner une couleur"
 
-#: wp-includes/script-loader.php:1794 wp-includes/media-template.php:659
+#: wp-includes/script-loader.php:1794
+#: wp-includes/media-template.php:659
 #: wp-includes/js/dist/components.js:30145
 msgid "Clear"
 msgstr "Effacer"
@@ -10006,7 +10138,8 @@ msgid "or"
 msgstr "ou"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:96
-#: wp-includes/media-template.php:422 wp-includes/media-template.php:900
+#: wp-includes/media-template.php:422
+#: wp-includes/media-template.php:900
 #: wp-includes/media-template.php:967
 msgid "Alternative Text"
 msgstr "Texte alternatif"
@@ -10044,7 +10177,8 @@ msgstr "Les services XML-RPC sont désactivés sur ce site Web."
 msgid "Incorrect username or password."
 msgstr "Identifiant ou mot de passe incorrect."
 
-#: wp-includes/class-wp-editor.php:191 wp-includes/class-wp-editor.php:1287
+#: wp-includes/class-wp-editor.php:191
+#: wp-includes/class-wp-editor.php:1287
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
 msgstr "Texte"
@@ -10057,7 +10191,8 @@ msgstr "Aller à la barre d&rsquo;outils"
 msgid "Header Text Color"
 msgstr "Couleur du texte d&rsquo;en-tête"
 
-#: wp-includes/script-loader.php:1430 wp-includes/script-loader.php:1640
+#: wp-includes/script-loader.php:1430
+#: wp-includes/script-loader.php:1640
 #: wp-includes/js/dist/editor.js:11240
 msgid "Saved"
 msgstr "Enregistré"
@@ -10173,14 +10308,16 @@ msgid "Allowed Files"
 msgstr "Fichiers autorisés"
 
 #: wp-includes/media-template.php:521
-#: wp-includes/class-wp-customize-widgets.php:779 wp-includes/media.php:3642
+#: wp-includes/class-wp-customize-widgets.php:779
+#: wp-includes/media.php:3642
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:145
 #: wp-includes/customize/class-wp-customize-media-control.php:222
 #: wp-includes/customize/class-wp-customize-media-control.php:232
 #: wp-includes/customize/class-wp-customize-media-control.php:243
 #: wp-includes/customize/class-wp-customize-media-control.php:253
 #: wp-includes/class-wp-customize-manager.php:5108
-#: wp-includes/class-wp-editor.php:1281 wp-includes/js/dist/edit-post.js:1320
+#: wp-includes/class-wp-editor.php:1281
+#: wp-includes/js/dist/edit-post.js:1320
 msgid "Remove"
 msgstr "Retirer"
 
@@ -10188,7 +10325,8 @@ msgstr "Retirer"
 msgid "Upload"
 msgstr "Téléverser"
 
-#: wp-includes/js/dist/editor.js:8648 wp-includes/js/dist/edit-post.js:4629
+#: wp-includes/js/dist/editor.js:8648
+#: wp-includes/js/dist/edit-post.js:4629
 #: wp-includes/js/dist/edit-post.js:5491
 msgid "Featured Image"
 msgstr "Image à la Une"
@@ -10204,7 +10342,8 @@ msgstr "Désolé, la modification du terme a échoué."
 #: wp-includes/class-wp-xmlrpc-server.php:1530
 #: wp-includes/class-wp-xmlrpc-server.php:2133
 #: wp-includes/class-wp-xmlrpc-server.php:2242
-#: wp-includes/class-wp-xmlrpc-server.php:2321 wp-includes/taxonomy.php:2121
+#: wp-includes/class-wp-xmlrpc-server.php:2321
+#: wp-includes/taxonomy.php:2121
 msgid "Invalid term ID."
 msgstr "ID du terme non valide."
 
@@ -10212,7 +10351,8 @@ msgstr "ID du terme non valide."
 #: wp-includes/class-wp-xmlrpc-server.php:2161
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:414
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:537
-#: wp-includes/taxonomy.php:2135 wp-includes/taxonomy.php:2842
+#: wp-includes/taxonomy.php:2135
+#: wp-includes/taxonomy.php:2842
 msgid "Parent term does not exist."
 msgstr "Le terme parent n&rsquo;existe pas."
 
@@ -10229,11 +10369,16 @@ msgstr "Cette taxinomie n&rsquo;est pas hiérarchique."
 #: wp-includes/class-wp-xmlrpc-server.php:2478
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:171
 #: wp-includes/class-wp-tax-query.php:547
-#: wp-includes/class-wp-tax-query.php:554 wp-includes/taxonomy.php:460
-#: wp-includes/taxonomy.php:721 wp-includes/taxonomy.php:821
-#: wp-includes/taxonomy.php:1003 wp-includes/taxonomy.php:1169
-#: wp-includes/taxonomy.php:1968 wp-includes/taxonomy.php:2106
-#: wp-includes/taxonomy.php:2417 wp-includes/taxonomy.php:2592
+#: wp-includes/class-wp-tax-query.php:554
+#: wp-includes/taxonomy.php:460
+#: wp-includes/taxonomy.php:721
+#: wp-includes/taxonomy.php:821
+#: wp-includes/taxonomy.php:1003
+#: wp-includes/taxonomy.php:1169
+#: wp-includes/taxonomy.php:1968
+#: wp-includes/taxonomy.php:2106
+#: wp-includes/taxonomy.php:2417
+#: wp-includes/taxonomy.php:2592
 #: wp-includes/taxonomy.php:2796
 msgid "Invalid taxonomy."
 msgstr "Taxinomie non valide."
@@ -10271,7 +10416,8 @@ msgstr "Note du lien"
 msgid "Link title"
 msgstr "Titre du lien"
 
-#: wp-includes/class-wp-theme.php:345 wp-includes/class-wp-theme.php:357
+#: wp-includes/class-wp-theme.php:345
+#: wp-includes/class-wp-theme.php:357
 msgid "The \"%s\" theme is not a valid parent theme."
 msgstr "Le thème &laquo; %s &raquo; n&rsquo;est un thème parent valide."
 
@@ -10338,13 +10484,15 @@ msgstr "Désolé, vous n’avez pas l’autorisation de modifier cet article."
 msgid "Edit Site"
 msgstr "Modifier le site Web"
 
-#: wp-includes/script-loader.php:1575 wp-includes/script-loader.php:1667
+#: wp-includes/script-loader.php:1575
+#: wp-includes/script-loader.php:1667
 #: wp-includes/post.php:4361
 msgctxt "tag delimiter"
 msgid ","
 msgstr ", "
 
-#: wp-includes/class-wp.php:299 wp-includes/ms-deprecated.php:275
+#: wp-includes/class-wp.php:299
+#: wp-includes/ms-deprecated.php:275
 #: wp-includes/ms-deprecated.php:294
 msgid "Sorry, you are not allowed to view this item."
 msgstr "Désolé, vous n&rsquo;avez pas l&rsquo;autorisation de voir cet article."
@@ -10392,7 +10540,8 @@ msgstr "Créer un fichier de configuration"
 msgid "https://codex.wordpress.org/CSS"
 msgstr "https://codex.wordpress.org/CSS"
 
-#: wp-includes/comment.php:758 wp-includes/comment.php:915
+#: wp-includes/comment.php:758
+#: wp-includes/comment.php:915
 msgid "You are posting comments too quickly. Slow down."
 msgstr "Vous envoyez vos commentaires trop rapidement. Prenez votre temps."
 
@@ -10426,7 +10575,8 @@ msgstr "&#8211;"
 msgid "The menu ID should not be empty."
 msgstr "L&rsquo;identifiant du menu ne devrait pas être vide."
 
-#: wp-includes/admin-bar.php:123 wp-includes/admin-bar.php:142
+#: wp-includes/admin-bar.php:123
+#: wp-includes/admin-bar.php:142
 msgid "About WordPress"
 msgstr "À propos de WordPress"
 
@@ -10450,11 +10600,13 @@ msgstr "<strong>Erreur</strong> : cette adresse de site web est déjà prise."
 msgid "Documentation"
 msgstr "Documentation"
 
-#: wp-includes/general-template.php:4046 wp-includes/formatting.php:3753
+#: wp-includes/general-template.php:4046
+#: wp-includes/formatting.php:3753
 msgid "&hellip;"
 msgstr "&hellip;"
 
-#: wp-includes/wp-db.php:1658 wp-includes/functions.php:4378
+#: wp-includes/wp-db.php:1658
+#: wp-includes/functions.php:4378
 #: wp-includes/ms-load.php:468
 msgid "Error establishing a database connection"
 msgstr "Erreur lors de la connexion à la base de données"
@@ -10464,7 +10616,8 @@ msgid "Database Error"
 msgstr "Erreur de la base de données"
 
 #. translators: %s: number of comments
-#: wp-includes/comment-template.php:903 wp-includes/comment-template.php:917
+#: wp-includes/comment-template.php:903
+#: wp-includes/comment-template.php:917
 msgid "%s Comment"
 msgid_plural "%s Comments"
 msgstr[0] "%s commentaire"
@@ -10532,7 +10685,8 @@ msgstr "Tous les articles"
 msgid "Approve and Reply"
 msgstr "Approuver et répondre"
 
-#: wp-includes/link-template.php:2972 wp-includes/link-template.php:3023
+#: wp-includes/link-template.php:2972
+#: wp-includes/link-template.php:3023
 msgid "Comments navigation"
 msgstr "Navigation des commentaires"
 
@@ -10546,7 +10700,8 @@ msgstr "Gris foncé"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:70
 #: wp-includes/widgets/class-wp-widget-media-video.php:72
-#: wp-includes/media-template.php:1157 wp-includes/media-template.php:1248
+#: wp-includes/media-template.php:1157
+#: wp-includes/media-template.php:1248
 #: wp-includes/js/dist/block-library.js:14458
 #: wp-includes/js/dist/block-library.js:15711
 msgid "Preload"
@@ -10681,7 +10836,8 @@ msgstr "Lien court"
 msgid "Invalid attachment ID."
 msgstr "Identifiant du fichier non valide."
 
-#: wp-includes/registration.php:7 wp-includes/registration-functions.php:7
+#: wp-includes/registration.php:7
+#: wp-includes/registration-functions.php:7
 msgid "This file no longer needs to be included."
 msgstr "Ce fichier n&rsquo;a plus besoin d&rsquo;être inclus."
 
@@ -10740,7 +10896,8 @@ msgstr "Réinitialisation du mot de passe"
 msgid "The passwords do not match."
 msgstr "Vos mots de passe ne correspondent pas."
 
-#: wp-login.php:707 wp-login.php:754
+#: wp-login.php:707
+#: wp-login.php:754
 msgid "Reset Password"
 msgstr "Réinitialiser le mot de passe"
 
@@ -10836,7 +10993,8 @@ msgstr "Catégories"
 msgid "All Tags"
 msgstr "Toutes les étiquettes"
 
-#: wp-includes/taxonomy.php:552 wp-includes/js/dist/editor.js:11856
+#: wp-includes/taxonomy.php:552
+#: wp-includes/js/dist/editor.js:11856
 msgid "Parent Category"
 msgstr "Catégorie parente"
 
@@ -10848,7 +11006,8 @@ msgstr "Catégorie parente :"
 msgid "Update Tag"
 msgstr "Mettre à jour l’étiquette"
 
-#: wp-includes/taxonomy.php:557 wp-includes/js/dist/editor.js:10447
+#: wp-includes/taxonomy.php:557
+#: wp-includes/js/dist/editor.js:10447
 msgid "Add New Tag"
 msgstr "Ajouter une nouvelle étiquette"
 
@@ -10989,7 +11148,8 @@ msgstr "Nouveau site Web %1$s : %2$s"
 msgid "New Site Registration: %s"
 msgstr "Inscription d’un nouveau site : %s"
 
-#: wp-includes/ms-functions.php:680 wp-includes/ms-functions.php:1308
+#: wp-includes/ms-functions.php:680
+#: wp-includes/ms-functions.php:1308
 #: wp-includes/ms-site.php:636
 msgid "Sorry, that site already exists!"
 msgstr "Désolé, ce site Web existe déjà!"
@@ -11006,7 +11166,8 @@ msgstr "L&rsquo;identifiant donné pour cet objet n&rsquo;est pas une entrée de
 msgid "Your email address will not be published."
 msgstr "Votre adresse courriel ne sera pas publiée."
 
-#: wp-includes/class-wp-xmlrpc-server.php:6692 wp-includes/class-http.php:275
+#: wp-includes/class-wp-xmlrpc-server.php:6692
+#: wp-includes/class-http.php:275
 #: wp-includes/class-http.php:493
 msgid "A valid URL was not provided."
 msgstr "L’URL fournie n’est pas valide."
@@ -11198,7 +11359,8 @@ msgstr "Impossible d&rsquo;écrire le fichier %1$s (%2$s)."
 #: wp-includes/class-wp-xmlrpc-server.php:5591
 #: wp-includes/class-wp-xmlrpc-server.php:5664
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:131
-#: wp-includes/post.php:1398 wp-includes/class-wp-customize-nav-menus.php:878
+#: wp-includes/post.php:1398
+#: wp-includes/class-wp-customize-nav-menus.php:878
 msgid "Invalid post type."
 msgstr "Type de contenu non valide."
 
@@ -11248,7 +11410,8 @@ msgstr "L&rsquo;auteur d&rsquo;un commentaire doit inscrire son nom et son adres
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:334
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:709
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:377
-#: wp-includes/post.php:3429 wp-includes/post.php:3992
+#: wp-includes/post.php:3429
+#: wp-includes/post.php:3992
 #: wp-includes/revision.php:302
 msgid "Invalid post ID."
 msgstr "Identifiant de l&rsquo;article non valide."
@@ -11322,7 +11485,8 @@ msgid "%s is your new username"
 msgstr "Votre nouvel identifiant est %s"
 
 #: wp-includes/script-loader.php:2222
-#: wp-includes/class-wp-customize-nav-menus.php:1042 wp-signup.php:617
+#: wp-includes/class-wp-customize-nav-menus.php:1042
+#: wp-signup.php:617
 msgid "Next"
 msgstr "Suivant"
 
@@ -11381,8 +11545,12 @@ msgstr "Votre déconnexion a bien été effectuée."
 msgid "You have logged in successfully."
 msgstr "Votre connexion a bien été établie."
 
-#: wp-login.php:851 wp-login.php:1115 wp-includes/user.php:154
-#: wp-includes/user.php:182 wp-includes/user.php:235 wp-includes/user.php:256
+#: wp-login.php:851
+#: wp-login.php:1115
+#: wp-includes/user.php:154
+#: wp-includes/user.php:182
+#: wp-includes/user.php:235
+#: wp-includes/user.php:256
 msgid "Lost your password?"
 msgstr "Mot de passe oublié?"
 
@@ -11406,10 +11574,14 @@ msgstr "Générer un mot de passe"
 msgid "Lost Password"
 msgstr "Mot de passe oublié"
 
-#: wp-includes/user.php:2313 wp-includes/user.php:2317
-#: wp-includes/user.php:2322 wp-includes/user.php:2348
-#: wp-includes/user.php:2357 wp-includes/user.php:2361
-#: wp-includes/user.php:2378 wp-includes/user.php:3603
+#: wp-includes/user.php:2313
+#: wp-includes/user.php:2317
+#: wp-includes/user.php:2322
+#: wp-includes/user.php:2348
+#: wp-includes/user.php:2357
+#: wp-includes/user.php:2361
+#: wp-includes/user.php:2378
+#: wp-includes/user.php:3603
 #: wp-includes/user.php:3621
 msgid "Invalid key."
 msgstr "Clé non valide."
@@ -11427,11 +11599,13 @@ msgstr "La réinitialisation du mot de passe n&rsquo;est pas autorisée pour cet
 msgid "Powered by WordPress"
 msgstr "Propulsé par WordPress"
 
-#: wp-includes/widgets.php:178 wp-includes/widgets.php:250
+#: wp-includes/widgets.php:178
+#: wp-includes/widgets.php:250
 msgid "Sidebar %d"
 msgstr "Colonne latérale %d"
 
-#: wp-includes/user.php:296 wp-includes/functions.php:6095
+#: wp-includes/user.php:296
+#: wp-includes/functions.php:6095
 msgid "Please log in again."
 msgstr "Veuillez vous reconnecter."
 
@@ -11451,7 +11625,8 @@ msgstr "Impossible d’insérer le terme dans la base de données"
 msgid "Invalid item ID."
 msgstr "L&rsquo;ID du terme est invalide."
 
-#: wp-includes/taxonomy.php:817 wp-includes/taxonomy.php:2809
+#: wp-includes/taxonomy.php:817
+#: wp-includes/taxonomy.php:2809
 #: wp-includes/taxonomy.php:4167
 msgid "Empty Term."
 msgstr "Terme vide."
@@ -11468,7 +11643,8 @@ msgstr "Enregistrement..."
 msgid "Remove From Bulk Edit"
 msgstr "Enlever des modifications groupées"
 
-#: wp-includes/script-loader.php:1664 wp-includes/script-loader.php:1677
+#: wp-includes/script-loader.php:1664
+#: wp-includes/script-loader.php:1677
 msgid "Error while saving the changes."
 msgstr "Erreur lors de la sauvegarde des modifications."
 
@@ -11476,7 +11652,8 @@ msgstr "Erreur lors de la sauvegarde des modifications."
 msgid "Submitted on:"
 msgstr "Envoyé le :"
 
-#: wp-includes/script-loader.php:1605 wp-includes/js/dist/editor.js:9877
+#: wp-includes/script-loader.php:1605
+#: wp-includes/js/dist/editor.js:9877
 msgid "Password Protected"
 msgstr "Protégé par un mot de passe"
 
@@ -11621,7 +11798,8 @@ msgid_plural "Private <span class=\"count\">(%s)</span>"
 msgstr[0] "Privé <span class=\"count\">(%s)</span>"
 msgstr[1] "Privés <span class=\"count\">(%s)</span>"
 
-#: wp-includes/post.php:345 wp-includes/post.php:395
+#: wp-includes/post.php:345
+#: wp-includes/post.php:395
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
 msgstr[0] "En attente de relecture <span class=\"count\">(%s)</span>"
@@ -11651,13 +11829,15 @@ msgstr "Révision"
 
 #. translators: %s: revision date
 #. translators: %s: revision date with author avatar
-#: wp-includes/post-template.php:1823 wp-includes/post-template.php:1880
+#: wp-includes/post-template.php:1823
+#: wp-includes/post-template.php:1880
 msgid "%s [Current Revision]"
 msgstr "%s [Version actuelle]"
 
 #. translators: %s: revision date
 #. translators: %s: revision date with author avatar
-#: wp-includes/post-template.php:1821 wp-includes/post-template.php:1878
+#: wp-includes/post-template.php:1821
+#: wp-includes/post-template.php:1878
 msgid "%s [Autosave]"
 msgstr "%s [Sauvegarde automatique]"
 
@@ -11688,7 +11868,8 @@ msgid "[%s] New User Registration"
 msgstr "[%s] Inscription d’un nouvel utilisateur"
 
 #. translators: %s: user login
-#: wp-login.php:393 wp-includes/pluggable.php:1915
+#: wp-login.php:393
+#: wp-includes/pluggable.php:1915
 #: wp-includes/pluggable.php:1979
 msgid "Username: %s"
 msgstr "Identifiant : %s"
@@ -11713,17 +11894,20 @@ msgid "Trackback excerpt: "
 msgstr "Extrait du rétrolien :"
 
 #. translators: Comment moderation. %s: Comment action URL
-#: wp-includes/pluggable.php:1582 wp-includes/pluggable.php:1750
+#: wp-includes/pluggable.php:1582
+#: wp-includes/pluggable.php:1750
 msgid "Spam it: %s"
 msgstr "Le marquer comme indésirable : %s"
 
 #. translators: Comment moderation. %s: Comment action URL
-#: wp-includes/pluggable.php:1579 wp-includes/pluggable.php:1746
+#: wp-includes/pluggable.php:1579
+#: wp-includes/pluggable.php:1746
 msgid "Delete it: %s"
 msgstr "Le supprimer : %s"
 
 #. translators: Comment moderation. %s: Comment action URL
-#: wp-includes/pluggable.php:1576 wp-includes/pluggable.php:1743
+#: wp-includes/pluggable.php:1576
+#: wp-includes/pluggable.php:1743
 msgid "Trash it: %s"
 msgstr "Le mettre dans la corbeille : %s"
 
@@ -11771,11 +11955,13 @@ msgstr "Impossible de créer l&#8217;utilisateur."
 msgid "Invalid activation key."
 msgstr "Clé d’activation non valide."
 
-#: wp-includes/user.php:1641 wp-includes/ms-functions.php:515
+#: wp-includes/user.php:1641
+#: wp-includes/ms-functions.php:515
 msgid "Sorry, that email address is already used!"
 msgstr "Désolé, cette adresse courriel est déjà utilisée!"
 
-#: wp-includes/user.php:1567 wp-includes/ms-functions.php:510
+#: wp-includes/user.php:1567
+#: wp-includes/ms-functions.php:510
 msgid "Sorry, that username already exists!"
 msgstr "Désolé, cet identifiant existe déjà!"
 
@@ -11823,7 +12009,8 @@ msgstr "Commentaires plus récents &raquo;"
 msgid "Last Post"
 msgstr "Dernier article"
 
-#: wp-includes/link-template.php:1880 wp-includes/link-template.php:2130
+#: wp-includes/link-template.php:1880
+#: wp-includes/link-template.php:2130
 msgid "Previous Post"
 msgstr "Article précédent"
 
@@ -11844,7 +12031,8 @@ msgstr "Remplir l’écran"
 msgid "Remove link"
 msgstr "Retirer le lien"
 
-#: wp-includes/script-loader.php:903 wp-includes/class-wp-editor.php:1155
+#: wp-includes/script-loader.php:903
+#: wp-includes/class-wp-editor.php:1155
 msgid "Insert link"
 msgstr "Insérer un lien"
 
@@ -11856,7 +12044,8 @@ msgstr "Vérifier l&rsquo;orthographe"
 msgid "Select all"
 msgstr "Tout sélectionner"
 
-#: wp-includes/script-loader.php:1433 wp-includes/class-wp-editor.php:1305
+#: wp-includes/script-loader.php:1433
+#: wp-includes/class-wp-editor.php:1305
 msgid "Action"
 msgstr "Action"
 
@@ -11898,7 +12087,8 @@ msgstr "En haut à gauche"
 msgid "Mute"
 msgstr "Muet"
 
-#: wp-includes/script-loader.php:1203 wp-includes/class-wp-editor.php:1146
+#: wp-includes/script-loader.php:1203
+#: wp-includes/class-wp-editor.php:1146
 msgid "Fullscreen"
 msgstr "Plein écran"
 
@@ -11906,13 +12096,15 @@ msgstr "Plein écran"
 msgid "Background"
 msgstr "Arrière-plan"
 
-#: wp-includes/media-template.php:916 wp-includes/media-template.php:984
+#: wp-includes/media-template.php:916
+#: wp-includes/media-template.php:984
 msgid "Align"
 msgstr "Alignement"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:75
 #: wp-includes/widgets/class-wp-widget-media-video.php:78
-#: wp-includes/media-template.php:1172 wp-includes/media-template.php:1263
+#: wp-includes/media-template.php:1172
+#: wp-includes/media-template.php:1263
 #: wp-includes/js/dist/block-library.js:14454
 #: wp-includes/js/dist/block-library.js:15699
 msgid "Loop"
@@ -11926,7 +12118,8 @@ msgstr "Respecter les proportions"
 msgid "List"
 msgstr "Liste"
 
-#: wp-includes/class-wp-editor.php:1112 wp-includes/js/dist/edit-post.js:4611
+#: wp-includes/class-wp-editor.php:1112
+#: wp-includes/js/dist/edit-post.js:4611
 msgid "General"
 msgstr "Général"
 
@@ -12012,19 +12205,22 @@ msgstr "Barrer"
 msgid "Underline"
 msgstr "Souligner"
 
-#: wp-includes/script-loader.php:901 wp-includes/class-wp-editor.php:1055
+#: wp-includes/script-loader.php:901
+#: wp-includes/class-wp-editor.php:1055
 #: wp-includes/js/dist/format-library.js:756
 #: wp-includes/js/dist/format-library.js:777
 msgid "Italic"
 msgstr "Italique"
 
-#: wp-includes/script-loader.php:899 wp-includes/class-wp-editor.php:1054
+#: wp-includes/script-loader.php:899
+#: wp-includes/class-wp-editor.php:1054
 #: wp-includes/js/dist/format-library.js:440
 #: wp-includes/js/dist/format-library.js:461
 msgid "Bold"
 msgstr "Gras"
 
-#: wp-includes/script-loader.php:917 wp-includes/class-wp-editor.php:1056
+#: wp-includes/script-loader.php:917
+#: wp-includes/class-wp-editor.php:1056
 #: wp-includes/js/dist/block-library.js:16910
 #: wp-includes/js/dist/block-library.js:16932
 #: wp-includes/js/dist/format-library.js:486
@@ -12032,7 +12228,8 @@ msgstr "Gras"
 msgid "Code"
 msgstr "Code"
 
-#: wp-includes/script-loader.php:904 wp-includes/class-wp-editor.php:1042
+#: wp-includes/script-loader.php:904
+#: wp-includes/class-wp-editor.php:1042
 msgid "Blockquote"
 msgstr "Bloc de citation"
 
@@ -12073,7 +12270,8 @@ msgstr "Paragraphe"
 msgid "Font Size"
 msgstr "Taille de police"
 
-#: wp-includes/js/dist/editor.js:8879 wp-includes/js/dist/editor.js:10524
+#: wp-includes/js/dist/editor.js:8879
+#: wp-includes/js/dist/editor.js:10524
 #: wp-includes/js/dist/editor.js:10631
 msgid "Suggestion:"
 msgstr "Suggestion :"
@@ -12150,7 +12348,8 @@ msgstr "Insérer une ligne après"
 msgid "Insert row before"
 msgstr "Insérer une ligne avant"
 
-#: wp-includes/script-loader.php:1389 wp-includes/class-wp-editor.php:1150
+#: wp-includes/script-loader.php:1389
+#: wp-includes/class-wp-editor.php:1150
 #: wp-includes/class-wp-editor.php:1726
 msgid "Insert/edit link"
 msgstr "Insérer/modifier un lien"
@@ -12201,7 +12400,8 @@ msgstr "dim"
 #. translators: weekday
 #. translators: one-letter abbreviation of the weekday
 #. translators: three-letter abbreviation of the weekday
-#: wp-includes/class-wp-locale.php:128 wp-includes/class-wp-locale.php:137
+#: wp-includes/class-wp-locale.php:128
+#: wp-includes/class-wp-locale.php:137
 #: wp-includes/class-wp-locale.php:146
 msgid "Saturday"
 msgstr "samedi"
@@ -12209,7 +12409,8 @@ msgstr "samedi"
 #. translators: weekday
 #. translators: one-letter abbreviation of the weekday
 #. translators: three-letter abbreviation of the weekday
-#: wp-includes/class-wp-locale.php:127 wp-includes/class-wp-locale.php:136
+#: wp-includes/class-wp-locale.php:127
+#: wp-includes/class-wp-locale.php:136
 #: wp-includes/class-wp-locale.php:145
 msgid "Friday"
 msgstr "vendredi"
@@ -12217,7 +12418,8 @@ msgstr "vendredi"
 #. translators: weekday
 #. translators: one-letter abbreviation of the weekday
 #. translators: three-letter abbreviation of the weekday
-#: wp-includes/class-wp-locale.php:126 wp-includes/class-wp-locale.php:135
+#: wp-includes/class-wp-locale.php:126
+#: wp-includes/class-wp-locale.php:135
 #: wp-includes/class-wp-locale.php:144
 msgid "Thursday"
 msgstr "jeudi"
@@ -12225,7 +12427,8 @@ msgstr "jeudi"
 #. translators: weekday
 #. translators: one-letter abbreviation of the weekday
 #. translators: three-letter abbreviation of the weekday
-#: wp-includes/class-wp-locale.php:125 wp-includes/class-wp-locale.php:134
+#: wp-includes/class-wp-locale.php:125
+#: wp-includes/class-wp-locale.php:134
 #: wp-includes/class-wp-locale.php:143
 msgid "Wednesday"
 msgstr "mercredi"
@@ -12233,7 +12436,8 @@ msgstr "mercredi"
 #. translators: weekday
 #. translators: one-letter abbreviation of the weekday
 #. translators: three-letter abbreviation of the weekday
-#: wp-includes/class-wp-locale.php:124 wp-includes/class-wp-locale.php:133
+#: wp-includes/class-wp-locale.php:124
+#: wp-includes/class-wp-locale.php:133
 #: wp-includes/class-wp-locale.php:142
 msgid "Tuesday"
 msgstr "mardi"
@@ -12241,101 +12445,116 @@ msgstr "mardi"
 #. translators: weekday
 #. translators: one-letter abbreviation of the weekday
 #. translators: three-letter abbreviation of the weekday
-#: wp-includes/class-wp-locale.php:123 wp-includes/class-wp-locale.php:132
+#: wp-includes/class-wp-locale.php:123
+#: wp-includes/class-wp-locale.php:132
 #: wp-includes/class-wp-locale.php:141
 msgid "Monday"
 msgstr "lundi"
 
 #. translators: weekday
-#: wp-includes/class-wp-locale.php:122 wp-includes/class-wp-locale.php:131
+#: wp-includes/class-wp-locale.php:122
+#: wp-includes/class-wp-locale.php:131
 #: wp-includes/class-wp-locale.php:140
 msgid "Sunday"
 msgstr "dimanche"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:160 wp-includes/class-wp-locale.php:188
+#: wp-includes/class-wp-locale.php:160
+#: wp-includes/class-wp-locale.php:188
 #: wp-includes/js/dist/components.js:30591
 msgid "December"
 msgstr "décembre"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:159 wp-includes/class-wp-locale.php:187
+#: wp-includes/class-wp-locale.php:159
+#: wp-includes/class-wp-locale.php:187
 #: wp-includes/js/dist/components.js:30589
 msgid "November"
 msgstr "novembre"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:158 wp-includes/class-wp-locale.php:186
+#: wp-includes/class-wp-locale.php:158
+#: wp-includes/class-wp-locale.php:186
 #: wp-includes/js/dist/components.js:30587
 msgid "October"
 msgstr "octobre"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:157 wp-includes/class-wp-locale.php:185
+#: wp-includes/class-wp-locale.php:157
+#: wp-includes/class-wp-locale.php:185
 #: wp-includes/js/dist/components.js:30585
 msgid "September"
 msgstr "septembre"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:156 wp-includes/class-wp-locale.php:184
+#: wp-includes/class-wp-locale.php:156
+#: wp-includes/class-wp-locale.php:184
 #: wp-includes/js/dist/components.js:30583
 msgid "August"
 msgstr "août"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:155 wp-includes/class-wp-locale.php:183
+#: wp-includes/class-wp-locale.php:155
+#: wp-includes/class-wp-locale.php:183
 #: wp-includes/js/dist/components.js:30581
 msgid "July"
 msgstr "juillet"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:154 wp-includes/class-wp-locale.php:182
+#: wp-includes/class-wp-locale.php:154
+#: wp-includes/class-wp-locale.php:182
 #: wp-includes/js/dist/components.js:30579
 msgid "June"
 msgstr "juin"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:153 wp-includes/class-wp-locale.php:181
+#: wp-includes/class-wp-locale.php:153
+#: wp-includes/class-wp-locale.php:181
 #: wp-includes/js/dist/components.js:30577
 msgid "May"
 msgstr "mai"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:152 wp-includes/class-wp-locale.php:180
+#: wp-includes/class-wp-locale.php:152
+#: wp-includes/class-wp-locale.php:180
 #: wp-includes/js/dist/components.js:30575
 msgid "April"
 msgstr "avril"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:151 wp-includes/class-wp-locale.php:179
+#: wp-includes/class-wp-locale.php:151
+#: wp-includes/class-wp-locale.php:179
 #: wp-includes/js/dist/components.js:30573
 msgid "March"
 msgstr "mars"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
-#: wp-includes/class-wp-locale.php:150 wp-includes/class-wp-locale.php:178
+#: wp-includes/class-wp-locale.php:150
+#: wp-includes/class-wp-locale.php:178
 #: wp-includes/js/dist/components.js:30571
 msgid "February"
 msgstr "février"
 
 #. translators: month name
-#: wp-includes/class-wp-locale.php:149 wp-includes/class-wp-locale.php:177
+#: wp-includes/class-wp-locale.php:149
+#: wp-includes/class-wp-locale.php:177
 #: wp-includes/js/dist/components.js:30569
 msgid "January"
 msgstr "janvier"
 
-#: wp-includes/class-http.php:1003 wp-includes/class-wp-http-curl.php:244
+#: wp-includes/class-http.php:1003
+#: wp-includes/class-wp-http-curl.php:244
 #: wp-includes/class-wp-http-curl.php:291
 msgid "Too many redirects."
 msgstr "Trop de redirections."
@@ -12387,7 +12606,8 @@ msgid "%1$s %2$s Feed"
 msgstr "%1$s %2$s Flux"
 
 #. translators: Separator between blog name and feed type in feed links
-#: wp-includes/general-template.php:2794 wp-includes/general-template.php:2836
+#: wp-includes/general-template.php:2794
+#: wp-includes/general-template.php:2836
 msgctxt "feed link"
 msgid "&raquo;"
 msgstr "&raquo;"
@@ -12399,11 +12619,13 @@ msgid "%1$s %2$s"
 msgstr "%1$s %2$s"
 
 #. translators: 1: month name, 2: 4-digit year
-#: wp-includes/media.php:3576 wp-includes/general-template.php:1892
+#: wp-includes/media.php:3576
+#: wp-includes/general-template.php:1892
 msgid "%1$s %2$d"
 msgstr "%1$s %2$d"
 
-#: wp-includes/general-template.php:1052 wp-includes/general-template.php:1267
+#: wp-includes/general-template.php:1052
+#: wp-includes/general-template.php:1267
 msgid "Page not found"
 msgstr "Page non trouvée"
 
@@ -12416,12 +12638,16 @@ msgstr "Résultats de recherche %1$s %2$s"
 msgid "Site Admin"
 msgstr "Admin. du site Web"
 
-#: wp-login.php:634 wp-login.php:761 wp-login.php:845 wp-login.php:1107
+#: wp-login.php:634
+#: wp-login.php:761
+#: wp-login.php:845
+#: wp-login.php:1107
 #: wp-includes/general-template.php:595
 msgid "Register"
 msgstr "Inscription"
 
-#: wp-login.php:1087 wp-includes/general-template.php:465
+#: wp-login.php:1087
+#: wp-includes/general-template.php:465
 msgid "Remember Me"
 msgstr "Se souvenir de moi"
 
@@ -12429,7 +12655,10 @@ msgstr "Se souvenir de moi"
 msgid "Log out"
 msgstr "Déconnexion"
 
-#: wp-login.php:631 wp-login.php:699 wp-login.php:758 wp-login.php:849
+#: wp-login.php:631
+#: wp-login.php:699
+#: wp-login.php:758
+#: wp-login.php:849
 #: wp-includes/general-template.php:324
 msgid "Log in"
 msgstr "Connexion"
@@ -12438,7 +12667,8 @@ msgstr "Connexion"
 msgid "Manual Offsets"
 msgstr "Décalages manuels"
 
-#: wp-includes/functions.php:5389 wp-includes/functions.php:5394
+#: wp-includes/functions.php:5389
+#: wp-includes/functions.php:5394
 msgid "UTC"
 msgstr "UTC"
 
@@ -12446,7 +12676,8 @@ msgstr "UTC"
 msgid "Select a city"
 msgstr "Sélectionner une ville"
 
-#: wp-load.php:92 wp-includes/functions.php:3537
+#: wp-load.php:92
+#: wp-includes/functions.php:3537
 msgid "WordPress &rsaquo; Error"
 msgstr "WordPress &raquo; Erreur"
 
@@ -12486,7 +12717,8 @@ msgstr[1] "%s jours"
 #. translators: Time duration in hour or hours.
 #. translators: Time difference between two dates, in hours. %s: Number of
 #. hours
-#: wp-includes/functions.php:377 wp-includes/formatting.php:3634
+#: wp-includes/functions.php:377
+#: wp-includes/formatting.php:3634
 msgid "%s hour"
 msgid_plural "%s hours"
 msgstr[0] "%s heure"
@@ -12506,26 +12738,31 @@ msgid "Comments on: %s"
 msgstr "Commentaires sur : %s"
 
 #. translators: Comment author title. %s: Comment author name
-#: wp-includes/feed-rss2-comments.php:89 wp-includes/feed-atom-comments.php:86
+#: wp-includes/feed-rss2-comments.php:89
+#: wp-includes/feed-atom-comments.php:86
 msgid "By: %s"
 msgstr "Par : %s"
 
 #. translators: Individual comment title. 1: Post title, 2: Comment author name
-#: wp-includes/feed-rss2-comments.php:86 wp-includes/feed-atom-comments.php:83
+#: wp-includes/feed-rss2-comments.php:86
+#: wp-includes/feed-atom-comments.php:83
 msgid "Comment on %1$s by %2$s"
 msgstr "Commentaires sur %1$s par %2$s"
 
 #. translators: Comments feed title. %s: Site name
-#: wp-includes/feed-rss2-comments.php:45 wp-includes/feed-atom-comments.php:40
+#: wp-includes/feed-rss2-comments.php:45
+#: wp-includes/feed-atom-comments.php:40
 msgid "Comments for %s"
 msgstr "Commentaires pour %s"
 
 #. translators: Comments feed title. 1: Site name, 2: Search query
-#: wp-includes/feed-rss2-comments.php:42 wp-includes/feed-atom-comments.php:37
+#: wp-includes/feed-rss2-comments.php:42
+#: wp-includes/feed-atom-comments.php:37
 msgid "Comments for %1$s searching on %2$s"
 msgstr "Commentaires pour %1$s, recherche de %2$s"
 
-#: wp-includes/post-template.php:1607 wp-includes/deprecated.php:1848
+#: wp-includes/post-template.php:1607
+#: wp-includes/deprecated.php:1848
 msgid "Missing Attachment"
 msgstr "Fichier joint manquant"
 
@@ -12686,11 +12923,13 @@ msgstr "Laisser un commentaire"
 msgid "Cancel reply"
 msgstr "Annuler la réponse"
 
-#: wp-includes/comment-template.php:1941 wp-includes/comment-template.php:2336
+#: wp-includes/comment-template.php:1941
+#: wp-includes/comment-template.php:2336
 msgid "Leave a Reply to %s"
 msgstr "Répondre à %s"
 
-#: wp-includes/comment-template.php:1938 wp-includes/comment-template.php:2335
+#: wp-includes/comment-template.php:1938
+#: wp-includes/comment-template.php:2335
 msgid "Leave a Reply"
 msgstr "Laisser un commentaire"
 
@@ -12715,7 +12954,8 @@ msgstr "Connectez-vous pour répondre"
 msgid "Feed for all posts filed under %s"
 msgstr "Flux pour tous les articles classés dans %s"
 
-#: wp-includes/category-template.php:533 wp-includes/taxonomy.php:563
+#: wp-includes/category-template.php:533
+#: wp-includes/taxonomy.php:563
 msgid "No categories"
 msgstr "Aucune catégorie"
 
@@ -12728,7 +12968,8 @@ msgid "Last updated: %s"
 msgstr "Dernière mise à jour : %s"
 
 #. translators: %s: author's display name
-#: wp-includes/author-template.php:303 wp-includes/author-template.php:477
+#: wp-includes/author-template.php:303
+#: wp-includes/author-template.php:477
 msgid "Posts by %s"
 msgstr "Articles par %s"
 
@@ -12765,8 +13006,10 @@ msgstr "Commentaires (%s)"
 msgid "Tags: "
 msgstr "Étiquettes : "
 
-#: wp-includes/link-template.php:1052 wp-includes/link-template.php:1403
-#: wp-includes/link-template.php:1510 wp-includes/link-template.php:1573
+#: wp-includes/link-template.php:1052
+#: wp-includes/link-template.php:1403
+#: wp-includes/link-template.php:1510
+#: wp-includes/link-template.php:1573
 msgid "Edit This"
 msgstr "Modifier"
 
@@ -12787,18 +13030,21 @@ msgstr "par"
 msgid "Comments on %s"
 msgstr "Commentaires sur %s"
 
-#: wp-includes/script-loader.php:1065 wp-includes/script-loader.php:1393
+#: wp-includes/script-loader.php:1065
+#: wp-includes/script-loader.php:1393
 #: wp-includes/script-loader.php:1847
 #: wp-includes/class-wp-customize-nav-menus.php:289
 #: wp-includes/js/dist/components.js:36437
 msgid "No results found."
 msgstr "Aucun résultat."
 
-#: wp-includes/link-template.php:2336 wp-includes/link-template.php:2476
+#: wp-includes/link-template.php:2336
+#: wp-includes/link-template.php:2476
 msgid "Next Page &raquo;"
 msgstr "Page suivante &raquo;"
 
-#: wp-includes/link-template.php:2422 wp-includes/link-template.php:2475
+#: wp-includes/link-template.php:2422
+#: wp-includes/link-template.php:2475
 msgid "&laquo; Previous Page"
 msgstr "&laquo; Page précédente"
 
@@ -12812,8 +13058,10 @@ msgstr "Tous"
 msgid "Sorry, comments are closed for this item."
 msgstr "Les commentaires sont fermés pour cet article."
 
-#: wp-includes/admin-bar.php:942 wp-includes/class-wp-customize-widgets.php:417
-#: wp-includes/functions.php:4325 wp-includes/js/dist/blocks.js:5804
+#: wp-includes/admin-bar.php:942
+#: wp-includes/class-wp-customize-widgets.php:417
+#: wp-includes/functions.php:4325
+#: wp-includes/js/dist/blocks.js:5804
 msgid "Widgets"
 msgstr "Widgets"
 
@@ -12840,7 +13088,8 @@ msgid "Plugin:"
 msgstr "Extension :"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:82
-#: wp-includes/media-template.php:1039 wp-includes/class-wp-editor.php:1222
+#: wp-includes/media-template.php:1039
+#: wp-includes/class-wp-editor.php:1222
 #: wp-includes/js/dist/block-library.js:10348
 msgid "Height"
 msgstr "Hauteur"
@@ -12857,7 +13106,8 @@ msgstr "Format de date"
 msgid "Allow people to post comments on new articles"
 msgstr "Autoriser les lecteurs à publier des commentaires sur les nouveaux articles"
 
-#: wp-login.php:831 wp-includes/comment-template.php:2281
+#: wp-login.php:831
+#: wp-includes/comment-template.php:2281
 msgid "Email"
 msgstr "Adresse courriel"
 
@@ -12870,7 +13120,8 @@ msgstr "Titre du site Web"
 msgid "First Post"
 msgstr "Premier article"
 
-#: wp-includes/admin-bar.php:551 wp-includes/js/dist/edit-post.js:3414
+#: wp-includes/admin-bar.php:551
+#: wp-includes/js/dist/edit-post.js:3414
 msgid "Settings"
 msgstr "Réglages"
 
@@ -12884,7 +13135,8 @@ msgid "My Sites"
 msgstr "Mes sites"
 
 #. translators: %s: themes panel title in the Customizer
-#: wp-includes/admin-bar.php:529 wp-includes/admin-bar.php:927
+#: wp-includes/admin-bar.php:529
+#: wp-includes/admin-bar.php:927
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
 msgid "Themes"
 msgstr "Thèmes"
@@ -12905,7 +13157,9 @@ msgstr "Oui"
 msgid "Edit Category"
 msgstr "Modifier la catégorie"
 
-#: wp-login.php:1056 wp-login.php:1089 wp-includes/general-template.php:466
+#: wp-login.php:1056
+#: wp-login.php:1089
+#: wp-includes/general-template.php:466
 msgid "Log In"
 msgstr "Se connecter"
 
@@ -12913,8 +13167,10 @@ msgstr "Se connecter"
 msgid "Strength indicator"
 msgstr "Indicateur de robustesse"
 
-#: wp-includes/admin-bar.php:390 wp-includes/admin-bar.php:497
-#: wp-includes/admin-bar.php:596 wp-includes/deprecated.php:2804
+#: wp-includes/admin-bar.php:390
+#: wp-includes/admin-bar.php:497
+#: wp-includes/admin-bar.php:596
+#: wp-includes/deprecated.php:2804
 #: wp-includes/deprecated.php:2806
 msgid "Dashboard"
 msgstr "Tableau de bord"
@@ -12928,7 +13184,8 @@ msgid "<strong>ERROR</strong>: Please enter a username."
 msgstr "<strong>ERREUR</strong> : veuillez renseigner l&rsquo;identifiant."
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:76
-#: wp-includes/media-template.php:1039 wp-includes/class-wp-editor.php:1223
+#: wp-includes/media-template.php:1039
+#: wp-includes/class-wp-editor.php:1223
 #: wp-includes/js/dist/block-library.js:10341
 #: wp-includes/js/dist/format-library.js:706
 msgid "Width"
@@ -12973,9 +13230,11 @@ msgstr "Marron"
 msgid "Help"
 msgstr "Aide"
 
-#: wp-includes/script-loader.php:1392 wp-includes/script-loader.php:1666
+#: wp-includes/script-loader.php:1392
+#: wp-includes/script-loader.php:1666
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:97
-#: wp-includes/blocks/latest-comments.php:31 wp-includes/media.php:3265
+#: wp-includes/blocks/latest-comments.php:31
+#: wp-includes/media.php:3265
 #: wp-includes/js/dist/editor.js:10847
 #: wp-includes/js/dist/block-editor.js:16535
 #: wp-includes/js/dist/edit-post.js:4995
@@ -12994,30 +13253,37 @@ msgstr "Modifier un média"
 msgid "New Page"
 msgstr "Nouvelle page"
 
-#: wp-includes/media.php:3638 wp-includes/js/dist/edit-post.js:1018
+#: wp-includes/media.php:3638
+#: wp-includes/js/dist/edit-post.js:1018
 msgid "Select"
 msgstr "Sélectionner"
 
-#: wp-includes/script-loader.php:1104 wp-includes/script-loader.php:1208
-#: wp-includes/script-loader.php:1432 wp-includes/script-loader.php:2218
+#: wp-includes/script-loader.php:1104
+#: wp-includes/script-loader.php:1208
+#: wp-includes/script-loader.php:1432
+#: wp-includes/script-loader.php:2218
 #: wp-includes/class-wp-customize-manager.php:5600
-#: wp-includes/class-wp-editor.php:1077 wp-includes/class-wp-editor.php:1727
+#: wp-includes/class-wp-editor.php:1077
+#: wp-includes/class-wp-editor.php:1727
 #: wp-includes/js/dist/components.js:30790
 #: wp-includes/js/dist/block-editor.js:16629
-#: wp-includes/js/dist/edit-post.js:3942 wp-includes/js/dist/edit-post.js:4216
+#: wp-includes/js/dist/edit-post.js:3942
+#: wp-includes/js/dist/edit-post.js:4216
 #: wp-includes/js/dist/edit-post.js:4608
 msgid "Close"
 msgstr "Fermer"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:30
 #: wp-includes/widgets/class-wp-widget-pages.php:43
-#: wp-includes/post-template.php:1274 wp-includes/theme-compat/sidebar.php:117
+#: wp-includes/post-template.php:1274
+#: wp-includes/theme-compat/sidebar.php:117
 msgid "Pages"
 msgstr "Pages"
 
 #. translators: %s: comment author email
 #. translators: %s: user email address
-#: wp-includes/pluggable.php:1560 wp-includes/pluggable.php:1730
+#: wp-includes/pluggable.php:1560
+#: wp-includes/pluggable.php:1730
 #: wp-includes/pluggable.php:1917
 msgid "Email: %s"
 msgstr "Adresse courriel : %s"
@@ -13030,7 +13296,8 @@ msgstr "Non classé"
 msgid "View Page"
 msgstr "Voir la page"
 
-#: wp-includes/script-loader.php:959 wp-includes/script-loader.php:1135
+#: wp-includes/script-loader.php:959
+#: wp-includes/script-loader.php:1135
 #: wp-includes/widgets/class-wp-widget-text.php:534
 #: wp-includes/widgets/class-wp-widget-text.php:549
 #: wp-includes/class-wp-customize-manager.php:4200
@@ -13050,8 +13317,10 @@ msgstr "Ajouter"
 msgid "Add or remove tags"
 msgstr "Ajouter ou retirer des étiquettes"
 
-#: wp-includes/script-loader.php:1390 wp-includes/script-loader.php:1599
-#: wp-includes/script-loader.php:1711 wp-includes/media.php:3640
+#: wp-includes/script-loader.php:1390
+#: wp-includes/script-loader.php:1599
+#: wp-includes/script-loader.php:1711
+#: wp-includes/media.php:3640
 #: wp-includes/js/dist/editor.js:9659
 msgid "Update"
 msgstr "Mettre à jour"
@@ -13060,7 +13329,8 @@ msgstr "Mettre à jour"
 msgid "Schedule"
 msgstr "Planifier"
 
-#: wp-includes/script-loader.php:1603 wp-includes/js/dist/editor.js:9869
+#: wp-includes/script-loader.php:1603
+#: wp-includes/js/dist/editor.js:9869
 msgid "Public"
 msgstr "Public"
 
@@ -13068,12 +13338,15 @@ msgstr "Public"
 msgid "Public, Sticky"
 msgstr "Public, mis en avant"
 
-#: wp-includes/script-loader.php:1602 wp-includes/post.php:891
-#: wp-includes/post.php:911 wp-includes/js/dist/editor.js:9873
+#: wp-includes/script-loader.php:1602
+#: wp-includes/post.php:891
+#: wp-includes/post.php:911
+#: wp-includes/js/dist/editor.js:9873
 msgid "Private"
 msgstr "Privé"
 
-#: wp-includes/script-loader.php:1588 wp-includes/class-wp-editor.php:1075
+#: wp-includes/script-loader.php:1588
+#: wp-includes/class-wp-editor.php:1075
 msgid "OK"
 msgstr "OK"
 
@@ -13081,20 +13354,24 @@ msgstr "OK"
 msgid "Privately Published"
 msgstr "Publié en privé"
 
-#: wp-includes/script-loader.php:1600 wp-includes/js/dist/editor.js:11251
+#: wp-includes/script-loader.php:1600
+#: wp-includes/js/dist/editor.js:11251
 msgid "Save as Pending"
 msgstr "Mettre à relire"
 
-#: wp-includes/media-template.php:937 wp-includes/media-template.php:1055
+#: wp-includes/media-template.php:937
+#: wp-includes/media-template.php:1055
 msgid "Image URL"
 msgstr "Adresse web de l&rsquo;image"
 
-#: wp-includes/media.php:4171 wp-includes/class-wp-editor.php:1127
+#: wp-includes/media.php:4171
+#: wp-includes/class-wp-editor.php:1127
 #: wp-includes/js/dist/block-editor.js:16129
 msgid "Media"
 msgstr "Média"
 
-#: wp-includes/media-template.php:366 wp-includes/media-template.php:580
+#: wp-includes/media-template.php:366
+#: wp-includes/media-template.php:580
 #: wp-includes/media.php:3709
 msgid "Edit Image"
 msgstr "Modifier l’image"
@@ -13104,60 +13381,73 @@ msgid "Link URL"
 msgstr "Cible du lien"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:89
-#: wp-includes/media-template.php:447 wp-includes/media-template.php:639
-#: wp-includes/media-template.php:910 wp-includes/media-template.php:977
+#: wp-includes/media-template.php:447
+#: wp-includes/media-template.php:639
+#: wp-includes/media-template.php:910
+#: wp-includes/media-template.php:977
 #: wp-includes/class-wp-editor.php:1224
 msgid "Caption"
 msgstr "Légende"
 
-#: wp-includes/media-template.php:670 wp-includes/class-wp-editor.php:1225
+#: wp-includes/media-template.php:670
+#: wp-includes/class-wp-editor.php:1225
 msgid "Alignment"
 msgstr "Alignement"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:70
-#: wp-includes/media-template.php:743 wp-includes/media-template.php:821
+#: wp-includes/media-template.php:743
+#: wp-includes/media-template.php:821
 #: wp-includes/media-template.php:1004
 msgid "Size"
 msgstr "Taille"
 
-#: wp-includes/media-template.php:757 wp-includes/media-template.php:836
-#: wp-includes/media-template.php:1018 wp-includes/media.php:3307
+#: wp-includes/media-template.php:757
+#: wp-includes/media-template.php:836
+#: wp-includes/media-template.php:1018
+#: wp-includes/media.php:3307
 #: wp-includes/js/dist/block-editor.js:4078
 msgid "Full Size"
 msgstr "Taille originale"
 
-#: wp-includes/media-template.php:755 wp-includes/media-template.php:834
-#: wp-includes/media-template.php:1016 wp-includes/media.php:3305
+#: wp-includes/media-template.php:755
+#: wp-includes/media-template.php:834
+#: wp-includes/media-template.php:1016
+#: wp-includes/media.php:3305
 #: wp-includes/js/dist/block-editor.js:4072
 msgid "Medium"
 msgstr "Moyenne"
 
-#: wp-includes/media-template.php:684 wp-includes/media-template.php:925
+#: wp-includes/media-template.php:684
+#: wp-includes/media-template.php:925
 #: wp-includes/media-template.php:993
 #: wp-includes/customize/class-wp-customize-background-position-control.php:65
 #: wp-includes/class-wp-editor.php:1229
 msgid "Right"
 msgstr "Droite"
 
-#: wp-includes/media-template.php:681 wp-includes/media-template.php:922
+#: wp-includes/media-template.php:681
+#: wp-includes/media-template.php:922
 #: wp-includes/media-template.php:990
 #: wp-includes/customize/class-wp-customize-background-position-control.php:61
 #: wp-includes/class-wp-editor.php:1228
 msgid "Center"
 msgstr "Centre"
 
-#: wp-includes/media-template.php:678 wp-includes/media-template.php:919
+#: wp-includes/media-template.php:678
+#: wp-includes/media-template.php:919
 #: wp-includes/media-template.php:987
 #: wp-includes/customize/class-wp-customize-background-position-control.php:57
 #: wp-includes/class-wp-editor.php:1227
 msgid "Left"
 msgstr "Gauche"
 
-#: wp-includes/media-template.php:376 wp-includes/media-template.php:551
+#: wp-includes/media-template.php:376
+#: wp-includes/media-template.php:551
 msgid "Saved."
 msgstr "Enregistré."
 
-#: wp-includes/media.php:3636 wp-includes/media.php:3658
+#: wp-includes/media.php:3636
+#: wp-includes/media.php:3658
 #: wp-includes/class-wp-editor.php:1288
 msgid "Add Media"
 msgstr "Ajouter un média"
@@ -13176,17 +13466,21 @@ msgstr "La bibliothèque d&rsquo;imagerie GD n&rsquo;est pas installée."
 msgid "File &#8220;%s&#8221; doesn&#8217;t exist?"
 msgstr "Le fichier « %s » n&rsquo;existe pas?"
 
-#: wp-includes/media-template.php:754 wp-includes/media-template.php:833
-#: wp-includes/media-template.php:1015 wp-includes/media.php:3304
+#: wp-includes/media-template.php:754
+#: wp-includes/media-template.php:833
+#: wp-includes/media-template.php:1015
+#: wp-includes/media.php:3304
 #: wp-includes/js/dist/block-editor.js:4069
 msgid "Thumbnail"
 msgstr "Miniature"
 
-#: wp-includes/class-wp-editor.php:1073 wp-includes/js/dist/editor.js:7717
+#: wp-includes/class-wp-editor.php:1073
+#: wp-includes/js/dist/editor.js:7717
 msgid "Redo"
 msgstr "Rétablir"
 
-#: wp-login.php:1076 wp-includes/general-template.php:464
+#: wp-login.php:1076
+#: wp-includes/general-template.php:464
 msgid "Password"
 msgstr "Mot de passe"
 
@@ -13214,7 +13508,8 @@ msgstr "Rétrolien"
 msgid "Pingback"
 msgstr "Ping"
 
-#: wp-includes/script-loader.php:1421 wp-includes/script-loader.php:1601
+#: wp-includes/script-loader.php:1421
+#: wp-includes/script-loader.php:1601
 #: wp-includes/class-wp-customize-manager.php:4729
 #: wp-includes/js/dist/editor.js:11251
 msgid "Save Draft"
@@ -13224,13 +13519,17 @@ msgstr "Enregistrer le brouillon"
 msgid "Content"
 msgstr "Contenu"
 
-#: wp-includes/script-loader.php:1372 wp-includes/script-loader.php:1431
-#: wp-includes/script-loader.php:1589 wp-includes/media.php:3639
-#: wp-includes/class-wp-editor.php:1076 wp-includes/class-wp-editor.php:1773
+#: wp-includes/script-loader.php:1372
+#: wp-includes/script-loader.php:1431
+#: wp-includes/script-loader.php:1589
+#: wp-includes/media.php:3639
+#: wp-includes/class-wp-editor.php:1076
+#: wp-includes/class-wp-editor.php:1773
 msgid "Cancel"
 msgstr "Annuler"
 
-#: wp-includes/admin-bar.php:540 wp-includes/js/dist/edit-post.js:2934
+#: wp-includes/admin-bar.php:540
+#: wp-includes/js/dist/edit-post.js:2934
 msgid "Plugins"
 msgstr "Extensions"
 
@@ -13259,7 +13558,8 @@ msgid "Submit"
 msgstr "Envoyer"
 
 #. translators: Name of a comment's author after being anonymized.
-#: wp-includes/comment.php:3495 wp-includes/class-wp-theme.php:839
+#: wp-includes/comment.php:3495
+#: wp-includes/class-wp-theme.php:839
 #: wp-includes/comment-template.php:31
 msgid "Anonymous"
 msgstr "Anonyme"
@@ -13291,19 +13591,26 @@ msgstr "Ajouter"
 msgid "Edit Tag"
 msgstr "Modifier l’étiquette"
 
-#: wp-includes/script-loader.php:1214 wp-includes/media-template.php:687
-#: wp-includes/media-template.php:714 wp-includes/media-template.php:796
-#: wp-includes/media-template.php:928 wp-includes/media-template.php:943
-#: wp-includes/media-template.php:996 wp-includes/media-template.php:1062
-#: wp-includes/media-template.php:1161 wp-includes/media-template.php:1252
-#: wp-includes/deprecated.php:688 wp-includes/js/dist/block-library.js:10188
+#: wp-includes/script-loader.php:1214
+#: wp-includes/media-template.php:687
+#: wp-includes/media-template.php:714
+#: wp-includes/media-template.php:796
+#: wp-includes/media-template.php:928
+#: wp-includes/media-template.php:943
+#: wp-includes/media-template.php:996
+#: wp-includes/media-template.php:1062
+#: wp-includes/media-template.php:1161
+#: wp-includes/media-template.php:1252
+#: wp-includes/deprecated.php:688
+#: wp-includes/js/dist/block-library.js:10188
 #: wp-includes/js/dist/block-library.js:13040
 #: wp-includes/js/dist/block-library.js:14474
 #: wp-includes/js/dist/block-library.js:15726
 msgid "None"
 msgstr "Aucun"
 
-#: wp-includes/media-template.php:451 wp-includes/media-template.php:643
+#: wp-includes/media-template.php:451
+#: wp-includes/media-template.php:643
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:129
 #: wp-includes/class-wp-editor.php:1106
 msgid "Description"
@@ -13322,13 +13629,15 @@ msgstr "Avancé"
 msgid "Target"
 msgstr "Cible"
 
-#: wp-includes/script-loader.php:1639 wp-includes/class-wp-editor.php:1145
+#: wp-includes/script-loader.php:1639
+#: wp-includes/class-wp-editor.php:1145
 #: wp-includes/js/dist/editor.js:12266
 #: wp-includes/js/dist/block-library.js:12424
 msgid "Save"
 msgstr "Enregistrer"
 
-#: wp-includes/script-loader.php:1391 wp-includes/class-wp-editor.php:1776
+#: wp-includes/script-loader.php:1391
+#: wp-includes/class-wp-editor.php:1776
 msgid "Add Link"
 msgstr "Ajouter un lien"
 
@@ -13352,18 +13661,22 @@ msgstr "Catégories de liens"
 msgid "Revisions"
 msgstr "Révisions"
 
-#: wp-includes/revision.php:36 wp-includes/js/dist/edit-post.js:4632
+#: wp-includes/revision.php:36
+#: wp-includes/js/dist/edit-post.js:4632
 #: wp-includes/js/dist/edit-post.js:5551
 msgid "Excerpt"
 msgstr "Extrait"
 
-#: wp-includes/script-loader.php:1419 wp-includes/script-loader.php:1597
+#: wp-includes/script-loader.php:1419
+#: wp-includes/script-loader.php:1597
 #: wp-includes/class-wp-customize-manager.php:4724
-#: wp-includes/js/dist/editor.js:9664 wp-includes/js/dist/edit-post.js:5157
+#: wp-includes/js/dist/editor.js:9664
+#: wp-includes/js/dist/edit-post.js:5157
 msgid "Publish"
 msgstr "Publier"
 
-#: wp-includes/class-wp-customize-widgets.php:777 wp-includes/media.php:3678
+#: wp-includes/class-wp-customize-widgets.php:777
+#: wp-includes/media.php:3678
 #: wp-includes/class-wp-editor.php:1284
 #: wp-includes/js/dist/block-editor.js:15950
 #: wp-includes/js/dist/block-library.js:17530
@@ -13372,7 +13685,8 @@ msgstr "Publier"
 msgid "Apply"
 msgstr "Appliquer"
 
-#: wp-includes/class-wp-editor.php:1072 wp-includes/js/dist/editor.js:7755
+#: wp-includes/class-wp-editor.php:1072
+#: wp-includes/js/dist/editor.js:7755
 msgid "Undo"
 msgstr "Annuler"
 
@@ -13394,16 +13708,20 @@ msgstr "Non"
 msgid "Are you sure you want to do this?"
 msgstr "Voulez-vous vraiment faire cela?"
 
-#: wp-includes/comment-template.php:1094 wp-includes/comment-template.php:2310
+#: wp-includes/comment-template.php:1094
+#: wp-includes/comment-template.php:2310
 msgctxt "noun"
 msgid "Comment"
 msgstr "Commentaire"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:111
-#: wp-includes/media-template.php:1123 wp-includes/media-template.php:1207
-#: wp-includes/media.php:3635 wp-includes/media.php:4164
+#: wp-includes/media-template.php:1123
+#: wp-includes/media-template.php:1207
+#: wp-includes/media.php:3635
+#: wp-includes/media.php:4164
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:92
-#: wp-includes/class-wp-editor.php:1159 wp-includes/class-wp-editor.php:1732
+#: wp-includes/class-wp-editor.php:1159
+#: wp-includes/class-wp-editor.php:1732
 #: wp-includes/class-wp-customize-nav-menus.php:1189
 #: wp-includes/js/dist/block-editor.js:15943
 #: wp-includes/js/dist/block-editor.js:16499
@@ -13411,16 +13729,19 @@ msgstr "Commentaire"
 msgid "URL"
 msgstr "Adresse web"
 
-#: wp-includes/class-wp-editor.php:1107 wp-includes/theme-compat/sidebar.php:29
+#: wp-includes/class-wp-editor.php:1107
+#: wp-includes/theme-compat/sidebar.php:29
 #: wp-includes/js/dist/editor.js:8426
 msgid "Author"
 msgstr "Auteur"
 
-#: wp-includes/admin-bar.php:313 wp-includes/class-wp-admin-bar.php:449
+#: wp-includes/admin-bar.php:313
+#: wp-includes/class-wp-admin-bar.php:449
 msgid "Log Out"
 msgstr "Se déconnecter"
 
-#: wp-includes/admin-bar.php:369 wp-includes/admin-bar.php:637
+#: wp-includes/admin-bar.php:369
+#: wp-includes/admin-bar.php:637
 #: wp-includes/deprecated.php:2802
 msgid "Visit Site"
 msgstr "Aller sur le site Web"
@@ -13429,47 +13750,59 @@ msgstr "Aller sur le site Web"
 msgid "Y/m/d"
 msgstr "d/m/Y"
 
-#: wp-includes/post.php:889 wp-includes/post.php:910
+#: wp-includes/post.php:889
+#: wp-includes/post.php:910
 msgid "Draft"
 msgstr "Brouillon"
 
-#: wp-includes/post.php:890 wp-includes/js/dist/editor.js:9569
+#: wp-includes/post.php:890
+#: wp-includes/js/dist/editor.js:9569
 msgid "Pending Review"
 msgstr "En attente de relecture"
 
-#: wp-includes/script-loader.php:1420 wp-includes/script-loader.php:1607
-#: wp-includes/post.php:892 wp-includes/post.php:912
+#: wp-includes/script-loader.php:1420
+#: wp-includes/script-loader.php:1607
+#: wp-includes/post.php:892
+#: wp-includes/post.php:912
 #: wp-includes/js/dist/editor.js:10983
 msgid "Published"
 msgstr "Publié"
 
-#: wp-includes/media-template.php:429 wp-includes/media-template.php:621
-#: wp-includes/revision.php:34 wp-includes/class-wp-editor.php:1103
+#: wp-includes/media-template.php:429
+#: wp-includes/media-template.php:621
+#: wp-includes/revision.php:34
+#: wp-includes/class-wp-editor.php:1103
 #: wp-includes/js/dist/editor.js:7465
 msgid "Title"
 msgstr "Titre"
 
-#: wp-includes/post.php:1630 wp-includes/js/dist/block-library.js:18164
+#: wp-includes/post.php:1630
+#: wp-includes/js/dist/block-library.js:18164
 msgid "No posts found."
 msgstr "Aucun article trouvé."
 
-#: wp-activate.php:180 wp-includes/post-template.php:1713
+#: wp-activate.php:180
+#: wp-includes/post-template.php:1713
 msgid "Password:"
 msgstr "Mot de passe :"
 
-#: wp-activate.php:179 wp-signup.php:253
+#: wp-activate.php:179
+#: wp-signup.php:253
 msgid "Username:"
 msgstr "Identifiant :"
 
-#: wp-activate.php:30 wp-activate.php:167
+#: wp-activate.php:30
+#: wp-activate.php:167
 msgid "An error occurred during the activation"
 msgstr "Une erreur est survenue lors de l&rsquo;activation"
 
-#: wp-activate.php:142 wp-activate.php:176
+#: wp-activate.php:142
+#: wp-activate.php:176
 msgid "Your account is now active!"
 msgstr "Votre compte est maintenant activé!"
 
-#: wp-activate.php:133 wp-includes/script-loader.php:1768
+#: wp-activate.php:133
+#: wp-includes/script-loader.php:1768
 #: wp-includes/script-loader.php:1769
 msgid "Activate"
 msgstr "Activer"
@@ -13481,3 +13814,1792 @@ msgstr "Clé d&rsquo;activation :"
 #: wp-activate.php:126
 msgid "Activation Key Required"
 msgstr "Clé d&rsquo;activation requise"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:261
+msgid "Breadcrumb Spacing"
+msgstr "Espacement du fil d’Ariane"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:240
+msgid "Breadcrumb Alignment"
+msgstr "Alignement du fil d’Ariane"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:227
+msgid "Disable on 404 Page?"
+msgstr "Désactiver sur la page 404 ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:213
+msgid "Disable on Singular?"
+msgstr "Désactiver sur les publications seules ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:211
+msgid "All Pages, All Posts, All Attachments"
+msgstr "Toutes les pages, tous les articles, tous les fichiers joints"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:198
+msgid "Disable on Single Post?"
+msgstr "Désactiver sur les articles ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:184
+msgid "Disable on Single Page?"
+msgstr "Désactiver sur les pages ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:170
+msgid "Disable on Archive?"
+msgstr "Désactiver dans les archives ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:156
+msgid "Disable on Search?"
+msgstr "Désactiver dans les résultats de recherche ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:142
+msgid "Disable on Blog / Posts Page?"
+msgstr "Désactiver sur la pages des articles / les articles ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:127
+msgid "Disable on Home Page?"
+msgstr "Désactiver sur la page d’accueil ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:114
+msgid "Breadcrumb Separator"
+msgstr "Séparateur de fil d’Ariane"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:83
+msgid "Before Title"
+msgstr "Avant le titre"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:81
+msgid "Inside Header"
+msgstr "Dans l’en-tête"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:75
+msgid "Breadcrumb Position"
+msgstr "Position du fil d’Ariane"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:95
+msgid "Breadcrumb Source"
+msgstr "Source du fil d’Ariane"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:58
+msgid "Breadcrumb Overview"
+msgstr "Aperçu du fil d’Ariane"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:101
+msgid "Separator Color"
+msgstr "Couleur de séparateur"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:50
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:54
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:54
+msgid "Breadcrumb"
+msgstr "Fil d’Ariane"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:921
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:893
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1322
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:892
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:948
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1318
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:875
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:858
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:841
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:381
+msgid "Week %s"
+msgstr "Semaine %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:379
+msgid "Minute %s"
+msgstr "Minute %s"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:377
+msgid "Comment Page %s"
+msgstr "Page de commentaire %s"
+
+#. Translators: %s is the search query.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:373
+msgid "Search results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:370
+msgid "404 Not Found"
+msgstr "404 - Introuvable"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:368
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:367
+msgid "Browse:"
+msgstr "Parcourir&nbsp;:"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:98
+msgid "Disable on Latest Posts Page?"
+msgstr "Désactiver sur la page des derniers articles ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:83
+msgid "Disable on Blog page?"
+msgstr "Désactiver sur la page des articles ?"
+
+#: inc/core/class-astra-admin-settings.php:294
+msgid "Details »"
+msgstr "Détails »"
+
+#: inc/core/class-astra-admin-settings.php:199
+#: inc/core/class-astra-admin-settings.php:202
+msgid "Get Started"
+msgstr "Commencer"
+
+#: inc/class-astra-mobile-header.php:105
+msgid "Menu Toggle"
+msgstr "Permutateur de Menu"
+
+#: inc/core/class-astra-admin-settings.php:1371
+msgid "Plugin Successfully Deactivated"
+msgstr "Extension désactivée avec succès"
+
+#: inc/core/class-astra-admin-settings.php:389
+#: inc/core/class-astra-admin-settings.php:1253
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/core/class-astra-admin-settings.php:387
+msgid "Deactivating"
+msgstr "Désactivation"
+
+#: inc/core/class-astra-admin-settings.php:386
+msgid "Activating"
+msgstr "Activation"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:410
+msgid "Primary Header Button"
+msgstr "Bouton d’en-tête principal"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:283
+msgid "Footer Widgets Top Border"
+msgstr "Bordure supérieure des widgets de pied de page"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:166
+msgid "Button Style"
+msgstr "Style de bouton"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:164
+msgid "Custom Button"
+msgstr "Bouton personnalisé"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:145
+msgid "Button Link"
+msgstr "Lien du bouton"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:131
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:268
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:419
+msgid "Border Hover Color"
+msgstr "Couleur de bordure au survol"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:253
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:404
+msgid "Border Color"
+msgstr "Couleur de bordure"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:232
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:383
+msgid "Border Size"
+msgstr "Taille de bordure"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:210
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:361
+msgid "Button Padding"
+msgstr "Marge interne de bouton"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:421
+msgid "Transparent Header Button"
+msgstr "Bouton d’en-tête transparent"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:399
+msgid "Header Button"
+msgstr "Bouton d’en-tête"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:163
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:388
+msgid "Theme Button"
+msgstr "Bouton du thème"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:219
+msgid "Content Section"
+msgstr "Section de contenu"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:162
+msgid "Submenu"
+msgstr "Sous-menu"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:151
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:208
+msgid "Link Active / Hover Color"
+msgstr "Lien actif/Couleur au survol"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:89
+msgid "Site Title Hover Color"
+msgstr "Couleur du titre du site au survol"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:54
+msgid "Background Overlay Color"
+msgstr "Couleur d’arrière-plan de superposition"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:179
+msgid "Different Logo for Transparent Header?"
+msgstr "Logo différent pour l’en-tête transparent ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:158
+msgid "Desktop + Mobile"
+msgstr "Ordinateur + Mobile"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:157
+msgid "Mobile"
+msgstr "Mobile"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:156
+msgid "Desktop"
+msgstr "Ordinateur"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:153
+msgid "Enable On"
+msgstr "Activer sur"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:127
+msgid "Disable on Posts?"
+msgstr "Désactiver sur les articles ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:113
+msgid "Disable on Pages?"
+msgstr "Désactiver sur les pages ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:54
+msgid "Enable on Complete Website"
+msgstr "Activé sur tout le site"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:329
+msgid "Enabled"
+msgstr "Activé"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:57
+msgid "Disable on WooCommerce Product Pages?"
+msgstr "Désactiver sur les pages produits WooCommerce ?"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-single-product-layout-configs.php:45
+msgid "Disable Product Navigation"
+msgstr "Désactiver la navigation de produit"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:146
+msgid "Archive Content Width"
+msgstr "Largeur de contenu d’archive"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:121
+msgid "Variable Product Button Text"
+msgstr "Texte du bouton de produit variable"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:103
+msgid "Variable Product Button"
+msgstr "Bouton de produit variable"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:89
+msgid "Cart Button Text"
+msgstr "Texte du bouton panier"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:67
+msgid "Product Structure"
+msgstr "Structure de produit"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:49
+msgid "Archive Columns"
+msgstr "Colonnes d’archives"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:76
+msgid "EDD Single Product"
+msgstr "Produits seuls EDD"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:45
+msgid "Container for Easy Digital Downloads"
+msgstr "Conteneur pour Easy Digital Downloads"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:43
+msgid "Product Archive"
+msgstr "Archive de produit"
+
+#: inc/compatibility/edd/class-astra-edd.php:633
+msgid "EDD Single Product Sidebar"
+msgstr "Colonne latérale de produits seuls EDD"
+
+#: inc/compatibility/edd/class-astra-edd.php:619
+msgid "Easy Digital Downloads Sidebar"
+msgstr "Colonne latérale de Easy Digital Downloads"
+
+#: inc/compatibility/edd/class-astra-edd.php:560
+msgid "View Details"
+msgstr "Voir les détails"
+
+#: inc/core/class-astra-admin-settings.php:953
+#: inc/compatibility/edd/class-astra-edd.php:224
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:57
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:36
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:98
+msgid "900 Italic"
+msgstr "Italique 900"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:96
+msgid "800 Italic"
+msgstr "Italique 800"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:94
+msgid "700 Italic"
+msgstr "Italique 700"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:92
+msgid "600 Italic"
+msgstr "Italique 600"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:90
+msgid "500 Italic"
+msgstr "Italique 500"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:88
+msgid "400 Italic"
+msgstr "Italique 400"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:86
+msgid "300 Italic"
+msgstr "Italique 300"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:84
+msgid "200 Italic"
+msgstr "Italique 200"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:82
+msgid "100 Italic"
+msgstr "Italique 100"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:79
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:223
+msgid "Font Variant"
+msgstr "Variante de police"
+
+#: inc/core/class-astra-admin-settings.php:181
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: inc/core/class-astra-admin-settings.php:180
+msgid "Nope, maybe later"
+msgstr "Non, peut-être plus tard."
+
+#: inc/core/class-astra-admin-settings.php:178
+msgid "Ok, you deserve it"
+msgstr "Ok, vous le méritez"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:317
+msgid "Submenu Item Border Color"
+msgstr "Couleur de bordure des éléments de sous-menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:347
+msgid "Fade"
+msgstr "Fondu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:346
+msgid "Slide Up"
+msgstr "Glisser vers le haut"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:345
+msgid "Slide Down"
+msgstr "Glisser vers le bas"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:342
+msgid "Submenu Container Animation"
+msgstr "Animation du conteneur de sous-menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:294
+msgid "Submenu Border Color"
+msgstr "Couleur de bordure du sous-menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:307
+msgid "Submenu Item Border"
+msgstr "Bordure des éléments de sous-menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:278
+msgid "Submenu Container Border"
+msgstr "Couleur de bordure du conteneur du sous-menu"
+
+#: inc/core/class-astra-admin-settings.php:844
+msgid "Nav Menu"
+msgstr "Menu de navigation"
+
+#. Translators: Author Name.
+#: inc/blog/blog-config.php:139
+msgid "View all posts by %1$s"
+msgstr "Voir toutes les publications de %1$s"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:236
+msgid "Header Bottom Border Color"
+msgstr "Couleur de bordure inférieure de l’en-tête"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:216
+msgid "Header Bottom Border Size"
+msgstr "Taille de bordure inférieure de l’en-tête"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:312
+msgid "Typography Overview"
+msgstr "Aperçu de la typographie"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:263
+msgid "Colors & Background Overview"
+msgstr "Aperçu des couleurs et de l’arrière-plan"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:239
+msgid "Sidebar Overview"
+msgstr "Aperçu de la colonne latérale"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:193
+msgid "Footer Bar Overview"
+msgstr "Aperçu de la barre de pied de page"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:136
+msgid "Primary Header Overview"
+msgstr "Aperçu de l’en-tête principal"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:108
+msgid "Site Identity Overview"
+msgstr "Aperçu de l’identité du site"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:67
+msgid "Container Overview"
+msgstr "Aperçu du conteneur"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:61
+msgid "Site Layout Overview"
+msgstr "Aperçu de la mise en page du site"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:58
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:105
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:133
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:190
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:236
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:260
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:309
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:55
+msgid "Helpful Information"
+msgstr "Informations utiles"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:43
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:207
+msgid "Different Logo for retina devices?"
+msgstr "Logo différent pour les écrans rétina ?"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:394
+msgid "Dropdown Target"
+msgstr "Cible HTML du menu déroulant"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:86
+msgid "Mobile Logo (optional)"
+msgstr "Logo mobile (facultatif)"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:71
+msgid "Different Logo for mobile devices?"
+msgstr "Logo différent pour les appareils mobiles ?"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:529
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:283
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:434
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:515
+msgid "Toggle Button Color"
+msgstr "Couleur du bouton de permutation"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:503
+msgid "Minimal"
+msgstr "Minimal"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:501
+msgid "Fill"
+msgstr "Plein"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:496
+msgid "Toggle Button Style"
+msgstr "Style du bouton de permutation"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:462
+msgid "Take Last item in Menu outside menu"
+msgstr "Sortir le dernier élément du menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:448
+msgid "Hide Last item in Menu on mobile"
+msgstr "Masquer le dernier élément de menu sur mobile"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:100
+msgid "Last Item in Menu"
+msgstr "Dernier élément de menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:50
+msgid "Header Layout"
+msgstr "Mise en page d’en-tête"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:375
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:155
+msgid "Menu Breakpoint"
+msgstr "Point de rupture du menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:360
+#: inc/core/class-astra-admin-settings.php:818
+msgid "Mobile Header"
+msgstr "En-tête mobile"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:180
+msgid "Fixed"
+msgstr "Fixé"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:177
+msgid "Scroll"
+msgstr "Défilement"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:171
+msgid "Background Attachment"
+msgstr "Fichier joint d’arrière-plan"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:161
+msgid "Contain"
+msgstr "Contenir"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:155
+msgid "Background Size"
+msgstr "Taille d’arrière-plan"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:149
+msgid "Center Bottom"
+msgstr "Centré en bas"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:148
+msgid "Center Center"
+msgstr "Centré au centre"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:147
+msgid "Center Top"
+msgstr "Centré en haut"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:146
+msgid "Right Bottom"
+msgstr "Bas droit"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:145
+msgid "Right Center"
+msgstr "Centré à droite"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:144
+msgid "Right Top"
+msgstr "Haut droit"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:143
+msgid "Left Bottom"
+msgstr "Bas gauche"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:142
+msgid "Left Center"
+msgstr "Centré à gauche"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:141
+msgid "Left Top"
+msgstr "Haut gauche"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:134
+msgid "Repeat Vertically"
+msgstr "Répéter verticalement"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:133
+msgid "Repeat Horizontally"
+msgstr "Répéter horizontalement"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:132
+msgid "Repeat All"
+msgstr "Tout répéter"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:131
+msgid "No Repeat"
+msgstr "Aucune répétition"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:118
+msgid "Select File"
+msgstr "Sélectionner un fichier"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:114
+msgid "No File Selected"
+msgstr "Aucun fichier sélectionné"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:72
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:122
+msgid "More Settings"
+msgstr "Plus de réglages"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:71
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:120
+msgid "Less Settings"
+msgstr "Moins de réglages"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:70
+msgid "Differentiate Rows"
+msgstr "Différencier les rangées"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:57
+msgid "Display Serial Number"
+msgstr "Afficher le numéro de série"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:41
+msgid "Course Content Table"
+msgstr "Tableau du contenu du cours"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:570
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:334
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:152
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:166
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:169
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:134
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:269
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:162
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:102
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:44
+msgid "Theme Color"
+msgstr "Couleur du thème"
+
+#: inc/core/class-astra-admin-settings.php:1333
+msgid "Plugin Successfully Activated"
+msgstr "Extension activée avec succès"
+
+#: inc/core/class-astra-admin-settings.php:1312
+#: inc/core/class-astra-admin-settings.php:1350
+msgid "No plugin specified"
+msgstr "Aucune extension spécifiée"
+
+#: inc/core/class-astra-admin-settings.php:1009
+msgid "Links to Customizer Settings:"
+msgstr "Liens vers les réglages de l’outil de personnalisation :"
+
+#: inc/core/class-astra-admin-settings.php:993
+msgid "White Label"
+msgstr "Marque blanche"
+
+#: inc/core/class-astra-admin-settings.php:927
+msgid "Scroll To Top"
+msgstr "Défilement vers le haut"
+
+#: inc/core/class-astra-admin-settings.php:901
+msgid "Site Layouts"
+msgstr "Mises en page du site"
+
+#: inc/core/class-astra-admin-settings.php:885
+msgid "Custom Layouts"
+msgstr "Mises en page personnalisées"
+
+#: inc/core/class-astra-admin-settings.php:870
+msgid "Page Headers"
+msgstr "En-têtes de page"
+
+#: inc/core/class-astra-admin-settings.php:857
+msgid "Sticky Header"
+msgstr "En-tête épinglé"
+
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:48
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:65
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:325
+msgid "Transparent Header"
+msgstr "En-tête transparent"
+
+#: inc/core/class-astra-admin-settings.php:831
+msgid "Header Sections"
+msgstr "Sections d’en-tête"
+
+#: inc/core/class-astra-admin-settings.php:805
+msgid "Blog Pro"
+msgstr "Blogue Pro"
+
+#: inc/core/class-astra-admin-settings.php:792
+msgid "Spacing"
+msgstr "Espacement"
+
+#: inc/core/class-astra-admin-settings.php:773
+#: inc/core/class-astra-admin-settings.php:786
+#: inc/core/class-astra-admin-settings.php:799
+#: inc/core/class-astra-admin-settings.php:812
+#: inc/core/class-astra-admin-settings.php:825
+#: inc/core/class-astra-admin-settings.php:838
+#: inc/core/class-astra-admin-settings.php:851
+#: inc/core/class-astra-admin-settings.php:864
+#: inc/core/class-astra-admin-settings.php:879
+#: inc/core/class-astra-admin-settings.php:895
+#: inc/core/class-astra-admin-settings.php:908
+#: inc/core/class-astra-admin-settings.php:921
+#: inc/core/class-astra-admin-settings.php:934
+#: inc/core/class-astra-admin-settings.php:947
+#: inc/core/class-astra-admin-settings.php:960
+#: inc/core/class-astra-admin-settings.php:974
+#: inc/core/class-astra-admin-settings.php:987
+#: inc/core/class-astra-admin-settings.php:1000
+msgid "Learn More »"
+msgstr "En savoir plus »"
+
+#: inc/core/class-astra-admin-settings.php:755
+msgid "Sidebar Options"
+msgstr "Options de colonne latérale"
+
+#: inc/core/class-astra-admin-settings.php:750
+msgid "Footer Settings"
+msgstr "Réglages de pied de page"
+
+#: inc/core/class-astra-admin-settings.php:745
+msgid "Blog Layouts"
+msgstr "Mises en page du blog"
+
+#: inc/core/class-astra-admin-settings.php:740
+msgid "Header Options"
+msgstr "Options d’en-tête"
+
+#: inc/core/class-astra-admin-settings.php:735
+msgid "Layout Options"
+msgstr "Options de mise en page"
+
+#: inc/core/class-astra-admin-settings.php:730
+msgid "Customize Fonts"
+msgstr "Personnaliser les polices"
+
+#: inc/core/class-astra-admin-settings.php:725
+msgid "Set Colors"
+msgstr "Définir les couleurs"
+
+#: inc/core/class-astra-admin-settings.php:720
+msgid "Upload Logo"
+msgstr "Téléverser un logo"
+
+#: inc/core/class-astra-admin-settings.php:692
+msgid "Submit a Ticket »"
+msgstr "Envoyer un ticket »"
+
+#: inc/core/class-astra-admin-settings.php:678
+msgid "Five Star Support"
+msgstr "Soutien 5 étoiles"
+
+#: inc/core/class-astra-admin-settings.php:648
+msgid "Join Our Facebook Group »"
+msgstr "Rejoignez notre groupe Facebook »"
+
+#: inc/core/class-astra-admin-settings.php:589
+msgid "Knowledge Base"
+msgstr "Base de connaissances"
+
+#: inc/core/class-astra-admin-settings.php:287
+msgid "Install Importer Plugin"
+msgstr "Installer l’extension d’importation"
+
+#: inc/core/class-astra-admin-settings.php:275
+msgid "Activate Importer Plugin"
+msgstr "Activer l’extension d’importation"
+
+#: inc/core/class-astra-admin-settings.php:529
+msgid "Starter Site Templates?"
+msgstr "Modèles de site d’exemple ?"
+
+#: inc/core/class-astra-admin-settings.php:522
+msgid "Import Starter Site"
+msgstr "Importer un site d’exemple"
+
+#: inc/core/class-astra-admin-settings.php:279
+#: inc/core/class-astra-admin-settings.php:291
+#: inc/core/class-astra-admin-settings.php:299
+#: inc/core/class-astra-admin-settings.php:303
+#: inc/core/class-astra-admin-settings.php:385
+msgid "See Library »"
+msgstr "Voir la bibliothèque »"
+
+#: inc/core/class-astra-admin-settings.php:280
+#: inc/core/class-astra-admin-settings.php:383
+msgid "Activating Importer Plugin "
+msgstr "Activation de l’extension d’importation "
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:58
+msgid "Default System Font"
+msgstr "Police système par défaut"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:113
+msgid "Container for Blog Archives"
+msgstr "Conteneur pour les archives de blogue"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:93
+msgid "Container for Blog Posts"
+msgstr "Conteneur pour les articles du blogue"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:75
+msgid "Container for Pages"
+msgstr "Conteneur pour les pages"
+
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:45
+msgid "Container for WooCommerce"
+msgstr "Conteneur pour WooCommerce"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:60
+msgid "Default Container"
+msgstr "Conteneur par défaut"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:48
+msgid "Course Columns"
+msgstr "Colonnes de cours"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:70
+msgid "Membership Columns"
+msgstr "Colonnes des membres"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:139
+msgid "Shop Archive Content Width"
+msgstr "Largeur de contenu des archives de boutique"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:297
+msgid "Leave Review"
+msgstr "Laisser un avis"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:293
+msgid "Review Text is required."
+msgstr "Le texte de l’avis est nécessaire."
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:292
+msgid "Review Text"
+msgstr "Texte de l’avis"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:291
+msgid "Review Title is required."
+msgstr "Le titre de l’avis est nécessaire."
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:290
+msgid "Review Title"
+msgstr "Titre de l’avis"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:288
+msgid "Write a Review"
+msgstr "Écrire un avis"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:282
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:301
+msgid "Thank you for your review!"
+msgstr "Merci pour votre avis !"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:216
+msgid "What Others Have Said"
+msgstr "Ce qu’ils en pensent"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:86
+msgid "Product Image Hover Style"
+msgstr "Style de l’image de produit au survol"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:72
+msgid "Cart Page"
+msgstr "Page du panier d’achats"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:165
+msgid "Inline Logo & Site Title"
+msgstr "Logo en ligne & titre du site"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:207
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:349
+msgid "Blog"
+msgstr "Blogue"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:127
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:340
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:442
+msgid "Primary Header"
+msgstr "En-tête principal"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:133
+msgid "Availability:"
+msgstr "Disponibilité&nbsp;:"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:80
+msgid "Out of stock"
+msgstr "En rupture de stock"
+
+#: inc/compatibility/edd/class-astra-edd.php:558
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:74
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:112
+msgid "Add To Cart"
+msgstr "Ajouter au panier"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:73
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:111
+msgid "Short Description"
+msgstr "Description courte"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:110
+msgid "Ratings"
+msgstr "Évaluations"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:72
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:109
+msgid "Price"
+msgstr "Prix"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:106
+msgid "Shop Product Structure"
+msgstr "Structure de produits de boutique"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:91
+msgid "Swap Images"
+msgstr "Intervertir les images"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:64
+msgid "Products Per Page"
+msgstr "Produits par page"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:49
+msgid "Shop Columns"
+msgstr "Colonnes de boutique"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:45
+#: inc/metabox/class-astra-meta-boxes.php:314
+msgid "Disable Breadcrumb"
+msgstr "Désactiver le fil d’Ariane"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-cart-layout-configs.php:45
+msgid "Enable Upsells"
+msgstr "Activer les montées en gamme"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:53
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:76
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:63
+msgid "Single Product"
+msgstr "Produit seul"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:53
+msgid "Shop"
+msgstr "Boutique"
+
+#: inc/core/class-astra-admin-settings.php:940
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:57
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:37
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:412
+msgid "This sidebar will be used on Single Product page."
+msgstr "Cette colonne latérale sera utilisée sur la page des produits seuls."
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:410
+msgid "Product Sidebar"
+msgstr "Colonne latérale de produit"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:396
+msgid "WooCommerce Sidebar"
+msgstr "Colonne latérale WooCommerce"
+
+#. translators: 1: number of products
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:212
+msgctxt "product categories"
+msgid "<mark class=\"count\">%1$s Product</mark>"
+msgid_plural "<mark class=\"count\">%1$s Products</mark>"
+msgstr[0] "<mark class=\"count\">%1$s produit</mark>"
+msgstr[1] "<mark class=\"count\">%1$s produits</mark>"
+
+#: inc/core/common-functions.php:785
+msgid "This page doesn't seem to exist."
+msgstr "Cette page ne semble pas exister."
+
+#: inc/metabox/class-astra-meta-boxes.php:278
+msgid "Disable Featured Image"
+msgstr "Désactiver l’image mise en avant"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:105
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:240
+msgid "Logo Width"
+msgstr "Largeur du logo"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:58
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:224
+msgid "Retina Logo"
+msgstr "Logo Rétina"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:639
+#: inc/metabox/class-astra-meta-boxes.php:303
+msgid "Disable Footer Bar"
+msgstr "Désactiver la barre du pied de page"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:630
+#: inc/metabox/class-astra-meta-boxes.php:291
+msgid "Disable Footer Widgets"
+msgstr "Désactiver les widgets de pied de page"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:172
+msgid "Paragraph Margin Bottom"
+msgstr "Marge inférieure de paragraphe"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:62
+msgid "Blog Post Structure"
+msgstr "Structure des articles du blogue"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:65
+msgid "Title & Blog Meta"
+msgstr "Titre et métadonnées du blogue"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:45
+msgid "Single Post Structure"
+msgstr "Structure de publication seule"
+
+#: inc/widgets.php:195
+msgid "Footer Widget Area 4"
+msgstr "Zone de widget du pied de page 4"
+
+#: inc/widgets.php:181
+msgid "Footer Widget Area 3"
+msgstr "Zone de widget du pied de page 3"
+
+#: inc/widgets.php:167
+msgid "Footer Widget Area 2"
+msgstr "Zone de widget du pied de page 2"
+
+#: inc/widgets.php:153
+msgid "Footer Widget Area 1"
+msgstr "Zone de widget du pied de page 1"
+
+#: inc/widgets.php:135
+msgid "Footer Bar Section 2"
+msgstr "Section 2 du pied de page"
+
+#: inc/widgets.php:120
+msgid "Footer Bar Section 1"
+msgstr "Section 1 du pied de page"
+
+#: inc/template-parts.php:169
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:328
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:657
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:669
+#: inc/metabox/class-astra-meta-boxes.php:225
+#: inc/metabox/class-astra-meta-boxes.php:241
+msgid "Customizer Setting"
+msgstr "Réglage de l’outil de personnalisation"
+
+#: inc/extras.php:1295
+msgid "Click here to assign a widget for this area."
+msgstr "Cliquez ici pour assigner un widget pour cette zone."
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:44
+msgid "Body & Content"
+msgstr "Corps & contenu"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:229
+msgid "Footer Bar Width"
+msgstr "Largeur de la barre de pied de page"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:188
+msgid "Footer Bar Top Border"
+msgstr "Bordure supérieure de barre du pied de page"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:57
+msgid "Footer Bar Layout 2"
+msgstr "Mise en page 2 de barre du pied de page"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:53
+msgid "Footer Bar Layout 1"
+msgstr "Mise en page 1 de barre du pied de page"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:46
+msgid "Footer Bar Layout"
+msgstr "Mise en page du pied de page"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:65
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:82
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:99
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:119
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:51
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:64
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:673
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:65
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:51
+#: inc/metabox/class-astra-meta-boxes.php:245
+msgid "Full Width / Stretched"
+msgstr "Pleine largeur - Étiré"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:64
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:81
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:118
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:50
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:63
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:672
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:64
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:50
+#: inc/metabox/class-astra-meta-boxes.php:244
+msgid "Full Width / Contained"
+msgstr "Pleine largeur - Espacé"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:252
+msgid "Layout 4"
+msgstr "Mise en page 4"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:248
+msgid "Disable"
+msgstr "Désactiver"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:244
+msgid "Footer Widgets Layout"
+msgstr "Mise en page des widgets du pied de page"
+
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:42
+msgid "Widget Title Color"
+msgstr "Couleur de titre du widget"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:325
+msgid "Base Typography"
+msgstr "Typographie de base"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:276
+msgid "Base Colors"
+msgstr "Couleurs de base"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:183
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:284
+msgid "Footer Bar"
+msgstr "Pied de page"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:75
+#: inc/core/class-theme-strings.php:90
+msgid "Previous %s"
+msgstr "%s précédent"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:73
+#: inc/core/class-theme-strings.php:88
+msgid "Next %s"
+msgstr "%s suivant"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:62
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:167
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:318
+msgid "Button Text Hover Color"
+msgstr "Couleur de texte de bouton au survol"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:50
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:152
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:303
+msgid "Button Text Color"
+msgstr "Couleur de texte de bouton"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:97
+msgid "Ultra-Bold 900"
+msgstr "Ultra Gras 900"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:95
+msgid "Extra-Bold 800"
+msgstr "Extra gras 800"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:93
+msgid "Bold 700"
+msgstr "Gras 700"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:91
+msgid "Semi-Bold 600"
+msgstr "Semi-Gras 600"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:89
+msgid "Medium 500"
+msgstr "Moyen 500"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:87
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:85
+msgid "Light 300"
+msgstr "Léger 300"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:83
+msgid "Extra-Light 200"
+msgstr "Très Léger 200"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:81
+msgid "Thin 100"
+msgstr "Fin 100"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:213
+msgid "Heading 6 (H6)"
+msgstr "Titre 6 (H6)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:181
+msgid "Heading 5 (H5)"
+msgstr "Titre 5 (H5)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:144
+msgid "Heading 4 (H4)"
+msgstr "Titre 4 (H4)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:113
+msgid "Heading 3 (H3)"
+msgstr "Titre 3 (H3)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:79
+msgid "Heading 2 (H2)"
+msgstr "Titre 2 (H2)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:44
+msgid "Heading 1 (H1)"
+msgstr "Titre 1 (H1)"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:79
+msgid "Archive Summary Box Title"
+msgstr "Titre de la boîte de résumé des archives"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:174
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:293
+#: inc/core/class-astra-admin-settings.php:914
+msgid "Footer Widgets"
+msgstr "Widgets de pied de page"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:613
+#: inc/metabox/class-astra-meta-boxes.php:263
+msgid "Disable Primary Header"
+msgstr "Désactiver l’en-tête principal"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:621
+#: inc/metabox/class-astra-meta-boxes.php:271
+msgid "Disable Title"
+msgstr "Désactiver le titre"
+
+#: inc/metabox/class-astra-meta-boxes.php:255
+msgid "Disable Sections"
+msgstr "Désactiver les sections"
+
+#: inc/extras.php:1258
+msgid "Add Widget"
+msgstr "Ajouter un widget"
+
+#: inc/extras.php:566
+msgid "Assign Footer Menu"
+msgstr "Assigner un menu au pied de page"
+
+#: inc/extras.php:388
+msgid "Add Custom HTML"
+msgstr "Ajouter du HTML personnalisé"
+
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:46
+msgid "Single Post / Page Title"
+msgstr "Titre de publication seule"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:151
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:142
+msgid "Line Height"
+msgstr "Hauteur de ligne"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:116
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:260
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:107
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:115
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:259
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:106
+msgid "Uppercase"
+msgstr "Majuscules"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:114
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:258
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:105
+msgid "Capitalize"
+msgstr "Capitaliser"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:256
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:174
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:79
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:103
+msgid "Inherit"
+msgstr "Hériter"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:110
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:252
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:101
+msgid "Text Transform"
+msgstr "Transformation du texte"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:96
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:237
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:87
+msgid "Font Weight"
+msgstr "Graisse de la police"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:44
+msgid "Blog Post Title"
+msgstr "Titre d’article du blogue"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:147
+msgid "Display Site Tagline"
+msgstr "Afficher le slogan du site"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:134
+msgid "Display Site Title"
+msgstr "Afficher le titre du site"
+
+#: inc/customizer/configurations/layout/class-astra-site-layout-configs.php:42
+msgid "Container Width"
+msgstr "Largeur de conteneur"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:144
+msgid "Sidebar Width"
+msgstr "Largeur de colonne latérale"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:80
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:99
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:118
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:62
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:81
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:63
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:659
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:62
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:81
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:62
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:81
+#: inc/metabox/class-astra-meta-boxes.php:227
+msgid "Right Sidebar"
+msgstr "Colonne latérale droite"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:79
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:117
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:61
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:80
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:658
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:61
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:80
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:61
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:80
+#: inc/metabox/class-astra-meta-boxes.php:226
+msgid "Left Sidebar"
+msgstr "Colonne latérale gauche"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:78
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:116
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:60
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:79
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:61
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:660
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:60
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:79
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:60
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:79
+#: inc/metabox/class-astra-meta-boxes.php:228
+msgid "No Sidebar"
+msgstr "Aucune colonne latérale"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:480
+msgid "Stack"
+msgstr "Empiler"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:476
+msgid "Inline"
+msgstr "En ligne"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:486
+msgid "Mobile Header Alignment"
+msgstr "Alignement de l’en-tête sur mobile"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:433
+msgid "Menu Label on Small Devices"
+msgstr "Libellé du menu sur les petits appareils"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:249
+msgid "Header Width"
+msgstr "Largeur de l’en-tête"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:278
+msgid "Bottom Border Color"
+msgstr "Couleur de bordure inférieure"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:259
+msgid "Bottom Border Size"
+msgstr "Taille de bordure inférieure"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:202
+msgid "Custom Menu Text / HTML"
+msgstr "Texte/HTML de menu personnalisé"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:36
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:107
+msgid "Text / HTML"
+msgstr "Texte/HTML"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:75
+msgid "Disable Menu"
+msgstr "Désactiver le menu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:63
+msgid "Logo Right"
+msgstr "Logo à droite"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:59
+msgid "Logo Center"
+msgstr "Logo centré"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:55
+msgid "Logo Left"
+msgstr "Logo à gauche"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:252
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:232
+msgid "Content Width"
+msgstr "Largeur du contenu"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:208
+msgid "Footer Bar Top Border Color"
+msgstr "Couleur de bordure supérieure de barre du pied de page"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:156
+msgid "Section 2 Custom Text"
+msgstr "Texte personnalisé de section 2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:136
+msgid "Section 2"
+msgstr "Section 2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:111
+msgid "Section 1 Custom Text"
+msgstr "Texte personnalisé de section 1"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:37
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:108
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:92
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:116
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:141
+msgid "Widget"
+msgstr "Widget"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:91
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:140
+msgid "Custom Text"
+msgstr "Texte personnalisé"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:87
+msgid "Section 1"
+msgstr "Section 1"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:49
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:330
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:113
+msgid "Blog Post Archives"
+msgstr "Archives d’articles de blogue"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:94
+msgid "Blog Posts"
+msgstr "Articles de blogue"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:63
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:80
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:117
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:49
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:671
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:63
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:49
+#: inc/metabox/class-astra-meta-boxes.php:243
+msgid "Content Boxed"
+msgstr "Encadré - Contenu seulement"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:62
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:79
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:96
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:116
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:48
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:61
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:670
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:62
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:48
+#: inc/metabox/class-astra-meta-boxes.php:242
+msgid "Boxed"
+msgstr "Encadré - Tout"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:666
+#: inc/metabox/class-astra-meta-boxes.php:238
+msgid "Content Layout"
+msgstr "Mise en page du contenu"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:112
+msgid "Blog Content Width"
+msgstr "Largeur du contenu du blogue"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:80
+msgid "Blog Meta"
+msgstr "Métadonnées du blogue"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:47
+msgid "Full Content"
+msgstr "Contenu intégral"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:41
+msgid "Blog Post Content"
+msgstr "Contenu d’article de blogue"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:113
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:130
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:164
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:157
+msgid "Enter Width"
+msgstr "Saisissez la largeur"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:95
+msgid "Single Post Content Width"
+msgstr "Largeur de contenu des publications seules"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:68
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:85
+msgid "Publish Date"
+msgstr "Date de publication"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:63
+msgid "Single Post Meta"
+msgstr "Métadonnées de publication seule"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:83
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:68
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:81
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:89
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:263
+msgid "Link Hover Color"
+msgstr "Couleur de lien au survol"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:130
+msgid "Horizontal Padding"
+msgstr "Marge interne horizontale"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:113
+msgid "Vertical Padding"
+msgstr "Marge interne verticale"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:98
+msgid "Button Radius"
+msgstr "Rayon de bouton"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:86
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:197
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:348
+msgid "Button Background Hover Color"
+msgstr "Couleur d’arrière-plan de bouton au survol"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:74
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:182
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:333
+msgid "Button Background Color"
+msgstr "Couleur d'arrière-plan de bouton"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:432
+msgid "Widget Areas"
+msgstr "Zones de widget"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:378
+msgid "Buttons"
+msgstr "Boutons"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:304
+#: inc/core/class-astra-admin-settings.php:779
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:256
+#: inc/core/class-astra-admin-settings.php:766
+msgid "Colors & Background"
+msgstr "Couleurs & arrière-plan"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:222
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:366
+msgid "Single Post"
+msgstr "Publication seule"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:214
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:357
+msgid "Blog / Archive"
+msgstr "Blogue / Archive"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:53
+msgid "Container"
+msgstr "Conteneur"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:45
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: inc/customizer/class-astra-customizer-sanitizes.php:277
+msgid "Enter valid email address!"
+msgstr "Saisissez une adresse courriel valide !"
+
+#: inc/core/class-theme-strings.php:68
+#: inc/core/class-theme-strings.php:85
+msgid "Previous Page"
+msgstr "Page précédente"
+
+#: inc/core/class-theme-strings.php:67
+#: inc/core/class-theme-strings.php:84
+msgid "Next Page"
+msgstr "Page suivante"
+
+#: inc/core/class-theme-strings.php:63
+msgid "By "
+msgstr "Par "
+
+#: inc/core/class-theme-strings.php:54
+msgid "Email*"
+msgstr "Adresse courriel*"
+
+#: inc/core/class-theme-strings.php:53
+msgid "Name*"
+msgstr "Nom*"
+
+#: inc/core/class-theme-strings.php:52
+msgid "Type here.."
+msgstr "Écrivez ici…"
+
+#: inc/core/class-theme-strings.php:51
+msgid "Post Comment &raquo;"
+msgstr "Publier un commentaire &raquo;"
+
+#: inc/core/class-theme-strings.php:50
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: inc/core/class-theme-strings.php:40
+msgid "Start typing and press enter to search"
+msgstr "Commencez à saisir du texte et appuyez sur Entrée pour rechercher"
+
+#: inc/core/class-astra-theme-options.php:164
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: inc/compatibility/class-astra-beaver-themer.php:363
+msgid "Loop End"
+msgstr "Fin de boucle"
+
+#: inc/compatibility/class-astra-beaver-themer.php:362
+msgid "After Comments"
+msgstr "Après les commentaires"
+
+#: inc/compatibility/class-astra-beaver-themer.php:361
+msgid "Before Comments"
+msgstr "Avant les commentaires"
+
+#: inc/compatibility/class-astra-beaver-themer.php:360
+msgid "After Post"
+msgstr "Après la publication"
+
+#: inc/compatibility/class-astra-beaver-themer.php:359
+msgid "After Post Content"
+msgstr "Après le contenu de la publication"
+
+#: inc/compatibility/class-astra-beaver-themer.php:358
+msgid "Before Post Content"
+msgstr "Avant le contenu de la publication"
+
+#: inc/compatibility/class-astra-beaver-themer.php:357
+msgid "Before Post"
+msgstr "Avant la publication"
+
+#: inc/compatibility/class-astra-beaver-themer.php:356
+msgid "Loop Start"
+msgstr "Début de boucle"
+
+#: inc/compatibility/class-astra-beaver-themer.php:350
+msgid "After Sidebar"
+msgstr "Après la colonne latérale"
+
+#: inc/compatibility/class-astra-beaver-themer.php:349
+msgid "Before Sidebar"
+msgstr "Avant la colonne latérale"
+
+#: inc/compatibility/class-astra-beaver-themer.php:343
+msgid "After Footer"
+msgstr "Après le pied de page"
+
+#: inc/compatibility/class-astra-beaver-themer.php:342
+msgid "Before Footer"
+msgstr "Avant le pied de page"
+
+#: inc/compatibility/class-astra-beaver-themer.php:336
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: inc/compatibility/class-astra-beaver-themer.php:335
+msgid "Before Content"
+msgstr "Avant le contenu"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:82
+#: inc/compatibility/class-astra-beaver-themer.php:329
+msgid "After Header"
+msgstr "Après l’en-tête"
+
+#: inc/compatibility/class-astra-beaver-themer.php:328
+msgid "Before Header"
+msgstr "Avant l’en-tête"
+
+#: inc/compatibility/class-astra-beaver-themer.php:322
+msgid "After Page"
+msgstr "Après la page"
+
+#: inc/compatibility/class-astra-beaver-themer.php:321
+msgid "Before Page"
+msgstr "Avant la page"
+
+#: inc/blog/blog-config.php:174
+#: inc/blog/blog-config.php:436
+msgid "Read More &raquo;"
+msgstr "Lire la suite »"
+
+#: comments.php:48
+#: comments.php:71
+msgid "Comments Navigation"
+msgstr "Navigation de commentaires"
