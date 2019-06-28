@@ -238,7 +238,7 @@ msgid "Showcase Template"
 msgstr "Gabarit de portfolio"
 
 msgid "Tag Archives: %s"
-msgstr "Archives de l’étiquette : %s"
+msgstr "Archives de l’étiquette&nbsp;: %s"
 
 msgid "Meta"
 msgstr "Méta"
@@ -2835,7 +2835,7 @@ msgstr "Publier&nbsp;:"
 
 #: wp-includes/js/dist/editor.js:10725
 msgid "Visibility:"
-msgstr "Visibilité :"
+msgstr "Visibilité&nbsp;:"
 
 #: wp-includes/js/dist/editor.js:10718
 msgid "Double-check your settings before publishing."
@@ -2938,7 +2938,7 @@ msgstr "Changer permalien"
 
 #: wp-includes/js/dist/editor.js:12416
 msgid "Permalink:"
-msgstr "Permalien :"
+msgstr "Permalien&nbsp;:"
 
 #: wp-includes/js/dist/editor.js:12394
 msgid "Copy the permalink"
@@ -3173,7 +3173,7 @@ msgstr "Le bloc « %s » est le seul bloc et ne peut pas être déplacé"
 
 #: wp-includes/js/dist/block-editor.js:12480
 msgid "Block: %s"
-msgstr "Bloc : %s"
+msgstr "Bloc&nbsp;: %s"
 
 #: wp-includes/js/dist/block-editor.js:10006
 msgid "This block contains unexpected or invalid content."
@@ -3751,7 +3751,7 @@ msgstr "[%s] Demande d’effacement complétée"
 #. Site title, 2: Name of the action
 #: wp-includes/user.php:3501
 msgid "[%1$s] Confirm Action: %2$s"
-msgstr "[%1$s] Confirmer l'action : %2$s"
+msgstr "[%1$s] Confirmer l'action&nbsp;: %2$s"
 
 #: wp-includes/user.php:3387
 msgid "Erase Personal Data"
@@ -4687,7 +4687,7 @@ msgstr "Texte arbitraire."
 
 #: wp-includes/widgets/class-wp-widget-custom-html.php:279
 msgid "Some HTML tags are not permitted, including:"
-msgstr "Certaines balises HTML ne sont pas autorisées, dont :"
+msgstr "Certaines balises HTML ne sont pas autorisées, dont&nbsp;:"
 
 #: wp-includes/widgets/class-wp-widget-custom-html.php:53
 #: wp-includes/js/dist/block-library.js:17169
@@ -5042,7 +5042,7 @@ msgstr "Image mise en avant"
 #: wp-includes/media-template.php:275
 #: wp-includes/media.php:3719
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
-msgstr "Dimensions suggérées de l’image : %1$s par %2$s pixels."
+msgstr "Dimensions suggérées de l’image&nbsp;: %1$s par %2$s pixels."
 
 #: wp-includes/comment.php:3223
 msgid "Sorry, comments are not allowed for this item."
@@ -5290,7 +5290,7 @@ msgstr "[%1$s] Activation de %2$s"
 #: wp-includes/widgets.php:1449
 #: wp-includes/widgets.php:1572
 msgid "RSS Error:"
-msgstr "Erreur Rss :"
+msgstr "Erreur RSS&nbsp;:"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:497
 msgid "Cannot create a comment with that type."
@@ -5491,16 +5491,6 @@ msgctxt "Theme starter content"
 msgid "Search"
 msgstr "Rechercher"
 
-#: wp-includes/theme.php:2037
-msgctxt "Theme starter content"
-msgid "Saturday &amp; Sunday: 11:00AM&ndash;3:00PM"
-msgstr "Les samedi et dimanche : 11h00&ndash;15h00"
-
-#: wp-includes/theme.php:2037
-msgctxt "Theme starter content"
-msgid "Monday&mdash;Friday: 9:00AM&ndash;5:00PM"
-msgstr "Du lundi au vendredi : 9h00&ndash;17h00"
-
 #: wp-includes/theme.php:2036
 msgctxt "Theme starter content"
 msgid "Hours"
@@ -5599,7 +5589,7 @@ msgstr "Termes ne supportent pas la suppression. « %s » pour supprimer la va
 
 #: wp-includes/class-wp-customize-manager.php:5314
 msgid "Or, enter a YouTube URL:"
-msgstr "Ou saisissez une URL YouTube :"
+msgstr "Ou saisissez une URL YouTube&nbsp;:"
 
 #: wp-includes/rest-api/class-wp-rest-request.php:656
 msgid "Invalid JSON body passed."
@@ -5681,7 +5671,7 @@ msgstr "Le paramètre %1$s n’est pas de type %2$s."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1223
 #: wp-includes/rest-api.php:1181
 msgid "%1$s is not one of %2$s."
-msgstr "Le paramètre %1$s devrait avoir pour valeur : %2$s."
+msgstr "Le paramètre %1$s devrait avoir pour valeur&nbsp;: %2$s."
 
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:421
 msgid "Meta fields."
@@ -6364,7 +6354,7 @@ msgstr "Aucun widget trouvé."
 #. translators: %d: the number of widgets found
 #: wp-includes/class-wp-customize-widgets.php:791
 msgid "Number of widgets found: %d"
-msgstr "Nombre de widgets trouvés : %d"
+msgstr "Nombre de widgets trouvés&nbsp;: %d"
 
 #. translators: 1: post type name, 2: error message
 #: wp-includes/class-wp-customize-nav-menus.php:975
@@ -6651,7 +6641,7 @@ msgstr "Installation de %s..."
 
 #: wp-includes/script-loader.php:1780
 msgid "Number of plugins found: %d"
-msgstr "Nombre d’extensions trouvées : %d"
+msgstr "Nombre d’extensions trouvées&nbsp;: %d"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2933
 #: wp-includes/class-wp-xmlrpc-server.php:3151
@@ -6695,7 +6685,7 @@ msgstr "Ocre"
 #. translators: %s: Error string for a failed installation
 #: wp-includes/script-loader.php:1739
 msgid "Installation failed: %s"
-msgstr "Échec d’installation : %s"
+msgstr "Échec d’installation&nbsp;: %s"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2891
 #: wp-includes/class-wp-xmlrpc-server.php:3103
@@ -6744,7 +6734,7 @@ msgstr "Activer sur le réseau"
 #. translators: %s: Error string for a failed deletion
 #: wp-includes/script-loader.php:1764
 msgid "Deletion failed: %s"
-msgstr "Échec de suppression : %s"
+msgstr "Échec de suppression&nbsp;: %s"
 
 #: wp-includes/script-loader.php:1762
 msgid "Deleting..."
@@ -6799,7 +6789,7 @@ msgstr "[%s] Mot de passe changé"
 #. translators: %s: user name
 #: wp-includes/pluggable.php:1832
 msgid "Password changed for user: %s"
-msgstr "Mot de passe changé pour l’utilisateur : %s"
+msgstr "Mot de passe changé pour l’utilisateur&nbsp;: %s"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4230
 #: wp-includes/class-wp-xmlrpc-server.php:4281
@@ -6882,11 +6872,11 @@ msgstr "%1$s (%2$s)"
 
 #: wp-includes/user.php:233
 msgid "<strong>ERROR</strong>: Invalid email address."
-msgstr "<strong>ERREUR</strong> : Adresse courriel non valide."
+msgstr "<strong>ERREUR</strong>&nbsp;: Adresse courriel non valide."
 
 #: wp-includes/user.php:214
 msgid "<strong>ERROR</strong>: The email field is empty."
-msgstr "<strong>ERREUR</strong> : Le champ courriel est vide."
+msgstr "<strong>ERREUR</strong>&nbsp;: Le champ courriel est vide."
 
 #: wp-includes/taxonomy.php:467
 msgid "Unregistering a built-in taxonomy is not allowed."
@@ -6986,11 +6976,11 @@ msgstr "<strong>ERREUR</strong> : votre commentaire est trop long."
 
 #: wp-includes/comment.php:1222
 msgid "<strong>ERROR</strong>: your url is too long."
-msgstr "<strong>ERREUR</strong> : votre url est trop longue."
+msgstr "<strong>ERREUR</strong>&nbsp;: votre url est trop longue."
 
 #: wp-includes/comment.php:1214
 msgid "<strong>ERROR</strong>: your name is too long."
-msgstr "<strong>ERREUR</strong> : votre nom est trop long."
+msgstr "<strong>ERREUR</strong>&nbsp;: votre nom est trop long."
 
 #: wp-includes/comment.php:260
 msgctxt "comment status"
@@ -7200,7 +7190,7 @@ msgstr "Lire la suite de %s"
 
 #: wp-signup.php:158
 msgid "Site Language:"
-msgstr "Langue du site Web :"
+msgstr "Langue du site Web&nbsp;:"
 
 #. translators: %s: the message ID
 #: wp-mail.php:257
@@ -7209,7 +7199,7 @@ msgstr "Mission accomplie. Message %s supprimé."
 
 #: wp-mail.php:244
 msgid "Posted title:"
-msgstr "Titre publié :"
+msgstr "Titre publié&nbsp;:"
 
 #: wp-mail.php:243
 msgid "Author:"
@@ -7242,7 +7232,7 @@ msgstr "Un jolinom (nicename) ne devrait pas dépasser les 50 caractères."
 
 #: wp-includes/user.php:152
 msgid "<strong>ERROR</strong>: Invalid username."
-msgstr "<strong>ERREUR</strong> : Nom d’utilisateur non valide."
+msgstr "<strong>ERREUR</strong>&nbsp;: Nom d’utilisateur non valide."
 
 #: wp-includes/taxonomy.php:565
 msgid "Categories list"
@@ -7262,7 +7252,7 @@ msgstr "Navigation de la liste des étiquettes"
 
 #: wp-includes/shortcodes.php:67
 msgid "Invalid shortcode name: Empty name given."
-msgstr "Nom de shortcode invalide : aucun nom donné."
+msgstr "Nom de shortcode invalide&nbsp;: aucun nom donné."
 
 #: wp-includes/script-loader.php:1610
 msgid "Permalink saved"
@@ -7304,11 +7294,11 @@ msgstr "Le support de JSONP est désactivé sur ce site Web."
 #: wp-includes/rest-api/class-wp-rest-request.php:806
 #: wp-includes/rest-api/class-wp-rest-request.php:886
 msgid "Invalid parameter(s): %s"
-msgstr "Paramètre(s) non valide(s) : %s"
+msgstr "Paramètre(s) non valide(s)&nbsp;: %s"
 
 #: wp-includes/rest-api/class-wp-rest-request.php:851
 msgid "Missing parameter(s): %s"
-msgstr "Paramètre(s) manquant(s) : %s"
+msgstr "Paramètre(s) manquant(s)&nbsp;: %s"
 
 #: wp-includes/post.php:1644
 msgid "Pages list"
@@ -7541,7 +7531,7 @@ msgstr "Appuyez sur Retour ou Entrée pour ouvrir cette section"
 #. translators: %s: document title from the preview
 #: wp-includes/class-wp-customize-manager.php:4474
 msgid "Live Preview: %s"
-msgstr "Prévisualisation : %s"
+msgstr "Prévisualisation&nbsp;: %s"
 
 #: wp-includes/class-wp-customize-manager.php:581
 msgid "The requested theme does not exist."
@@ -7561,7 +7551,7 @@ msgstr "Effacer les résultats"
 #. translators: %s: Title of a section with menu items
 #: wp-includes/class-wp-customize-nav-menus.php:1146
 msgid "Toggle section: %s"
-msgstr "Ouvrir/fermer la section : %s"
+msgstr "Ouvrir/fermer la section&nbsp;: %s"
 
 #. translators: If your word count is based on single characters (e.g. East
 #. Asian characters), enter 'characters_excluding_spaces' or
@@ -7577,16 +7567,16 @@ msgstr "words"
 #. translators: 1: Title of a menu item, 2: Type of a menu item
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:75
 msgid "Edit menu item: %1$s (%2$s)"
-msgstr "Modifier l’élément de menu : %1$s (%2$s)"
+msgstr "Modifier l’élément de menu&nbsp;: %1$s (%2$s)"
 
 #. translators: 1: Title of a menu item, 2: Type of a menu item
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:81
 msgid "Remove Menu Item: %1$s (%2$s)"
-msgstr "Enlever l’élément du menu : %1$s (%2$s)"
+msgstr "Enlever l’élément du menu&nbsp;: %1$s (%2$s)"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1182
 msgid "Toggle section: Custom Links"
-msgstr "Ouvrir/fermer la section : Liens personnalisés"
+msgstr "Ouvrir/fermer la section&nbsp;: Liens personnalisés"
 
 #: wp-includes/script-loader.php:1368
 msgid "Your new password has not been saved."
@@ -7685,12 +7675,12 @@ msgstr "Identité du site Web"
 #. translators: 1: title of a menu item, 2: type of a menu item
 #: wp-includes/class-wp-customize-nav-menus.php:1009
 msgid "Add to menu: %1$s (%2$s)"
-msgstr "Ajouter au menu : %1$s (%2$s)"
+msgstr "Ajouter au menu&nbsp;: %1$s (%2$s)"
 
 #: wp-includes/wp-db.php:1460
 #: wp-includes/wp-db.php:1477
 msgid "WordPress database error:"
-msgstr "Erreur de la base de données WordPress :"
+msgstr "Erreur de la base de données WordPress&nbsp;:"
 
 #: wp-includes/pluggable.php:1980
 msgid "To set your password, visit the following address:"
@@ -7828,19 +7818,19 @@ msgstr "Retirer la source audio"
 #: wp-includes/widgets/class-wp-widget-text.php:559
 #: wp-includes/widgets/class-wp-widget-custom-html.php:266
 msgid "Content:"
-msgstr "Contenu :"
+msgstr "Contenu&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1303
 msgid "Ctrl + letter:"
-msgstr "Ctrl + lettre :"
+msgstr "Ctrl + lettre&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1302
 msgid "Cmd + letter:"
-msgstr "Cmd + lettre :"
+msgstr "Cmd + lettre&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1301
 msgid "Shift + Alt + letter:"
-msgstr "Shift + Alt + lettre :"
+msgstr "Shift + Alt + lettre&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1300
 msgid "Ctrl + Alt + letter:"
@@ -7959,7 +7949,7 @@ msgstr "Chargement de plus de résultats... Veuillez patienter."
 
 #: wp-includes/class-wp-customize-nav-menus.php:470
 msgid "Additional items found: %d"
-msgstr "Nombre d’élément(s) supplémentaire(s) trouvé(s) : %d"
+msgstr "Nombre d’élément(s) supplémentaire(s) trouvé(s)&nbsp;: %d"
 
 #: wp-includes/class-wp-customize-nav-menus.php:469
 msgid "Number of items found: %d"
@@ -8024,7 +8014,7 @@ msgstr "Créer le menu"
 #. translators: Nav menu item original title. %s: Original title
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:140
 msgid "Original: %s"
-msgstr "Original : %s"
+msgstr "Original&nbsp;: %s"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:123
 msgid "Link Relationship (XFN)"
@@ -8068,12 +8058,12 @@ msgstr "Ajouter des éléments"
 #. translators: 1: error message, 2: line number
 #: wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr "Erreur XML : %1$s à la ligne %2$s"
+msgstr "Erreur XML&nbsp;: %1$s à la ligne %2$s"
 
 #. translators: %s: site name
 #: wp-includes/admin-bar.php:348
 msgid "User Dashboard: %s"
-msgstr "Tableau de bord de l’utilisateur : %s"
+msgstr "Tableau de bord de l’utilisateur&nbsp;: %s"
 
 #: wp-includes/js/dist/editor.js:8522
 msgid "https://codex.wordpress.org/Excerpt"
@@ -8232,7 +8222,7 @@ msgstr "Zone de texte enrichi. Appuyez sur Alt-Maj-H pour obtenir de l’aide."
 
 #: wp-includes/class-wp-editor.php:1295
 msgid "Focus shortcuts:"
-msgstr "Raccourcis de sélections :"
+msgstr "Raccourcis de sélections&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1297
 msgid "Editor menu (when enabled)"
@@ -8287,7 +8277,7 @@ msgstr "Corbeille"
 #: wp-includes/pluggable.php:1720
 #: wp-includes/pluggable.php:1732
 msgid "URL: %s"
-msgstr "Adresse web : %s"
+msgstr "Adresse web&nbsp;: %s"
 
 #. translators: %s: comment text
 #: wp-includes/pluggable.php:1536
@@ -8295,19 +8285,19 @@ msgstr "Adresse web : %s"
 #: wp-includes/pluggable.php:1564
 #: wp-includes/pluggable.php:1734
 msgid "Comment: %s"
-msgstr "Commentaire : %s"
+msgstr "Commentaire&nbsp;: %s"
 
 #: wp-includes/pluggable.php:1537
 msgid "You can see all trackbacks on this post here:"
-msgstr "Vous pouvez voir tous les rétroliens de cet article ici :"
+msgstr "Vous pouvez voir tous les rétroliens de cet article ici&nbsp;:"
 
 #: wp-includes/pluggable.php:1550
 msgid "You can see all pingbacks on this post here:"
-msgstr "Vous pouvez voir tous les pings de cet article ici :"
+msgstr "Vous pouvez voir tous les pings de cet article ici&nbsp;:"
 
 #: wp-includes/pluggable.php:1565
 msgid "You can see all comments on this post here:"
-msgstr "Vous pouvez lire tous les commentaires de cet article ici :"
+msgstr "Vous pouvez lire tous les commentaires de cet article ici&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1189
 msgid "Add to Dictionary"
@@ -8335,12 +8325,12 @@ msgstr "Répondre à %s"
 #. translators: Category archive title. %s: Category name
 #: wp-includes/general-template.php:1558
 msgid "Category: %s"
-msgstr "Catégorie : %s"
+msgstr "Catégorie&nbsp;: %s"
 
 #. translators: Tag archive title. %s: Tag name
 #: wp-includes/general-template.php:1561
 msgid "Tag: %s"
-msgstr "Étiquette : %s"
+msgstr "Étiquette&nbsp;: %s"
 
 #: wp-includes/general-template.php:1576
 msgctxt "post format archive title"
@@ -8398,12 +8388,12 @@ msgstr "Audio"
 #. Current taxonomy term
 #: wp-includes/general-template.php:1600
 msgid "%1$s: %2$s"
-msgstr "%1$s : %2$s"
+msgstr "%1$s&nbsp;: %2$s"
 
 #. translators: Post type archive title. %s: Post type name
 #: wp-includes/general-template.php:1596
 msgid "Archives: %s"
-msgstr "Archives : %s"
+msgstr "Archives&nbsp;: %s"
 
 #: wp-includes/class-wp-editor.php:1280
 msgid "No alignment"
@@ -8495,7 +8485,7 @@ msgstr "Sélection en masse"
 #. $term_template
 #: wp-includes/taxonomy.php:4313
 msgid "%s: %l."
-msgstr "%s : %l."
+msgstr "%s&nbsp;: %l."
 
 #: wp-includes/script-loader.php:1850
 #: wp-includes/class-wp-customize-nav-menus.php:445
@@ -8557,23 +8547,23 @@ msgstr "Débit binaire&nbsp;:"
 
 #: wp-includes/media-template.php:386
 msgid "Dimensions:"
-msgstr "Dimensions :"
+msgstr "Dimensions&nbsp;:"
 
 #: wp-includes/media-template.php:383
 msgid "File size:"
-msgstr "Taille du fichier :"
+msgstr "Taille du fichier&nbsp;:"
 
 #: wp-includes/media-template.php:381
 msgid "Uploaded on:"
-msgstr "Mis en ligne le :"
+msgstr "Mis en ligne le&nbsp;:"
 
 #: wp-includes/media-template.php:380
 msgid "File type:"
-msgstr "Type du fichier :"
+msgstr "Type du fichier&nbsp;:"
 
 #: wp-includes/media-template.php:379
 msgid "File name:"
-msgstr "Nom du fichier :"
+msgstr "Nom du fichier&nbsp;:"
 
 #: wp-includes/media-template.php:321
 msgid "Edit next media item"
@@ -8597,7 +8587,7 @@ msgstr "Vue en liste"
 
 #: wp-includes/media-template.php:267
 msgid "Maximum upload file size: %s."
-msgstr "Taille de fichier maximale pour la mise en ligne : %s."
+msgstr "Taille de fichier maximale pour la mise en ligne&nbsp;: %s."
 
 #: wp-includes/media-template.php:219
 msgid "Close uploader"
@@ -8818,7 +8808,7 @@ msgstr "Insérer"
 #. translators: word count
 #: wp-includes/class-wp-editor.php:1253
 msgid "Words: %s"
-msgstr "Mots : %s"
+msgstr "Mots&nbsp;: %s"
 
 #: wp-includes/class-wp-editor.php:1249
 msgctxt "editor button"
@@ -9021,7 +9011,7 @@ msgstr "Formats"
 #: wp-includes/media-template.php:1147
 #: wp-includes/media-template.php:1231
 msgid "Add alternate sources for maximum HTML5 playback:"
-msgstr "Ajoutez des sources alternatives pour une lecture optimale avec HTML5 :"
+msgstr "Ajoutez des sources alternatives pour une lecture optimale avec HTML5&nbsp;:"
 
 #: wp-includes/wp-db.php:1303
 msgid "The query argument of %s must have a placeholder."
@@ -9314,7 +9304,7 @@ msgstr "Insérer une vidéo"
 
 #: wp-includes/class-wp-editor.php:1131
 msgid "Paste your embed code below:"
-msgstr "Collez votre code d’intégration ci-dessous :"
+msgstr "Collez votre code d’intégration ci-dessous&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1157
 msgid "New window"
@@ -9408,7 +9398,7 @@ msgstr "Aligner à droite"
 
 #: wp-includes/class-wp-customize-widgets.php:705
 msgid "Select an area to move this widget into:"
-msgstr "Sélectionner une zone vers laquelle déplacer ce widget :"
+msgstr "Sélectionner une zone vers laquelle déplacer ce widget&nbsp;:"
 
 #: wp-includes/class-wp-customize-widgets.php:699
 #: wp-includes/class-wp-customize-nav-menus.php:1023
@@ -9601,7 +9591,7 @@ msgstr "Le répertoire du thème &laquo; %s &raquo; n&rsquo;existe pas."
 
 #: wp-includes/functions.php:1384
 msgid "ERROR: This is not a valid feed template."
-msgstr "ERREUR : ce n&rsquo;est pas un flux valide."
+msgstr "ERREUR&nbsp;: ce n&rsquo;est pas un flux valide."
 
 #: wp-includes/class-wp-http-streams.php:288
 #: wp-includes/class-wp-http-curl.php:277
@@ -9627,7 +9617,7 @@ msgstr "Intégrer ou lier"
 #: wp-includes/media-template.php:396
 #: wp-includes/media-template.php:585
 msgid "Length:"
-msgstr "Durée :"
+msgstr "Durée&nbsp;:"
 
 #: wp-includes/script-loader.php:1212
 msgid "Captions/Subtitles"
@@ -9746,13 +9736,13 @@ msgstr "%2$s %1$s %3$s à %4$s h %5$s min"
 #: wp-includes/class-walker-comment.php:287
 #: wp-includes/class-walker-comment.php:376
 msgid "%s <span class=\"says\">says:</span>"
-msgstr "%s <span class=\"says\">dit :</span>"
+msgstr "%s <span class=\"says\">dit&nbsp;:</span>"
 
 #: wp-includes/general-template.php:274
 #: wp-includes/general-template.php:282
 msgctxt "label"
 msgid "Search for:"
-msgstr "Rechercher :"
+msgstr "Rechercher&nbsp;:"
 
 #: wp-includes/general-template.php:275
 msgctxt "placeholder"
@@ -10390,7 +10380,7 @@ msgstr "Le nom du terme ne peut être vide."
 
 #: wp-includes/widgets/class-wp-widget-links.php:146
 msgid "Select Link Category:"
-msgstr "Sélectionner la catégorie de liens :"
+msgstr "Sélectionner la catégorie de liens&nbsp;:"
 
 #: wp-includes/class-wp-xmlrpc-server.php:528
 msgid "Stylesheet"
@@ -10402,7 +10392,7 @@ msgstr "Modèle"
 
 #: wp-includes/widgets/class-wp-widget-links.php:176
 msgid "Number of links to show:"
-msgstr "Nombre de liens à afficher :"
+msgstr "Nombre de liens à afficher&nbsp;:"
 
 #: wp-includes/widgets/class-wp-widget-links.php:161
 msgid "Link ID"
@@ -10590,11 +10580,11 @@ msgstr "Remarque"
 
 #: wp-includes/comment.php:3310
 msgid "<strong>ERROR</strong>: please type a comment."
-msgstr "<strong>ERREUR</strong> : veuillez saisir un commentaire."
+msgstr "<strong>ERREUR</strong>&nbsp;: veuillez saisir un commentaire."
 
 #: wp-includes/ms-deprecated.php:404
 msgid "<strong>ERROR</strong>: Site URL already taken."
-msgstr "<strong>Erreur</strong> : cette adresse de site web est déjà prise."
+msgstr "<strong>Erreur</strong>&nbsp;: cette adresse de site web est déjà prise."
 
 #: wp-includes/admin-bar.php:163
 msgid "Documentation"
@@ -10630,7 +10620,7 @@ msgstr "Site de WordPress-FR"
 #. translators: %s: site name
 #: wp-includes/admin-bar.php:345
 msgid "Network Admin: %s"
-msgstr "Admin du réseau : %s"
+msgstr "Admin du réseau&nbsp;: %s"
 
 #: wp-includes/taxonomy.php:548
 msgctxt "taxonomy singular name"
@@ -10928,7 +10918,7 @@ msgstr "Blavatar"
 #. translators: %s: taxonomy name
 #: wp-includes/post.php:3776
 msgid "Invalid taxonomy: %s."
-msgstr "Taxinomie non valide : %s."
+msgstr "Taxinomie non valide&nbsp;: %s."
 
 #: wp-includes/taxonomy.php:131
 msgid "Link Category"
@@ -11000,7 +10990,7 @@ msgstr "Catégorie parente"
 
 #: wp-includes/taxonomy.php:553
 msgid "Parent Category:"
-msgstr "Catégorie parente :"
+msgstr "Catégorie parente&nbsp;:"
 
 #: wp-includes/taxonomy.php:556
 msgid "Update Tag"
@@ -11070,7 +11060,7 @@ msgstr "Articles"
 
 #: wp-includes/post.php:1632
 msgid "Parent Page:"
-msgstr "Page parente :"
+msgstr "Page parente&nbsp;:"
 
 #: wp-includes/post.php:1624
 msgid "Add New Post"
@@ -11142,7 +11132,7 @@ msgstr "Ce site Web est déjà activé."
 #. site name
 #: wp-includes/ms-functions.php:1603
 msgid "New %1$s Site: %2$s"
-msgstr "Nouveau site Web %1$s : %2$s"
+msgstr "Nouveau site Web %1$s&nbsp;: %2$s"
 
 #: wp-includes/ms-functions.php:1402
 msgid "New Site Registration: %s"
@@ -11254,15 +11244,15 @@ msgstr "nomdusite"
 
 #: wp-signup.php:108
 msgid "Site Name:"
-msgstr "Nom du site Web :"
+msgstr "Nom du site Web&nbsp;:"
 
 #: wp-signup.php:110
 msgid "Site Domain:"
-msgstr "Domaine du site Web :"
+msgstr "Domaine du site Web&nbsp;:"
 
 #: wp-signup.php:140
 msgid "Site Title:"
-msgstr "Titre du site Web :"
+msgstr "Titre du site Web&nbsp;:"
 
 #: wp-includes/script-loader.php:1133
 msgid "File canceled."
@@ -11285,7 +11275,7 @@ msgstr "Nouveau rétrolien sur votre article « %s »"
 
 #: wp-signup.php:359
 msgid "Sites you are already a member of:"
-msgstr "Les sites que vous possédez déjà :"
+msgstr "Les sites que vous possédez déjà&nbsp;:"
 
 #: wp-signup.php:385
 msgid "Create Site"
@@ -11303,7 +11293,7 @@ msgstr "Une réponse à %s"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:171
 msgid "Taxonomy:"
-msgstr "Taxinomie :"
+msgstr "Taxinomie&nbsp;:"
 
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:29
 #: wp-includes/taxonomy.php:114
@@ -11312,7 +11302,7 @@ msgstr "Menu de navigation"
 
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:153
 msgid "Select Menu:"
-msgstr "Sélectionner le menu :"
+msgstr "Sélectionner le menu&nbsp;:"
 
 #: wp-includes/admin-bar.php:953
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:98
@@ -11505,12 +11495,12 @@ msgstr "Adresse courriel&nbsp;:"
 
 #: wp-signup.php:197
 msgid "Privacy:"
-msgstr "Vie privée :"
+msgstr "Vie privée&nbsp;:"
 
 #. translators: %s: POP3 error
 #: wp-mail.php:249
 msgid "Oops: %s"
-msgstr "Oups : %s"
+msgstr "Oups&nbsp;: %s"
 
 #. translators: Post author email address
 #: wp-mail.php:135
@@ -11650,7 +11640,7 @@ msgstr "Erreur lors de la sauvegarde des modifications."
 
 #: wp-includes/script-loader.php:1624
 msgid "Submitted on:"
-msgstr "Envoyé le :"
+msgstr "Envoyé le&nbsp;:"
 
 #: wp-includes/script-loader.php:1605
 #: wp-includes/js/dist/editor.js:9877
@@ -11667,15 +11657,15 @@ msgstr "Afficher plus de commentaires"
 
 #: wp-includes/script-loader.php:1592
 msgid "Published on:"
-msgstr "Publié le :"
+msgstr "Publié le&nbsp;:"
 
 #: wp-includes/script-loader.php:1591
 msgid "Schedule for:"
-msgstr "Planifier pour :"
+msgstr "Planifier pour&nbsp;:"
 
 #: wp-includes/script-loader.php:1590
 msgid "Publish on:"
-msgstr "Publié le :"
+msgstr "Publié le&nbsp;:"
 
 #: wp-includes/script-loader.php:1357
 msgctxt "password strength"
@@ -11855,11 +11845,11 @@ msgstr "Page suivante"
 
 #: wp-includes/post-template.php:152
 msgid "Private: %s"
-msgstr "Privé : %s"
+msgstr "Privé&nbsp;: %s"
 
 #: wp-includes/post-template.php:137
 msgid "Protected: %s"
-msgstr "Protégé : %s"
+msgstr "Protégé&nbsp;: %s"
 
 #. translators: New user registration notification email subject. %s: Site
 #. title
@@ -11872,7 +11862,7 @@ msgstr "[%s] Inscription d’un nouvel utilisateur"
 #: wp-includes/pluggable.php:1915
 #: wp-includes/pluggable.php:1979
 msgid "Username: %s"
-msgstr "Identifiant : %s"
+msgstr "Identifiant&nbsp;: %s"
 
 #. translators: Comment moderation notification email subject. 1: Site name, 2:
 #. Post title
@@ -11883,51 +11873,51 @@ msgstr "[%1$s] Demande de modération pour « %2$s »"
 #. translators: Comment moderation. %s: Comment action URL
 #: wp-includes/pluggable.php:1739
 msgid "Approve it: %s"
-msgstr "L’approuver : %s"
+msgstr "L’approuver&nbsp;: %s"
 
 #: wp-includes/pluggable.php:1721
 msgid "Pingback excerpt: "
-msgstr "Extrait du ping :"
+msgstr "Extrait du ping&nbsp;:"
 
 #: wp-includes/pluggable.php:1711
 msgid "Trackback excerpt: "
-msgstr "Extrait du rétrolien :"
+msgstr "Extrait du rétrolien&nbsp;:"
 
 #. translators: Comment moderation. %s: Comment action URL
 #: wp-includes/pluggable.php:1582
 #: wp-includes/pluggable.php:1750
 msgid "Spam it: %s"
-msgstr "Le marquer comme indésirable : %s"
+msgstr "Le marquer comme indésirable&nbsp;: %s"
 
 #. translators: Comment moderation. %s: Comment action URL
 #: wp-includes/pluggable.php:1579
 #: wp-includes/pluggable.php:1746
 msgid "Delete it: %s"
-msgstr "Le supprimer : %s"
+msgstr "Le supprimer&nbsp;: %s"
 
 #. translators: Comment moderation. %s: Comment action URL
 #: wp-includes/pluggable.php:1576
 #: wp-includes/pluggable.php:1743
 msgid "Trash it: %s"
-msgstr "Le mettre dans la corbeille : %s"
+msgstr "Le mettre dans la corbeille&nbsp;: %s"
 
 #. translators: Pingback notification email subject. 1: Site title, 2: Post
 #. title
 #: wp-includes/pluggable.php:1552
 msgid "[%1$s] Pingback: \"%2$s\""
-msgstr "[%1$s] Ping : « %2$s »"
+msgstr "[%1$s] Ping&nbsp;: « %2$s »"
 
 #. translators: Trackback notification email subject. 1: Site title, 2: Post
 #. title
 #: wp-includes/pluggable.php:1539
 msgid "[%1$s] Trackback: \"%2$s\""
-msgstr "[%1$s] Rétrolien : « %2$s »"
+msgstr "[%1$s] Rétrolien&nbsp;: « %2$s »"
 
 #. translators: Comment notification email subject. 1: Site title, 2: Post
 #. title
 #: wp-includes/pluggable.php:1567
 msgid "[%1$s] Comment: \"%2$s\""
-msgstr "[%1$s] Commentaire : « %2$s »"
+msgstr "[%1$s] Commentaire&nbsp;: « %2$s »"
 
 #: wp-includes/ms-load.php:489
 msgid "What do I do now?"
@@ -11937,11 +11927,11 @@ msgstr "Que dois-je faire maintenant?"
 #. user login
 #: wp-includes/ms-functions.php:1694
 msgid "New %1$s User: %2$s"
-msgstr "Nouvel utilisateur %1$s : %2$s"
+msgstr "Nouvel utilisateur %1$s&nbsp;: %2$s"
 
 #: wp-includes/ms-functions.php:1454
 msgid "New User Registration: %s"
-msgstr "Inscription d’un nouvel utilisateur : %s"
+msgstr "Inscription d’un nouvel utilisateur&nbsp;: %s"
 
 #: wp-includes/ms-functions.php:1162
 msgid "That username is already activated."
@@ -12159,7 +12149,7 @@ msgstr "Description de l&rsquo;image"
 
 #: wp-includes/js/dist/block-library.js:12409
 msgid "Name:"
-msgstr "Nom :"
+msgstr "Nom&nbsp;:"
 
 #: wp-includes/class-wp-editor.php:1028
 msgid "New document"
@@ -12735,13 +12725,13 @@ msgstr[1] "%s minutes"
 #. translators: Comments feed title. %s: Post title
 #: wp-includes/feed-rss2-comments.php:39
 msgid "Comments on: %s"
-msgstr "Commentaires sur : %s"
+msgstr "Commentaires sur&nbsp;: %s"
 
 #. translators: Comment author title. %s: Comment author name
 #: wp-includes/feed-rss2-comments.php:89
 #: wp-includes/feed-atom-comments.php:86
 msgid "By: %s"
-msgstr "Par : %s"
+msgstr "Par&nbsp;: %s"
 
 #. translators: Individual comment title. 1: Post title, 2: Comment author name
 #: wp-includes/feed-rss2-comments.php:86
@@ -12797,11 +12787,11 @@ msgstr "Combien d&rsquo;entrées souhaitez-vous afficher?"
 
 #: wp-includes/widgets.php:1581
 msgid "Give the feed a title (optional):"
-msgstr "Donnez un titre au flux (facultatif) :"
+msgstr "Donnez un titre au flux (facultatif)&nbsp;:"
 
 #: wp-includes/widgets.php:1578
 msgid "Enter the RSS feed URL here:"
-msgstr "Saisissez l&rsquo;adresse web du flux RSS ici :"
+msgstr "Saisissez l&rsquo;adresse web du flux RSS ici&nbsp;:"
 
 #: wp-includes/widgets.php:1487
 msgid "Untitled"
@@ -12876,7 +12866,7 @@ msgstr "IDs de pages, séparés par une virgule."
 
 #: wp-includes/widgets/class-wp-widget-pages.php:156
 msgid "Exclude:"
-msgstr "Exclure :"
+msgstr "Exclure&nbsp;:"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:152
 msgid "Page ID"
@@ -12893,7 +12883,7 @@ msgstr "Titre de la page"
 #: wp-includes/widgets/class-wp-widget-pages.php:148
 #: wp-includes/widgets/class-wp-widget-links.php:157
 msgid "Sort by:"
-msgstr "Trier par :"
+msgstr "Trier par&nbsp;:"
 
 #: wp-includes/cron.php:825
 msgid "Once Daily"
@@ -12965,7 +12955,7 @@ msgstr "Favoris"
 
 #: wp-includes/bookmark-template.php:89
 msgid "Last updated: %s"
-msgstr "Dernière mise à jour : %s"
+msgstr "Dernière mise à jour&nbsp;: %s"
 
 #. translators: %s: author's display name
 #: wp-includes/author-template.php:303
@@ -13004,7 +12994,7 @@ msgstr "Commentaires (%s)"
 
 #: wp-includes/category-template.php:1172
 msgid "Tags: "
-msgstr "Étiquettes : "
+msgstr "Étiquettes&nbsp;: "
 
 #: wp-includes/link-template.php:1052
 #: wp-includes/link-template.php:1403
@@ -13181,7 +13171,7 @@ msgstr "Il n&rsquo;y a pas d&rsquo;options pour ce widget."
 
 #: wp-includes/user.php:2438
 msgid "<strong>ERROR</strong>: Please enter a username."
-msgstr "<strong>ERREUR</strong> : veuillez renseigner l&rsquo;identifiant."
+msgstr "<strong>ERREUR</strong>&nbsp;: veuillez renseigner l&rsquo;identifiant."
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:76
 #: wp-includes/media-template.php:1039
@@ -13286,7 +13276,7 @@ msgstr "Pages"
 #: wp-includes/pluggable.php:1730
 #: wp-includes/pluggable.php:1917
 msgid "Email: %s"
-msgstr "Adresse courriel : %s"
+msgstr "Adresse courriel&nbsp;: %s"
 
 #: wp-includes/category-template.php:152
 msgid "Uncategorized"
@@ -13498,7 +13488,7 @@ msgstr "Flux inconnu"
 
 #: wp-includes/widgets/class-wp-widget-recent-comments.php:169
 msgid "Number of comments to show:"
-msgstr "Nombre de commentaires à afficher :"
+msgstr "Nombre de commentaires à afficher&nbsp;:"
 
 #: wp-includes/comment-template.php:1097
 msgid "Trackback"
@@ -13784,12 +13774,12 @@ msgstr "Aucun article trouvé."
 #: wp-activate.php:180
 #: wp-includes/post-template.php:1713
 msgid "Password:"
-msgstr "Mot de passe :"
+msgstr "Mot de passe&nbsp;:"
 
 #: wp-activate.php:179
 #: wp-signup.php:253
 msgid "Username:"
-msgstr "Identifiant :"
+msgstr "Identifiant&nbsp;:"
 
 #: wp-activate.php:30
 #: wp-activate.php:167
@@ -13809,7 +13799,7 @@ msgstr "Activer"
 
 #: wp-activate.php:129
 msgid "Activation Key:"
-msgstr "Clé d&rsquo;activation :"
+msgstr "Clé d&rsquo;activation&nbsp;:"
 
 #: wp-activate.php:126
 msgid "Activation Key Required"
@@ -15938,7 +15928,7 @@ msgstr "Mise en page de la colonne latérale en mode d'un article seul"
 
 #: inc/customizer.php:1122
 msgid "Blog Sidebar Layout"
-msgstr "Mise en page de la colonne latérale en mode blog"
+msgstr "Mise en page de la colonne latérale en mode blogue"
 
 #: inc/customizer.php:1102
 #: inc/customizer.php:1130
@@ -16106,3 +16096,817 @@ msgid "%1$s thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] "%1$s réflexion au sujet de &ldquo;%2$s&rdquo;"
 msgstr[1] "%1$s réflexions au sujet de &ldquo;%2$s&rdquo;"
+
+#. Theme Name of the theme
+msgid "Shapely"
+msgstr "Shapely"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:614
+msgid "Integrations"
+msgstr "Intégrations"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:613
+msgid "Sections"
+msgstr "Sections"
+
+#. Translators: %s is the plugin name
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:127
+msgid "Activate: %s"
+msgstr "Activer : %s"
+
+#. Translators: %s is the plugin name.
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:121
+msgid "Install: %s"
+msgstr "Installer : %s"
+
+#: inc/customizer.php:461
+#: inc/customizer.php:471
+msgid "Sticky header"
+msgstr "En-tête épinglé"
+
+#: inc/customizer.php:424
+#: inc/customizer.php:441
+msgid "Increase the header background opacity"
+msgstr "Augmente l’opacité de l’arrière-plan de l’en-tête"
+
+#: inc/customizer.php:423
+#: inc/customizer.php:440
+msgid "Sticky header background opacity"
+msgstr "Opacité de l’arrière-plan de l’en-tête épinglé"
+
+#: inc/customizer.php:394
+#: inc/customizer.php:403
+msgid "Transparent header"
+msgstr "En-tête transparent"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "Constructeur de page"
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:25
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:598
+msgid "Deactivate now"
+msgstr "Désactiver maintenant"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:592
+msgid "Activate now"
+msgstr "Activer maintenant"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:571
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:526
+msgid "Registration"
+msgstr "Inscription"
+
+#. Translators: Welcome Screen Title.
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:427
+msgid "Welcome to %1$s - v"
+msgstr "Bienvenue sur %1$s - v"
+
+#. Translators: Menu Title
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:393
+msgid "About %1$s"
+msgstr "À propos de %1$s"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:507
+msgid "Column Group"
+msgstr "Groupe de colonne"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:484
+msgid "Column Spacing"
+msgstr "Espacement de la colonne"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:457
+msgid "Column Stretch"
+msgstr "Étirement de la colonne"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:430
+msgid "Vertical Alignment"
+msgstr "Alignement vertical"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:375
+msgid "Initial"
+msgstr "Initial"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:344
+msgid "Background Position"
+msgstr "Position de l’arrière-plan"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:81
+msgid "Fields"
+msgstr "Champs"
+
+#: inc/class-shapely.php:177
+msgid "Demo Content"
+msgstr "Contenu de démo"
+
+#: inc/class-shapely.php:148
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/class-shapely.php:147
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: inc/class-shapely.php:146
+msgid "Shapely Companion"
+msgstr "Shapely Companion"
+
+#: inc/class-shapely.php:142
+msgid "Import HomePage Widgets"
+msgstr "Importer les widgets de la page d’accueil"
+
+#: inc/class-shapely.php:141
+msgid "Set Static FrontPage"
+msgstr "Définir la page d’accueil statique"
+
+#: inc/class-shapely.php:122
+msgid " is social&nbsp;:"
+msgstr " est social :"
+
+#: inc/class-shapely.php:42
+#: inc/class-shapely.php:155
+#: inc/class-shapely.php:157
+msgid "Import Demo Content"
+msgstr "Importer le contenu de démonstration"
+
+#: inc/class-shapely-builder.php:69
+msgid "This widgets will appear in %s page"
+msgstr "Ces widgets apparaîtront dans la page %s"
+
+#: inc/class-shapely-builder.php:67
+msgid "Page: %s"
+msgstr "Page : %s"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-upsell.php:70
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:250
+msgid "See what's in the PRO version"
+msgstr "Voir ce que contient la version PRO"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:323
+msgid "Letter Spacing"
+msgstr "Interlettrage"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:603
+msgid "Search sections &hellip;"
+msgstr "Recherche les sections…"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:602
+msgid "Search sections"
+msgstr "Rechercher une section"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:596
+msgid "Add a Section"
+msgstr "Ajouter une section"
+
+#. Translators: Section limit
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:591
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+msgid "sections"
+msgstr "sections"
+
+#. Translators: Section limit
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:590
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+msgid "Limit: "
+msgstr "Limite :"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-layouts.php:201
+msgid "Edit column size"
+msgstr "Modifier la taille de la colonne"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:278
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:112
+msgid "Recommended resolution:"
+msgstr "Résolution recommandée :"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:377
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-color-picker.php:82
+msgid "(clear)"
+msgstr "(effacer)"
+
+#: inc/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:61
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:219
+msgid "Class does not exist"
+msgstr "La classe n’existe pas"
+
+#: inc/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:37
+#: inc/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:50
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:195
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:208
+msgid "Not allowed"
+msgstr "Non autorisé"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:276
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:110
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:258
+msgid "Upload image"
+msgstr "Téléverser une image"
+
+#: inc/customizer.php:1193
+msgid "Set the default template for single project"
+msgstr "Définir le modèle par défaut des projets individuels"
+
+#: inc/customizer.php:1192
+msgid "Single Project Template"
+msgstr "Modèle des projets individuels"
+
+#: inc/customizer.php:1118
+#: inc/customizer.php:1168
+msgid "Project Author Left Side"
+msgstr "Auteur du projet sur le côté gauche"
+
+#: inc/customizer.php:1109
+#: inc/customizer.php:1160
+msgid "Project Author Area"
+msgstr "Zone Auteur du projet"
+
+#: inc/customizer.php:1101
+#: inc/customizer.php:1153
+msgid "This will enable/disable the related projects"
+msgstr "Cela affichera/masquera les projets similaires"
+
+#: inc/customizer.php:1100
+#: inc/customizer.php:1152
+msgid "Related Projects Area"
+msgstr "Zone des projets similaires"
+
+#: inc/customizer.php:1092
+#: inc/customizer.php:1145
+msgid "This will show/hide tags from the end of project"
+msgstr "Cela affichera/masquera les étiquettes à la fin du projet"
+
+#: inc/customizer.php:1091
+#: inc/customizer.php:1144
+msgid "Tags Project Meta"
+msgstr "Étiquettes méta du projet"
+
+#: inc/customizer.php:1073
+msgid "This will show/hide the type of project"
+msgstr "Cela affichera/masquera le type de projet"
+
+#: inc/customizer.php:1072
+msgid "Show the project type"
+msgstr "Afficher le type de projet"
+
+#: inc/customizer.php:1042
+msgid "Show title above project"
+msgstr "Afficher le titre au dessus du projet"
+
+#: inc/customizer.php:1033
+msgid "This will show/hide the project title from callout"
+msgstr "Cela affichera/masquera le projet de l’appel à l’action"
+
+#: inc/customizer.php:944
+msgid "Choose the template for your projects archive page"
+msgstr "Choisir le modèle pour la page archive de vos projets"
+
+#: inc/customizer.php:943
+msgid "Projects Template"
+msgstr "Modèle de page des projets"
+
+#: inc/customizer.php:929
+msgid "Grid"
+msgstr "Grille"
+
+#: inc/customizer.php:928
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customizer.php:924
+msgid "Choose how you want to display projects"
+msgstr "Veuillez choisir comment afficher les projets"
+
+#: inc/customizer.php:923
+msgid "Projects Layout"
+msgstr "Mise en page des projets"
+
+#: inc/customizer.php:869
+#: inc/customizer.php:878
+msgid "Show Portfolio Archive Title"
+msgstr "Afficher le titre dans la page archive du Portfolio"
+
+#: inc/customizer.php:852
+msgid "Project Single Settings"
+msgstr "Réglages des projets individuels"
+
+#: inc/customizer.php:844
+msgid "Projects Page Settings"
+msgstr "Réglages de la page Projets"
+
+#: inc/customizer.php:838
+msgid "Panel to update projects related options"
+msgstr "Interface pour mettre à jour les options relatives aux projets"
+
+#: inc/customizer.php:837
+msgid "Projects Settings"
+msgstr "Réglages de projets"
+
+#: inc/customizer.php:315
+#: inc/customizer.php:324
+msgid "Always the menu will be like the mobile menu"
+msgstr "Le menu sera toujours similaire au menu mobile"
+
+#: inc/customizer.php:314
+#: inc/customizer.php:323
+msgid "Mobile Menu on Desktop"
+msgstr "Menu mobile sur la version bureau"
+
+#: inc/custom-controls/class-shapely-logo-dimensions.php:43
+msgid "Logo Height:"
+msgstr "Hauteur du logo :"
+
+#: inc/custom-controls/class-shapely-logo-dimensions.php:39
+msgid "Logo Width:"
+msgstr "Largeur du logo :"
+
+#: inc/class-shapely-related-posts.php:199
+msgid "Related projects"
+msgstr "Projets similaires"
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr "Rechercher des produits…"
+
+#: inc/customizer.php:627
+msgid "This will show/hide the categories of post"
+msgstr "Cela affichera/masquera les catégories des publications"
+
+#: inc/customizer.php:626
+msgid "Show the category"
+msgstr "Afficher la catégorie"
+
+#: inc/customizer.php:616
+#: inc/customizer.php:1062
+msgid "Show the author"
+msgstr "Afficher l’auteur"
+
+#: inc/customizer.php:606
+#: inc/customizer.php:1052
+msgid "Show the date"
+msgstr "Afficher la date"
+
+#: inc/customizer.php:596
+msgid "Show title above post"
+msgstr "Afficher le titre au dessus de l’article"
+
+#: inc/customizer.php:587
+msgid "This will show/hide the post title from callout"
+msgstr "Cela affichera/masquera le titre de la publication à partir de la légende"
+
+#: inc/customizer.php:586
+#: inc/customizer.php:1032
+msgid "Show title in header"
+msgstr "Afficher le titre dans l’en-tête"
+
+#: inc/customizer.php:157
+msgid "Blog Single Settings"
+msgstr "Réglages uniques du blogue"
+
+#: inc/customizer.php:149
+msgid "Blog Index Settings"
+msgstr "Réglages de l’index du blogue"
+
+#: inc/customizer.php:143
+msgid "Blog Index Header Image"
+msgstr "Image d’en-tête de l’index du blogue"
+
+#: inc/customizer.php:107
+msgid "Panel to update Blog related options"
+msgstr "Panneau permettant de mettre à jour les options liées au blogue"
+
+#. Translators: Notice URL
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:374
+msgid "Get started with %1$s"
+msgstr "Démarrer avec %1$s"
+
+#. Translators: Notice Title
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:363
+msgid "Welcome to %1$s"
+msgstr "Bienvenue sur %1$s"
+
+#: inc/class-shapely-notify-system.php:172
+msgid "Activate: Contact Form 7"
+msgstr "Activer : Contact Form 7"
+
+#: inc/class-shapely-notify-system.php:167
+#: inc/class-shapely-notify-system.php:175
+msgid "Install: Contact Form 7"
+msgstr "Installer : Contact Form 7"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:118
+msgid "Review this theme on w.org"
+msgstr "Évaluer ce thème sur w.org"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:116
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:114
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:272
+msgid "Theme default"
+msgstr "Par défaut"
+
+#: inc/customizer.php:814
+#: inc/customizer.php:823
+msgid "Show/hide posts' categories from the Category Page"
+msgstr "Afficher/masquer les catégories de la publication dans la page Catégorie"
+
+#: inc/customizer.php:813
+#: inc/customizer.php:822
+msgid "Show Category on Posts"
+msgstr "Afficher les catégories sur la publication"
+
+#: inc/customizer.php:790
+msgid "Choose the template for your posts page"
+msgstr "Choisir le modèle pour votre page de publications"
+
+#: inc/customizer.php:769
+msgid "Choose how you want to display posts in grid"
+msgstr "Choisissez la disposition des publications dans la grille"
+
+#: inc/customizer.php:747
+msgid "Set the default template for single posts"
+msgstr "Définir le modèle par défaut pour les publications seules"
+
+#: inc/customizer.php:746
+msgid "Single Post Template"
+msgstr "Modèle  de publication seule"
+
+#: inc/customizer.php:681
+#: inc/customizer.php:730
+#: inc/customizer.php:1127
+#: inc/customizer.php:1176
+msgid "Show Author Email"
+msgstr "Afficher l’adresse courriel de l’auteur"
+
+#: inc/customizer.php:664
+#: inc/customizer.php:715
+#: inc/customizer.php:1110
+#: inc/customizer.php:1161
+msgid "This will show/hide the author box"
+msgstr "Cela affichera/masquera la la zone de crédit"
+
+#: inc/customizer.php:655
+#: inc/customizer.php:707
+msgid "This will enable/disable the related posts"
+msgstr "Cela activera/désactivera les publications similaires"
+
+#: inc/customizer.php:646
+#: inc/customizer.php:699
+msgid "This will show/hide tags from the end of post"
+msgstr "Cela affichera/masquera les étiquettes à la fin de la publication"
+
+#: inc/customizer.php:909
+msgid "Add a description on the Portfolio Archive Page."
+msgstr "Ajouter une description à la page Archives du Portfolio."
+
+#: inc/customizer.php:894
+msgid "Add a title on the Portfolio Archive Page."
+msgstr "Ajouter un titre à la page Archives du Portfolio."
+
+#: inc/customizer.php:243
+#: inc/customizer.php:253
+msgid "Show Blog Title"
+msgstr "Afficher le titre du blogue"
+
+#: inc/customizer.php:83
+msgid "Theme documentation"
+msgstr "Documentation du thème"
+
+#: inc/class-shapely.php:123
+msgid "Recomended Plugins&nbsp;:"
+msgstr "Extensions recommandées :"
+
+#: inc/class-shapely.php:121
+msgid "Recomended Actions"
+msgstr "Actions recommandées"
+
+#: functions.php:184
+msgid "Shop Sidebar"
+msgstr "Colonne latérale de la boutique"
+
+#. translators: number of comments
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s COMMENT"
+msgid_plural "%1$s COMMENTS"
+msgstr[0] "%1$s commentaire"
+msgstr[1] "%1$s commentaires"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Page d’accueil"
+
+#: template-parts/content-grid-wide.php:74
+#: template-parts/content-grid-small.php:67
+msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:178
+msgid "View all posts in %s"
+msgstr "Voir tous les articles dans %s"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:53
+#: inc/template-tags.php:114
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: inc/template-tags.php:101
+msgid "Tagged %1$s"
+msgstr "Étiqueté %1$s"
+
+#: inc/template-tags.php:94
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: inc/class-wp-bootstrap-navwalker.php:207
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: inc/extras.php:649
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/extras.php:495
+msgid "Leave Comment"
+msgstr "Laisser un commentaire"
+
+#: inc/extras.php:491
+msgid "Your Website (optional)"
+msgstr "Votre site web (facultatif)"
+
+#: inc/extras.php:490
+msgid "Email Address"
+msgstr "Adresse courriel"
+
+#: inc/extras.php:489
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: inc/extras.php:290
+msgid "Type Here"
+msgstr "Saisir ici"
+
+#: woocommerce/product-searchform.php:25
+#: inc/extras.php:289
+msgid "Search for:"
+msgstr "Rechercher :"
+
+#: inc/extras.php:255
+msgctxt "Read More"
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: inc/extras.php:118
+msgid "Theme by %1$s Powered by %2$s"
+msgstr "Thème par %1$s Propulsé par %2$s"
+
+#. Template Name of the theme
+#: inc/customizer.php:754
+#: inc/customizer.php:797
+#: inc/customizer.php:951
+#: inc/customizer.php:1200
+msgid "Sidebar Right"
+msgstr "Colonne latérale droite"
+
+#. Template Name of the theme
+#: inc/customizer.php:753
+#: inc/customizer.php:796
+#: inc/customizer.php:950
+#: inc/customizer.php:1199
+msgid "Sidebar Left"
+msgstr "Colonne latérale gauche"
+
+#: inc/customizer.php:789
+msgid "Blog Template"
+msgstr "Modèle du blogue"
+
+#: inc/customizer.php:775
+msgid "Large Images"
+msgstr "Grandes images"
+
+#: inc/customizer.php:774
+msgid "Large Image and Grid"
+msgstr "Grandes images et grille"
+
+#: inc/customizer.php:773
+msgid "Grid only"
+msgstr "Grille uniquement"
+
+#: inc/customizer.php:768
+msgid "Blog Layout"
+msgstr "Mise en page du blogue"
+
+#: inc/customizer.php:672
+#: inc/customizer.php:722
+msgid "Post Author Left Side"
+msgstr "Auteur de la publication côté gauche"
+
+#: inc/customizer.php:663
+#: inc/customizer.php:714
+msgid "Post Author Area"
+msgstr "Zone auteur de la publication"
+
+#: inc/customizer.php:654
+#: inc/customizer.php:706
+msgid "Related Posts Area"
+msgstr "Zone Publications similaires"
+
+#: inc/customizer.php:645
+#: inc/customizer.php:698
+msgid "Tags Post Meta"
+msgstr "Méta Étiquettes des publications"
+
+#: inc/customizer.php:636
+#: inc/customizer.php:690
+#: inc/customizer.php:1082
+#: inc/customizer.php:1136
+msgid "First Letter Caps"
+msgstr "Lettrines"
+
+#: inc/customizer.php:507
+msgid "Copyright Text"
+msgstr "Texte de copyright"
+
+#: inc/customizer.php:369
+msgid "CFA Button Link"
+msgstr "Lien du bouton CFA"
+
+#: inc/customizer.php:355
+msgid "Text for Footer Callout Button"
+msgstr "Texte pour le bouton d’appel du pied de page"
+
+#: inc/customizer.php:340
+msgid "Text for Footer Callout"
+msgstr "Texte pour l’appel à l’action du pied de page"
+
+#: inc/customizer.php:908
+msgid "Portfolio Archive Description"
+msgstr "Description des Archives du Portfolio"
+
+#: inc/customizer.php:893
+msgid "Portfolio Archive Title"
+msgstr "Titre des Archives du Portfolio"
+
+#: inc/customizer.php:298
+msgid "Heading for the Blog page"
+msgstr "En-tête pour la page Blogue"
+
+#: inc/customizer.php:297
+msgid "Blog Name in Top Callout"
+msgstr "Nom du blogue dans l’appel à l’action supérieur"
+
+#: inc/customizer.php:273
+#: inc/customizer.php:281
+msgid "Title in Blog Post"
+msgstr "Titre dans l’article du blogue"
+
+#: inc/customizer.php:226
+msgid "Main Options"
+msgstr "Options principales"
+
+#: inc/customizer.php:216
+msgid "Button Hover Color"
+msgstr "Couleur au survol du bouton"
+
+#: inc/customizer.php:201
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: inc/customizer.php:172
+#: inc/customizer.php:187
+#: inc/customizer.php:202
+#: inc/customizer.php:217
+msgid "Default used if no color is selected"
+msgstr "Couleur ar défaut si aucune n’est sélectionnée"
+
+#: inc/customizer.php:106
+msgid "Blog Settings"
+msgstr "Réglages du blogue"
+
+#: inc/customizer.php:97
+msgid "Panel to update shapely theme options"
+msgstr "Panneau pour mettre à jour les options du thème"
+
+#: inc/class-shapely-related-posts.php:201
+msgid "Related articles "
+msgstr "Articles similaires"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:514
+msgid "Recommended Plugins"
+msgstr "Extensions recommandées"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:508
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:502
+msgid "Getting Started"
+msgstr "Mise en route"
+
+#: inc/libraries/welcome-screen/sections/support.php:17
+msgid "See our full documentation"
+msgstr "Voir notre documentation intégrale"
+
+#: inc/libraries/welcome-screen/sections/support.php:3
+#: inc/libraries/welcome-screen/sections/support.php:7
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:29
+msgid "Version:"
+msgstr "Version :"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:37
+msgid "Go to Customizer"
+msgstr "Aller à l’outil de personnalisation"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:30
+msgid "Full documentation"
+msgstr "Documentation intégrale"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:19
+msgid "Check recommended actions"
+msgstr "Vérifier les actions recommandées"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:15
+msgid "No recommended actions left to perform"
+msgstr "Il ne reste aucune action recommandée à effectuer"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:279
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:345
+msgid "Install"
+msgstr "Installer"
+
+#: inc/class-shapely-notify-system.php:237
+msgid "Please activate Yoast SEO plugin."
+msgstr "Veuillez activer l’extension Yoast SEO."
+
+#: inc/class-shapely-notify-system.php:232
+#: inc/class-shapely-notify-system.php:240
+msgid "Please install Yoast SEO plugin."
+msgstr "Veuillez installer l’extension Yoast SEO."
+
+#: inc/class-shapely-notify-system.php:158
+msgid "Activate: Jetpack by WordPress"
+msgstr "Activer : Jetpack by WordPress"
+
+#: inc/class-shapely-notify-system.php:153
+#: inc/class-shapely-notify-system.php:161
+msgid "Install: Jetpack by WordPress"
+msgstr "Installer : Jetpack by WordPress"
+
+#: inc/class-shapely-notify-system.php:144
+msgid "Activate: Yoast SEO Plugin"
+msgstr "Activer : extension Yoast SEO"
+
+#: inc/class-shapely-notify-system.php:139
+#: inc/class-shapely-notify-system.php:147
+msgid "Install: Yoast SEO Plugin"
+msgstr "Installer : extension Yoast SEO"
+
+#: header.php:63
+msgid "Site Search"
+msgstr "Recherche"
+
+#: header.php:42
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:171
+msgid "Used for footer widget area"
+msgstr "Utilisé pour la zone de widget Pied de page"
+
+#: functions.php:170
+msgid "Footer Widget %s"
+msgstr "Widget Pied de page %s"
+
+#: functions.php:73
+msgid "Social Menu"
+msgstr "Menu social"
+
+#: comments.php:53
+#: comments.php:81
+msgid "Newer Comments"
+msgstr "Derniers commentaires"
+
+#: comments.php:52
+#: comments.php:80
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "1 COMMENT"
+msgstr "1 commentaire"
