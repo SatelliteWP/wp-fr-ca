@@ -16910,3 +16910,188 @@ msgstr "Commentaires plus anciens"
 msgctxt "comments title"
 msgid "1 COMMENT"
 msgstr "1 commentaire"
+
+#: inc/customizer.php:2495
+msgid "Contact Form Shortcode"
+msgstr "Shortcode pour le formulaire de contact"
+
+#: functions.php:2204
+msgid "our newest theme"
+msgstr "notre nouveau thème"
+
+#: inc/customizer.php:1878
+msgid "Clients area title"
+msgstr "Titre de la zone des clients"
+
+#: inc/customizer.php:1183
+msgid "Slider shortcode"
+msgstr "Shortcode du diaporama"
+
+#: sections/ribbon_with_right_button.php:16
+#: inc/customizer.php:2259
+msgid "Change this text in RightButton Ribbon"
+msgstr "Changer ce texte dans le bouton de droite du ruban"
+
+#. translators: Pirate Forms plugin install link
+#. translators: PirateForms plugin
+#: template-frontpage.php:109
+#: content-frontpage.php:107
+#: inc/customizer.php:2467
+msgid "You need to install %s to create a contact form."
+msgstr "Vous devez installer %s pour créer un formulaire de contact."
+
+#: inc/customizer.php:2603
+msgid "Footer options"
+msgstr "Options du pied de page"
+
+#: inc/customizer.php:740
+msgid "Advanced options"
+msgstr "Options avancées"
+
+#: functions.php:219
+msgid "Useful Plugins"
+msgstr "Extensions utiles"
+
+#: inc/customizer.php:157
+msgid "Get full color schemes support for your site."
+msgstr "Obtenez un support complet des jeux de couleurs pour votre site."
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:101
+#: inc/customizer.php:127
+msgid "Subscribe section"
+msgstr "Section d’abonnement"
+
+#: inc/customizer.php:123
+#: inc/customizer.php:182
+msgid "Background video"
+msgstr "Vidéo d’arrière-plan"
+
+#: inc/customizer.php:122
+msgid "Section Reordering"
+msgstr "Réordonner la section"
+
+#: functions.php:408
+msgid "Version: "
+msgstr "Version&nbsp;: "
+
+msgid "%s Older posts"
+msgstr "Articles plus anciens %s"
+
+msgid "Newer posts %s"
+msgstr "Articles plus récents %s"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Page d’accueil"
+
+#. translators: Testimonials section
+#. translators: Testimonials section link in customizer
+#. translators: Our team section
+#. translators: Our team section in customizer
+#: sections/testimonials.php:48
+#: sections/testimonials.php:51
+#: sections/our_team.php:36
+#: sections/our_team.php:39
+msgid "Add widgets in this area by going to the %s"
+msgstr "Ajoutez des widgets dans cette zone en allant sur %s"
+
+#: sections/about_us.php:64
+#: sections/about_us.php:71
+#: sections/about_us.php:78
+#: sections/about_us.php:85
+#: inc/customizer.php:1585
+#: inc/customizer.php:1661
+#: inc/customizer.php:1737
+#: inc/customizer.php:1813
+msgid "Edit skill"
+msgstr "Modifier la compétence"
+
+#. translators: Our focus section
+#. translators: About us section
+#. translators: Our team section
+#. translators: Our focus section in customizer
+#. translators: Our team section in customizer
+#. translators: About us section in customizer
+#: inc/customizer.php:1345
+#: inc/customizer.php:1476
+#: inc/customizer.php:1987
+#: inc/template-tags.php:276
+#: inc/template-tags.php:317
+#: inc/template-tags.php:479
+msgid "Change this subtitle in %s"
+msgstr "Changer ce sous-titre dans %s"
+
+#: sections/big_title.php:48
+#: sections/big_title.php:60
+#: inc/customizer.php:1078
+#: inc/customizer.php:1128
+msgid "Customize this button"
+msgstr "Personnaliser ce bouton"
+
+#. translators: Big title section
+#. translators: Customizer link for Big title section
+#: inc/customizer.php:1041
+#: inc/template-tags.php:433
+msgid "This piece of text can be changed in %s"
+msgstr "Ce morceau de texte peut être changé dans %s"
+
+#: functions.php:1047
+msgid "Go to"
+msgstr "Aller vers"
+
+#: functions.php:556
+msgid "Read more about "
+msgstr "En savoir plus sur "
+
+#. translators: BottomButton Ribbon in customizer
+#. translators: About use section in customizer
+#. translators: About us section
+#: sections/ribbon_with_bottom_button.php:17
+#: sections/about_us.php:53
+#: inc/customizer.php:1536
+msgid "Change this text in %s"
+msgstr "Changer ce texte dans %s"
+
+#: content.php:68
+#: content-large.php:75
+msgid "[&hellip;]"
+msgstr "[&hellip;]"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2627
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2621
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2616
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: class-tgm-plugin-activation.php:2546
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer ou activer."
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2355
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1995
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#. translators: Zerif Pro name
+#: functions.php:317
+msgid "Get %s now!"
+msgstr "Obtenez %s maintenant !"
+
+#: inc/customizer.php:1908
+msgid "Clients area"
+msgstr "Zone des clients"
