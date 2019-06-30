@@ -10985,7 +10985,7 @@ msgid "Content Boxed"
 msgstr "Encadré - Contenu seulement"
 
 msgid "Boxed"
-msgstr "Encadré - Tout"
+msgstr "Encadré"
 
 msgid "Content Layout"
 msgstr "Mise en page du contenu"
@@ -12303,3 +12303,15 @@ msgstr "Réglages avancés"
 
 msgid "Our Clients"
 msgstr "Nos clients"
+
+msgid "Installation guide"
+msgstr "Guide d'installation"
+
+msgid "Get in touch"
+msgstr "Entrer en contact"
+
+msgid "About Us"
+msgstr "À propos"
+
+msgid "Posted"
+msgstr "Publié"
