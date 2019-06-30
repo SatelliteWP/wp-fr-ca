@@ -22,3 +22,5 @@ mots-clefs
 image à la une
 bas de page
 WordPresss
+TVA
+stock
