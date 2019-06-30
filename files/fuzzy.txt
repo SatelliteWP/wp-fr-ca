@@ -24,3 +24,4 @@ bas de page
 WordPresss
 TVA
 stock
+plugin
