@@ -8861,7 +8861,6 @@ msgstr "Adresse web source"
 msgid "Edit Gallery"
 msgstr "Modifier la galerie"
 
-
 msgid "Bottom Right"
 msgstr "En bas à droite"
 
@@ -12315,3 +12314,641 @@ msgstr "À propos"
 
 msgid "Posted"
 msgstr "Publié"
+
+msgid "No section added"
+msgstr "Aucune section ajoutée"
+
+msgid "Manage page sections"
+msgstr "Gérer les sections de votre page"
+
+msgid "Add Section"
+msgstr "Ajouter une section"
+
+msgid "Full HD"
+msgstr "Full HD"
+
+msgid "Add Web Font"
+msgstr "Ajouter une police web"
+
+msgid "Mobile Font Size"
+msgstr "Taille de la police sur mobile"
+
+msgid "Upgrade to PRO"
+msgstr "Passez à la version Pro"
+
+msgid "Check all PRO features"
+msgstr "Découvrez toutes les fonctionnalités PRO"
+
+msgid "Available in PRO"
+msgstr "Disponible dans la version Pro"
+
+msgid "Text on left, image on right"
+msgstr "Texte à gauche, image à droite"
+
+msgid "Image on left, text on right"
+msgstr "Image à gauche, texte à droite"
+
+msgid "Text on left"
+msgstr "Texte à gauche"
+
+msgid "Text on right"
+msgstr "Texte à droite"
+
+msgid "Text on center"
+msgstr "Texte au centre"
+
+msgid "Apply Preset"
+msgstr "Appliquer le préréglage"
+
+msgid "Widgets Boxes"
+msgstr "Boîtes de widgets"
+
+msgid "Contact Boxes"
+msgstr "Boîtes de contact"
+
+msgid "Simple"
+msgstr "Simple"
+
+msgid "Don't show this popup in the future"
+msgstr "Ne plus afficher ce popup"
+
+msgid "Current php version is:"
+msgstr "Votre version actuelle de PHP est :"
+
+msgid "Choose Icon"
+msgstr "Choisir une icône"
+
+msgid "Plugin is installed and active."
+msgstr "L’extension est installée et activée."
+
+msgid "Install now"
+msgstr "Installer maintenant"
+
+msgid "Maybe later"
+msgstr "Peut-être plus tard"
+
+msgid "3 footer types"
+msgstr "3 types de pied de page"
+
+msgid "5 header types"
+msgstr "5 types d’en-tête"
+
+msgid "Live content editing"
+msgstr "Modification en direct du contenu"
+
+msgid "Drag and drop page customization"
+msgstr "Personnalisation des pages par drag and drop"
+
+msgid "Here's what you'll get"
+msgstr "Voici ce que vous obtiendrez"
+
+msgid "Show secondary button"
+msgstr "Afficher le bouton secondaire"
+
+msgid "Secondary Button"
+msgstr "Bouton secondaire"
+
+msgid "Label"
+msgstr "Libellé"
+
+msgid "Show primary button"
+msgstr "Afficher le bouton principal"
+
+msgid "Primary Button"
+msgstr "Bouton principal"
+
+msgid "Show subtitle"
+msgstr "Afficher le sous-titre"
+
+msgid "Show title"
+msgstr "Afficher le titre"
+
+msgid "Text Width"
+msgstr "Largeur du texte"
+
+msgid "Image width"
+msgstr "Largeur de l’image"
+
+msgid "Content template"
+msgstr "Modèle de contenu"
+
+msgid "Overlap with"
+msgstr "Chevaucher avec"
+
+msgid "Allow blog content to overlap header"
+msgstr "Autoriser le contenu du blogue à chevaucher l’en-tête"
+
+msgid "Main Content"
+msgstr "Contenu principal"
+
+msgid "Dark Logo"
+msgstr "Logo foncé"
+
+msgid "Logo Max Height"
+msgstr "Hauteur maximale du logo"
+
+msgid "Zigzag"
+msgstr "Zig-zag"
+
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Diviser"
+
+msgid "Arrow"
+msgstr "Flèche"
+
+msgid "Drops"
+msgstr "Gouttes"
+
+msgid "Curve"
+msgstr "Courbe"
+
+msgid "Clouds"
+msgstr "Nuages"
+
+msgid "Waves"
+msgstr "Vagues"
+
+msgid "Content Spacing"
+msgstr "Espacement du contenu"
+
+msgid "Show subtitle (blog description)"
+msgstr "Afficher le sous-titre (description du blogue)"
+
+msgid "Separator Height"
+msgstr "Hauteur du séparateur"
+
+msgid "Show header separator"
+msgstr "Afficher le séparateur d’en-tête"
+
+msgid "Header Separator"
+msgstr "Séparateur d’en-tête"
+
+msgid "Overlay Opacity"
+msgstr "Opacité de la couverture"
+
+msgid "Show overlay"
+msgstr "Afficher la couverture"
+
+msgid "Header Overlay Options"
+msgstr "Options de couverture de l’en-tête"
+
+msgid "Effect Speed"
+msgstr "Vitesse de l’effet"
+
+msgid "Slide Duration"
+msgstr "Durée de la diapositive"
+
+msgid "Slideshow image"
+msgstr "Image du diaporama"
+
+msgid "Header Slideshow Images"
+msgstr "Images d’arrière-plan d’en-tête"
+
+msgid "Header Gradient"
+msgstr "Dégradé de l’en-tête"
+
+msgid "Full Height Background"
+msgstr "Arrière-plan en pleine hauteur"
+
+msgid "Header Background Options"
+msgstr "Options d’arrière-plan d’en-tête"
+
+msgid "Transparent Navigation"
+msgstr "Navigation transparente"
+
+msgid "Stick to top"
+msgstr "Épingler en haut"
+
+msgid "Boxed Navigation"
+msgstr "Navigation encadrée"
+
+msgid "Show Navigation Bottom Border"
+msgstr "Afficher la bordure basse de la navigation"
+
+msgid "Navigation Options"
+msgstr "Options de navigation"
+
+msgid "Video Poster"
+msgstr "Poster vidéo"
+
+msgid "External Video"
+msgstr "Vidéo externe"
+
+msgid "Self hosted video (MP4)"
+msgstr "Vidéo auto-hébergée (MP4)"
+
+msgid "Slideshow"
+msgstr "Diaporama "
+
+msgid "Gradient"
+msgstr "Dégradé"
+
+msgid "Background Type"
+msgstr "Type d’arrière plan"
+
+msgid "Show "
+msgstr "Afficher"
+
+msgid "Social Icons"
+msgstr "Icônes de réseaux sociaux"
+
+msgid "Box 3"
+msgstr "Boîte 3"
+
+msgid "Box 2"
+msgstr "Boîte 2"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Box 1"
+msgstr "Boîte 1"
+
+msgid "Icon 5"
+msgstr "Icône 5"
+
+msgid "Icon 4"
+msgstr "Icône 4"
+
+msgid "Icon 3"
+msgstr "Icône 3"
+
+msgid "Icon 2"
+msgstr "Icône 2"
+
+msgid "Icon 1"
+msgstr "Icône 1"
+
+msgid "Inner Pages Header Content"
+msgstr "Contenu d’en-tête intérieur des pages"
+
+msgid "Inner Pages Header Background"
+msgstr "Arrière-plan d’en-tête intérieur des pages"
+
+msgid "Front Page Header Content"
+msgstr "Contenu d’en-tête de l’accueil"
+
+msgid "Front Page Header Background"
+msgstr "Arrière-plan d’en-tête de l’accueil"
+
+msgid "Front Page Header Designs"
+msgstr "Designs d’en-tête de l’accueil"
+
+msgid "Front Page content"
+msgstr "Contenu de la page d’accueil"
+
+msgid "Go to widgets section to add a widget here."
+msgstr "Allez dans la section des widgets pour ajouter un widget ici."
+
+msgid "Hex Value"
+msgstr "Valeur hexadécimale"
+
+msgid "Switch Editor"
+msgstr "Permuter l’éditeur"
+
+msgid "Close Editor"
+msgstr "Fermer l’éditeur"
+
+msgid "Open Editor"
+msgstr "Ouvrir l’éditeur"
+
+msgid "Select a Page"
+msgstr "Sélectionner une page"
+
+msgid "Text Align"
+msgstr "Alignement du texte"
+
+msgid "%s Reset"
+msgstr "Réinitialiser %s"
+
+msgid "Limit: %s rows"
+msgstr "Limite&nbsp;: %s lignes"
+
+msgid "Add new"
+msgstr "Ajouter"
+
+msgid "Invalid Value"
+msgstr "Valeur non valide"
+
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italique"
+
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italique"
+
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italique"
+
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italique"
+
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italique"
+
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italique"
+
+msgid "Light 200 Italic"
+msgstr "Light 200 Italique"
+
+msgid "Light 200"
+msgstr "Light 200"
+
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italique"
+
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+msgid "Subset"
+msgstr "Sous-ensemble"
+
+msgid "Variant"
+msgstr "Variante"
+
+msgid "Select a font-family"
+msgstr "Sélectionner une famille de police"
+
+msgid "Change File"
+msgstr "Changer le fichier"
+
+msgid "Add File"
+msgstr "Ajouter un fichier"
+
+msgid "No Image Selected"
+msgstr "Aucune image sélectionnée"
+
+msgid "Change Image"
+msgstr "Changer l’image"
+
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+msgid "Font Style"
+msgstr "Style de police"
+
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgid "Bengali"
+msgstr "Bengali"
+
+msgid "Latin Extended"
+msgstr "Latin Étendu"
+
+msgid "Latin"
+msgstr "Latin"
+
+msgid "Greek Extended"
+msgstr "Grecque Étendu"
+
+msgid "Devanagari"
+msgstr "Devanagari"
+
+msgid "Cyrillic Extended"
+msgstr "Cyrillic Étendu"
+
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+msgid "OFF"
+msgstr "NON"
+
+msgid "ON"
+msgstr "OUI"
+
+msgid "Background Repeat"
+msgstr "Répétition de l’arrière-plan"
+
+msgid "Select FontAwesome Icon"
+msgstr "Sélectionner une icône FontAwesome"
+
+msgid "Change Icon"
+msgstr "Changer d’icône"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l’extension %1$s (%2$d/%3$d)"
+
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installé."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installé et activé."
+
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr "L’installation de %1$s a échoué."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l’extension %1$s (%2$d/%3$d)"
+
+msgid "Plugin activation failed."
+msgstr "Échec de l’activation de l’extension."
+
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de l’auteur de l’extension :"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Plugin"
+msgstr "Extension"
+
+msgid "Available version:"
+msgstr "Version disponible&nbsp;:"
+
+msgid "Minimum required version:"
+msgstr "Version minimum requise&nbsp;:"
+
+msgid "Installed version:"
+msgstr "Version installée&nbsp;:"
+
+msgid "unknown"
+msgstr "inconnu"
+
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "À activer <span class=\"count\">(%s)</span>"
+msgstr[1] "À activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "À installer <span class=\"count\">(%s)</span>"
+msgstr[1] "À installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toutes <span class=\"count\">(%s)</span>"
+msgstr[1] "Toutes <span class=\"count\">(%s)</span>"
+
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+msgid "Requires Update"
+msgstr "Nécessite une mise à jour"
+
+msgid "Required Update not Available"
+msgstr "Mise à jour nécessaire non disponible"
+
+msgid "Active"
+msgstr "Activé"
+
+msgid "Installed But Not Activated"
+msgstr "Installée mais non activée"
+
+msgid "Not Installed"
+msgstr "Non installée"
+
+msgid "Pre-Packaged"
+msgstr "Pré-packagée"
+
+msgid "External Source"
+msgstr "Source externe"
+
+msgid "WordPress Repository"
+msgstr "Dépôt WordPress"
+
+msgid "Required"
+msgstr "Obligatoire"
+
+msgid "and"
+msgstr "et"
+
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action effectuée. L’extension %1$s était déjà activée."
+
+msgid "The following plugin was activated successfully:"
+msgstr "L’extension suivante a bien été activée&nbsp;:"
+
+msgid "Plugin activated successfully."
+msgstr "L’extension a bien été activée."
+
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l’installation des extensions requises."
+
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Lancer l’activation de l’extension"
+msgstr[1] "Lancer l’activation des extensions"
+
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Lancer la mise à jour de l’extension"
+msgstr[1] "Lancer la mise à jour des extensions"
+
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Lancer l’installation de l’extension"
+msgstr[1] "Lancer l’installation des extensions"
+
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l’extension : %s"
+
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr "Installation de l’extension : %s"
+
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "Modèle de page d’accueil"
+
+msgid "Previous:"
+msgstr "Précédent&nbsp;:"
+
+msgid "Next:"
+msgstr "Suivant&nbsp;:"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Action button 2"
+msgstr "Bouton d’action 2"
+
+msgid "Action button 1"
+msgstr "Bouton d’action 1"
+
+msgid "You can set this subtitle from the customizer."
+msgstr "Vous pouvez configurer ce sous-titre depuis la personnalisation."
+
+msgid "You can set this title from the customizer."
+msgstr "Vous pouvez configurer ce titre depuis la personnalisation."
+
+msgid "Homepage Header Image"
+msgstr "Image d’en-tête de l’accueil"
+
+msgid "Newer Comments &gt;"
+msgstr "Commentaires plus récents &rarr;"
+
+msgid "&lt; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+msgid "% Responses"
+msgstr "% réponses"
+
+msgid "One Response"
+msgstr "Une réponse"
+
+msgid "No Responses"
+msgstr "Aucune réponse"
