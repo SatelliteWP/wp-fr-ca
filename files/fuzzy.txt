@@ -25,3 +25,10 @@ WordPresss
 TVA
 stock
 plugin
+paramètre
+paramètres
+blog.
+blog 
+blog,
+blog:
+blog&nbsp;
