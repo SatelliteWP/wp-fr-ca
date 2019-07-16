@@ -26,7 +26,7 @@ TVA
 stock
 plugin
 paramètre
-paramètres
+paramétre
 blog.
 blog 
 blog,
