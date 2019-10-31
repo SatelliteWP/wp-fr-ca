@@ -923,6 +923,9 @@ msgctxt "User role"
 msgid "Administrator"
 msgstr "Administrateur"
 
+msgid "Admin"
+msgstr "Admin"
+
 msgid "Select site icon"
 msgstr "Choisir l'icône du site"
 
@@ -3879,11 +3882,11 @@ msgstr "Définir l’image mise en avant"
 
 msgctxt "page"
 msgid "Featured Image"
-msgstr "Image mise en avant"
+msgstr "Image à la Une"
 
 msgctxt "post"
 msgid "Featured Image"
-msgstr "Image mise en avant"
+msgstr "Image à la Une"
 
 #. translators: 1: suggested width number, 2: suggested height number.
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
@@ -4193,7 +4196,10 @@ msgstr "Accueil"
 
 msgctxt "Theme starter content"
 msgid "Email"
-msgstr "Adresse courriel"
+msgstr "Courriel"
+
+msgid "email"
+msgstr "courriel"
 
 msgctxt "Theme starter content"
 msgid "Instagram"
@@ -4321,7 +4327,7 @@ msgid "I really need an ID for this to work."
 msgstr "J’ai vraiment besoin d’un identifiant pour que cela fonctionne."
 
 msgid "Homepage"
-msgstr "Accueil"
+msgstr "Page d'accueil"
 
 msgid "Hours"
 msgstr "Heures"
@@ -9740,6 +9746,9 @@ msgstr "Alignement"
 msgid "Size"
 msgstr "Taille"
 
+msgid "size"
+msgstr "taille"
+
 msgid "Full Size"
 msgstr "Taille originale"
 
@@ -9834,10 +9843,10 @@ msgid "Users"
 msgstr "Utilisateurs"
 
 msgid "Edit Post"
-msgstr "Modifier l&rsquo;article"
+msgstr "Modifier l'article"
 
 msgid "View Post"
-msgstr "Voir l&rsquo;article"
+msgstr "Voir l’article"
 
 msgctxt "post"
 msgid "Add New"
@@ -11346,6 +11355,9 @@ msgstr "Désactiver des éléments"
 
 msgid "Warning: This will delete your settings."
 msgstr "Avertissement&nbsp;: ceci va effacer vos réglages."
+
+msgid "Warning"
+msgstr "Avertissement"
 
 msgid "5 Widgets"
 msgstr "5 Widgets"
@@ -12858,6 +12870,9 @@ msgstr "Dépôt WordPress"
 msgid "Required"
 msgstr "Obligatoire"
 
+msgid "required"
+msgstr "obligatoire"
+
 msgid "and"
 msgstr "et"
 
@@ -12952,3 +12967,66 @@ msgstr "Une réponse"
 
 msgid "No Responses"
 msgstr "Aucune réponse"
+
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e)?"
+
+msgid "Sender"
+msgstr "Expéditeur"
+
+msgid "Cost"
+msgstr "Coût"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Contact info"
+msgstr "Informations de contact"
+
+msgid "Search results for %s"
+msgstr "Résultats de recherche pour %s"
+
+msgid "Last Name"
+msgstr "Nom"
+
+msgid "Select page"
+msgstr "Sélectionnez une page"
+
+msgid "Taxable"
+msgstr "Taxable"
+
+msgid "Tax status"
+msgstr "Statut fiscal"
+
+msgid "Select country"
+msgstr "Choisissez un pays"
+
+msgid "Export to CSV"
+msgstr "Exporter au format CSV"
+
+msgid "Post code"
+msgstr "Code postal"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "company"
+msgstr "entreprise"
+
+msgid "Slider title"
+msgstr "Titre du diaporama"
+
+msgid "Slider subtitle"
+msgstr "Sous-titre du diaporama"
+
+msgid "All rights reserved."
+msgstr "Tous droits réservés."
+
+msgid "All rights reserved"
+msgstr "Tous droits réservés"
+
+msgid "Add or remove row"
+msgstr "Ajouter ou retirer une ligne"
