@@ -13030,3 +13030,1301 @@ msgstr "Tous droits réservés"
 
 msgid "Add or remove row"
 msgstr "Ajouter ou retirer une ligne"
+
+msgid "survey"
+msgstr "enquête"
+
+msgid "contact"
+msgstr "contact"
+
+msgid "MonsterInsights Pro"
+msgstr "MonsterInsights Pro"
+
+msgid "Choice Limit"
+msgstr "Limite de choix"
+
+msgid "Please enter a valid phone number."
+msgstr "Veuillez saisir un numéro de téléphone valide."
+
+msgid "Checkbox reCAPTCHA v2"
+msgstr "Checkbox reCAPTCHA v2"
+
+msgid "Form:"
+msgstr "Formulaire :"
+
+msgid "Title:"
+msgstr "Titre :"
+
+msgid "WPForms"
+msgstr "WPForms"
+
+msgid "Display a form."
+msgstr "Afficher un formulaire."
+
+msgid "Connect"
+msgstr "Connecter"
+
+msgid "Deactivate Key"
+msgstr "Désactiver la clé"
+
+msgid "Verify Key"
+msgstr "Vérifier la clé"
+
+msgid "Number"
+msgstr "Nombre"
+
+msgid "Website URL"
+msgstr "URL du site"
+
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+msgid "Site Key"
+msgstr "Clé de site"
+
+msgid "Invisible reCAPTCHA v2"
+msgstr "Invisible reCAPTCHA v2"
+
+msgid "Carbon Copy"
+msgstr "Copie carbone"
+
+msgid "Plain text"
+msgstr "Texte brut"
+
+msgid "HTML Template"
+msgstr "Modèle HTML"
+
+msgid "GDPR Enhancements"
+msgstr "Améliorations RGPD"
+
+msgid "GDPR"
+msgstr "RGPD"
+
+msgid "License Key"
+msgstr "Clé de licence"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "Misc"
+msgstr "Divers"
+
+msgid "Validation"
+msgstr "Validation"
+
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+msgid "Settings were successfully saved."
+msgstr "Les réglages ont bien été enregistrés."
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "Feature"
+msgstr "Fonctionnalité"
+
+msgid "Read Documentation"
+msgstr "Lire la documentation"
+
+#, fuzzy
+msgid "Addons"
+msgstr "Modules"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+
+msgid "Analytics"
+msgstr "Statistiques et mesures d’audience"
+
+msgid "Payments"
+msgstr "Paiements"
+
+msgid "Field required"
+msgstr "Champ obligatoire"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Selected"
+msgstr "Sélectionné"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Months"
+msgstr "Mois"
+
+msgid "Countries"
+msgstr "Pays"
+
+msgid "Exit"
+msgstr "Quitter"
+
+msgid "Use Template"
+msgstr "Utiliser le modèle"
+
+msgid "Loading"
+msgstr "Chargement en cours"
+
+msgid "Select your column"
+msgstr "Sélectionnez votre colonne"
+
+msgid "Select your layout"
+msgstr "Sélectionnez votre mise en page"
+
+msgid "Save and Exit"
+msgstr "Enregistrer et quitter"
+
+msgid "Saved!"
+msgstr "Enregistré !"
+
+msgid "Saving ..."
+msgstr "Enregistrement..."
+
+msgid "Add New"
+msgstr "Ajouter"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Notification"
+msgstr "Notification"
+
+msgid "Inactive"
+msgstr "Inactifs"
+
+msgid "Testimonials"
+msgstr "Témoignages"
+
+msgid "PRO"
+msgstr "PRO"
+
+msgid "Surveys"
+msgstr "Enquêtes"
+
+msgid "Zapier"
+msgstr "Zapier"
+
+msgid "Geolocation"
+msgstr "Géolocalisation"
+
+msgid "Signatures"
+msgstr "Signatures"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Spam Protection"
+msgstr "Protection contre le spam"
+
+msgid "Logs"
+msgstr "Journaux"
+
+msgid "This field is required."
+msgstr "Ce champ est obligatoire"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Zambia"
+msgstr "Zambie"
+
+msgid "Yemen"
+msgstr "Yémen"
+
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+msgid "Wallis and Futuna"
+msgstr "Wallis et Futuna"
+
+msgid "Virgin Islands (U.S.)"
+msgstr "Îles Vierges (Américaines)"
+
+msgid "Virgin Islands (British)"
+msgstr "Îles Vierges (Britanniques)"
+
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+msgid "Venezuela (Bolivarian Republic of)"
+msgstr "Venezuela (République bolivarienne du)"
+
+msgid "Vatican City State"
+msgstr "État de la cité du Vatican"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Uzbekistan"
+msgstr "Ouzbékistan"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Îles mineures américaines"
+
+msgid "United States of America"
+msgstr "États-Unis d’Amérique"
+
+msgid "United Arab Emirates"
+msgstr "Émirats arabes unis"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Uganda"
+msgstr "Ouganda"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Turks and Caicos Islands"
+msgstr "Îles Turques et Caïques"
+
+msgid "Turkmenistan"
+msgstr "Turkménistan"
+
+msgid "Turkey"
+msgstr "Turquie"
+
+msgid "Tunisia"
+msgstr "Tunisie"
+
+msgid "Trinidad and Tobago"
+msgstr "Trinité et Tobago"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Timor-Leste"
+msgstr "Timor oriental"
+
+msgid "Thailand"
+msgstr "Thaïlande"
+
+msgid "Tanzania (United Republic of)"
+msgstr "Tanzanie (République-Unie de)"
+
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+msgid "Taiwan, Province of China"
+msgstr "Taïwan, province de Chine"
+
+msgid "Syrian Arab Republic"
+msgstr "République arabe syrienne"
+
+msgid "Switzerland"
+msgstr "Suisse"
+
+msgid "Sweden"
+msgstr "Suède"
+
+msgid "Swaziland"
+msgstr "Eswatini"
+
+msgid "Svalbard and Jan Mayen"
+msgstr "Îles de Svalbard et Jan Mayen"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Sudan"
+msgstr "Soudan"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Spain"
+msgstr "Espagne"
+
+msgid "South Sudan"
+msgstr "Soudan du Sud"
+
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Géorgie du Sud et îles Sandwich du Sud"
+
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+msgid "Somalia"
+msgstr "Somalie"
+
+msgid "Solomon Islands"
+msgstr "Îles Salomon"
+
+msgid "Slovenia"
+msgstr "Slovénie"
+
+msgid "Slovakia"
+msgstr "Slovaquie"
+
+msgid "Sint Maarten (Dutch part)"
+msgstr "Sint Maarten (partie hollandaise)"
+
+msgid "Singapore"
+msgstr "Singapour"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgid "Serbia"
+msgstr "Serbie"
+
+msgid "Senegal"
+msgstr "Sénégal"
+
+msgid "Saudi Arabia"
+msgstr "Arabie Saoudite"
+
+msgid "Sao Tome and Principe"
+msgstr "Sao Tomé et Principe"
+
+msgid "San Marino"
+msgstr "Saint-Marin"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint-Vincent-et-les Grenadines"
+
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre et Miquelon"
+
+msgid "Saint Martin (French part)"
+msgstr "Saint Martin (partie française)"
+
+msgid "Saint Lucia"
+msgstr "Sainte-Lucie"
+
+msgid "Saint Kitts and Nevis"
+msgstr "Saint-Christophe-et-Nevis"
+
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr "Sainte-Hélène, Ascension et Tristan da Cunha"
+
+msgid "Saint Barthélemy"
+msgstr "Saint Barthélemy"
+
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgid "Russian Federation"
+msgstr "Fédération Russe"
+
+msgid "Romania"
+msgstr "Roumanie"
+
+msgid "Réunion"
+msgstr "La Réunion"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Poland"
+msgstr "Pologne"
+
+msgid "Pitcairn"
+msgstr "Îles Pitcairn"
+
+msgid "Philippines"
+msgstr "Philippines"
+
+msgid "Peru"
+msgstr "Pérou"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Papua New Guinea"
+msgstr "Papouasie-Nouvelle-Guinée"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Palestine (State of)"
+msgstr "Palestine (État de)"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "Norway"
+msgstr "Norvège"
+
+msgid "Northern Mariana Islands"
+msgstr "Îles Mariannes du Nord"
+
+msgid "Norfolk Island"
+msgstr "Île Norfolk"
+
+msgid "Niue"
+msgstr "Niué"
+
+msgid "Nigeria"
+msgstr "Nigéria"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "New Zealand"
+msgstr "Nouvelle-Zélande"
+
+msgid "New Caledonia"
+msgstr "Nouvelle-Calédonie"
+
+msgid "Netherlands"
+msgstr "Pays-Bas"
+
+msgid "Nepal"
+msgstr "Népal"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Namibia"
+msgstr "Namibie"
+
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Morocco"
+msgstr "Maroc"
+
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgid "Montenegro"
+msgstr "Monténégro"
+
+msgid "Mongolia"
+msgstr "Mongolie"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Moldova (Republic of)"
+msgstr "Moldova (République de)"
+
+msgid "Micronesia (Federated States of)"
+msgstr "Micronésie (États fédérés de)"
+
+msgid "Mexico"
+msgstr "Mexique"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "Mauritius"
+msgstr "Île Maurice"
+
+msgid "Mauritania"
+msgstr "Mauritanie"
+
+msgid "Martinique"
+msgstr "Martinique"
+
+msgid "Marshall Islands"
+msgstr "Îles Marshall"
+
+msgid "Malta"
+msgstr "Malte"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Maldives"
+msgstr "Maldives"
+
+msgid "Malaysia"
+msgstr "Malaisie"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Macedonia (Republic of)"
+msgstr "Macédoine (République de)"
+
+msgid "Macao"
+msgstr "Macao"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Lithuania"
+msgstr "Lituanie"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Libya"
+msgstr "Libye"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Lebanon"
+msgstr "Liban"
+
+msgid "Latvia"
+msgstr "Lettonie"
+
+msgid "Lao People's Democratic Republic"
+msgstr "République démocratique populaire du Laos"
+
+msgid "Kyrgyzstan"
+msgstr "Kirghizistan"
+
+msgid "Kuwait"
+msgstr "Koweït"
+
+msgid "Korea (Republic of)"
+msgstr "Corée (République de)"
+
+msgid "Korea (Democratic People's Republic of)"
+msgstr "Corée (République populaire démocratique de)"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Jordan"
+msgstr "Jordanie"
+
+msgid "Jersey"
+msgstr "Jersey"
+
+msgid "Japan"
+msgstr "Japon"
+
+msgid "Jamaica"
+msgstr "Jamaïque"
+
+msgid "Italy"
+msgstr "Italie"
+
+msgid "Israel"
+msgstr "Israël"
+
+msgid "Isle of Man"
+msgstr "Île de Man"
+
+msgid "Ireland (Republic of)"
+msgstr "Irlande (République d’)"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Iran (Islamic Republic of)"
+msgstr "Iran (République islamique d')"
+
+msgid "Indonesia"
+msgstr "Indonésie"
+
+msgid "India"
+msgstr "Inde"
+
+msgid "Iceland"
+msgstr "Islande"
+
+msgid "Hungary"
+msgstr "Hongrie"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Heard Island and McDonald Islands"
+msgstr "Îles Heard et McDonald"
+
+msgid "Haiti"
+msgstr "Haïti"
+
+msgid "Guyana"
+msgstr "Guyane"
+
+msgid "Guinea-Bissau"
+msgstr "Guinée-Bissau"
+
+msgid "Guinea"
+msgstr "Guinée"
+
+msgid "Guernsey"
+msgstr "Guernsey"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Grenada"
+msgstr "Grenade"
+
+msgid "Greenland"
+msgstr "Groenland"
+
+msgid "Greece"
+msgstr "Grèce"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Germany"
+msgstr "Allemagne"
+
+msgid "Georgia"
+msgstr "Géorgie"
+
+msgid "Gambia"
+msgstr "Gambie"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "French Southern Territories"
+msgstr "Terres Australes Françaises"
+
+msgid "French Polynesia"
+msgstr "Polynésie française"
+
+msgid "French Guiana"
+msgstr "Guyane"
+
+msgid "France"
+msgstr "France"
+
+msgid "Finland"
+msgstr "Finlande"
+
+msgid "Fiji"
+msgstr "Fidji"
+
+msgid "Faroe Islands"
+msgstr "Îles Féroé"
+
+msgid "Falkland Islands (Malvinas)"
+msgstr "Îles Falkland (Malvinas)"
+
+msgid "Ethiopia"
+msgstr "Éthiopie"
+
+msgid "Estonia"
+msgstr "Estonie"
+
+msgid "Eritrea"
+msgstr "Érythrée"
+
+msgid "Equatorial Guinea"
+msgstr "Guinée équatoriale"
+
+msgid "El Salvador"
+msgstr "Salvador"
+
+msgid "Egypt"
+msgstr "Égypte"
+
+msgid "Ecuador"
+msgstr "Équateur"
+
+msgid "Dominican Republic"
+msgstr "République Dominicaine"
+
+msgid "Dominica"
+msgstr "Dominique"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Denmark"
+msgstr "Danemark"
+
+msgid "Czech Republic"
+msgstr "République tchèque"
+
+msgid "Cyprus"
+msgstr "Chypre"
+
+msgid "Curaçao"
+msgstr "Curaçao"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Croatia"
+msgstr "Croatie"
+
+msgid "Côte d'Ivoire"
+msgstr "Côte d’Ivoire"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cook Islands"
+msgstr "Îles Cook"
+
+msgid "Congo (Democratic Republic of the)"
+msgstr "Congo (République démocratique du)"
+
+msgid "Congo"
+msgstr "Congo"
+
+msgid "Comoros"
+msgstr "Comores"
+
+msgid "Colombia"
+msgstr "Colombie"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Îles Cocos (Keeling)"
+
+msgid "Christmas Island"
+msgstr "Île Christmas"
+
+msgid "China"
+msgstr "Chine"
+
+msgid "Chile"
+msgstr "Chili"
+
+msgid "Chad"
+msgstr "Tchad"
+
+msgid "Central African Republic"
+msgstr "République centrafricaine"
+
+msgid "Cayman Islands"
+msgstr "Îles Cayman"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cameroon"
+msgstr "Cameroun"
+
+msgid "Cambodia"
+msgstr "Cambodge"
+
+msgid "Cabo Verde"
+msgstr "Cap-Vert"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+msgid "Brunei Darussalam"
+msgstr "Negara Brunei Darussalam"
+
+msgid "British Indian Ocean Territory"
+msgstr "Territoire britannique de l’océan Indien"
+
+msgid "Brazil"
+msgstr "Brésil"
+
+msgid "Bouvet Island"
+msgstr "Île Bouvet"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnie-Herzégovine"
+
+msgid "Bolivia (Plurinational State of)"
+msgstr "Bolivie (État plurinational de)"
+
+msgid "Bhutan"
+msgstr "Bhoutan"
+
+msgid "Bermuda"
+msgstr "Bermudes"
+
+msgid "Benin"
+msgstr "Bénin"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Belgium"
+msgstr "Belgique"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Barbados"
+msgstr "La Barbade"
+
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgid "Bahrain"
+msgstr "Bahreïn"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Azerbaijan"
+msgstr "Azerbaïdjan"
+
+msgid "Austria"
+msgstr "Autriche"
+
+msgid "Australia"
+msgstr "Australie"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Armenia"
+msgstr "Arménie"
+
+msgid "Argentina"
+msgstr "Argentine"
+
+msgid "Antigua and Barbuda"
+msgstr "Antigua-et-Barbuda"
+
+msgid "Antarctica"
+msgstr "Antarctique"
+
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Andorra"
+msgstr "Andorre"
+
+msgid "American Samoa"
+msgstr "Samoa américaines"
+
+msgid "Algeria"
+msgstr "Algérie"
+
+msgid "Albania"
+msgstr "Albanie"
+
+msgid "Åland Islands"
+msgstr "Îles Åland"
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Wyoming"
+msgstr "Wyoming"
+
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgid "West Virginia"
+msgstr "Virginie-Occidentale"
+
+msgid "Washington"
+msgstr "Washington"
+
+msgid "Virginia"
+msgstr "Virginie"
+
+msgid "Vermont"
+msgstr "Vermont"
+
+msgid "Utah"
+msgstr "Utah"
+
+msgid "Texas"
+msgstr "Texas"
+
+msgid "Tennessee"
+msgstr "Tennessee"
+
+msgid "South Dakota"
+msgstr "Dakota du Sud"
+
+msgid "South Carolina"
+msgstr "Caroline du Sud"
+
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+msgid "Pennsylvania"
+msgstr "Pennsylvanie"
+
+msgid "Oregon"
+msgstr "Oregon"
+
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+msgid "Ohio"
+msgstr "Ohio"
+
+msgid "North Dakota"
+msgstr "Dakota du Nord"
+
+msgid "North Carolina"
+msgstr "Caroline du Nord"
+
+msgid "New York"
+msgstr "New York"
+
+msgid "New Mexico"
+msgstr "Nouveau-Mexique"
+
+msgid "New Jersey"
+msgstr "New Jersey"
+
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+msgid "Nevada"
+msgstr "Nevada"
+
+msgid "Nebraska"
+msgstr "Nebraska"
+
+msgid "Montana"
+msgstr "Montana"
+
+msgid "Missouri"
+msgstr "Missouri"
+
+msgid "Mississippi"
+msgstr "Mississippi"
+
+msgid "Minnesota"
+msgstr "Minnesota"
+
+msgid "Michigan"
+msgstr "Michigan"
+
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+msgid "Maryland"
+msgstr "Maryland"
+
+msgid "Maine"
+msgstr "Maine"
+
+msgid "Louisiana"
+msgstr "Louisiane"
+
+msgid "Kentucky"
+msgstr "Kentucky"
+
+msgid "Kansas"
+msgstr "Kansas"
+
+msgid "Iowa"
+msgstr "Iowa"
+
+msgid "Indiana"
+msgstr "Indiana"
+
+msgid "Illinois"
+msgstr "Illinois"
+
+msgid "Idaho"
+msgstr "Idaho"
+
+msgid "Hawaii"
+msgstr "Hawaï"
+
+msgctxt "US State"
+msgid "Georgia"
+msgstr "Géorgie"
+
+msgid "Florida"
+msgstr "Floride"
+
+msgid "District of Columbia"
+msgstr "District de Columbia"
+
+msgid "Delaware"
+msgstr "Delaware"
+
+msgid "Connecticut"
+msgstr "Connecticut"
+
+msgid "Colorado"
+msgstr "Colorado"
+
+msgid "California"
+msgstr "Californie"
+
+msgid "Arkansas"
+msgstr "Arkansas"
+
+msgid "Arizona"
+msgstr "Arizona"
+
+msgid "Alaska"
+msgstr "Alaska"
+
+msgid "Alabama"
+msgstr "Alabama"
+
+msgid "Middle Name"
+msgstr "Second prénom"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Placeholder"
+msgstr "Espace réservé"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Choice %s"
+msgstr "Choix %s"
+
+msgid "Checked"
+msgstr "Coché"
+
+msgid "Checkboxes"
+msgstr "Cases à cocher"
+
+msgid "Items"
+msgstr "Éléments"
+
+msgid "taxonomy"
+msgstr "taxonomie"
+
+msgid "post type"
+msgstr "type de publication"
+
+msgid "Upload Image"
+msgstr "Téléverser une image"
+
+msgid "Bulk Add"
+msgstr "Ajout groupé"
+
+msgid "Choices"
+msgstr "Choix"
+
+msgid "GDPR Agreement"
+msgstr "Accord RGPD"
+
+msgid "Show Values"
+msgstr "Afficher les valeurs"
+
+msgid "First Choice"
+msgstr "Premier choix"
+
+msgid "Second Choice"
+msgstr "Deuxième choix"
+
+msgid "Third Choice"
+msgstr "Troisième choix"
+
+msgid "Upgrade Now"
+msgstr "Mettre à niveau maintenant"
+
+msgid "Show Page"
+msgstr "Afficher la page"
+
+msgid "Confirmations"
+msgstr "Confirmations"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Reply-To"
+msgstr "Répondre à"
+
+msgid "From Name"
+msgstr "Nom de l’expéditeur"
+
+msgid "CC"
+msgstr "CC"
+
+msgid "Default Notification"
+msgstr "Notification par défaut"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Close this window"
+msgstr "Fermer cette fenêtre"
+
+msgid "%s Preview"
+msgstr "Aperçu de %s"
+
+msgid "Show Description"
+msgstr "Afficher la description"
+
+msgid "Show Title"
+msgstr "Afficher le titre"
+
+msgid "Select a Form"
+msgstr "Sélectionnez un formulaire"
+
+msgid "form"
+msgstr "formulaire"
+
+msgid "Form"
+msgstr "Formulaire"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Field Name"
+msgstr "Nom du champ"
+
+msgid "Custom Field Name"
+msgstr "Nom du champ personnalisé"
+
+msgid "You do not have permissions."
+msgstr "Vous n’avez pas les autorisations."
+
+msgid "Missing data"
+msgstr "Données manquantes"
+
+msgid "You do not have permission"
+msgstr "Vous n’avez pas l’autorisation"
+
+msgid "Add New Account"
+msgstr "Ajouter un nouveau compte"
+
+msgid "Connect to %s"
+msgstr "Se connecter à %s"
+
+msgid "Disconnect"
+msgstr "Se déconnecter"
+
+msgid "Connected"
+msgstr "Connecté"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "secondes"
+msgstr[1] "secondes"
+
+msgid "Add a Block"
+msgstr "Ajouter un bloc"
+
+msgid "Select a Template"
+msgstr "Sélectionnez un modèle"
+
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+msgid "Recommended Plugin:"
+msgstr "Extension recommandée :"
+
+msgid "Entries"
+msgstr "Entrées"
+
+msgid "Show Less"
+msgstr "Afficher moins"
+
+msgid "Show More"
+msgstr "Afficher la suite"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Captcha"
+msgstr "CaptchaA"
+
+msgid "Rating"
+msgstr "Note"
+
+msgid "Section Divider"
+msgstr "Séparateur de section"
+
+msgid "File Upload"
+msgstr "Envoi de fichier"
+
+msgid "Hidden Field"
+msgstr "Champ masqué"
+
+msgid "Date / Time"
+msgstr "Date / Heure"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Website / URL"
+msgstr "Site / URL"
+
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+msgid "Donation Form"
+msgstr "Formulaire de don"

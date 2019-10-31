@@ -32,3 +32,7 @@ blog
 blog,
 blog:
 blog&nbsp;
+Newsletter
+newsletter
+newsletters
+Newsletters
