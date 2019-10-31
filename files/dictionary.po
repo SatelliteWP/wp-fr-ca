@@ -3882,11 +3882,11 @@ msgstr "Définir l’image mise en avant"
 
 msgctxt "page"
 msgid "Featured Image"
-msgstr "Image à la Une"
+msgstr "Image mise en avant"
 
 msgctxt "post"
 msgid "Featured Image"
-msgstr "Image à la Une"
+msgstr "Image mise en avant"
 
 #. translators: 1: suggested width number, 2: suggested height number.
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
