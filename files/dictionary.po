@@ -13052,9 +13052,6 @@ msgstr "Checkbox reCAPTCHA v2"
 msgid "Form:"
 msgstr "Formulaire :"
 
-msgid "Title:"
-msgstr "Titre :"
-
 msgid "WPForms"
 msgstr "WPForms"
 
@@ -13139,7 +13136,6 @@ msgstr "Info"
 
 msgid "Confirmation"
 msgstr "Confirmation"
-
 
 msgid "Analytics"
 msgstr "Statistiques et mesures d’audience"
@@ -14328,3 +14324,21 @@ msgstr "Mettre à niveau"
 
 msgid "Donation Form"
 msgstr "Formulaire de don"
+
+msgid "Schema"
+msgstr "Schéma"
+
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+msgid "Dismiss this alert"
+msgstr "Ignorer cette alerte"
+
+msgid "Continue learning"
+msgstr "Continuez d’apprendre"
+
+msgid "Show this item."
+msgstr "Afficher cet élément."
+
+msgid "Hide this item."
+msgstr "Masquer cet élément."
