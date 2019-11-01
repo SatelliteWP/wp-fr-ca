@@ -7,6 +7,8 @@ adresse de messagerie
 adresses de messagerie
 adresse de courriel
 adresses de courriel
+billet
+billets
 code court
 embarquer
 embarqué
@@ -36,3 +38,5 @@ Newsletter
 newsletter
 newsletters
 Newsletters
+https://wordpress.org/plugins
+https://wordpress.org/themes

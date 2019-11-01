@@ -10627,7 +10627,7 @@ msgid "Availability:"
 msgstr "Disponibilité&nbsp;:"
 
 msgid "Out of stock"
-msgstr "En rupture de stock"
+msgstr "En rupture d'inventaire"
 
 msgid "Add To Cart"
 msgstr "Ajouter au panier"
@@ -12055,7 +12055,7 @@ msgid "Footer Widget %s"
 msgstr "Widget Pied de page %s"
 
 msgid "Social Menu"
-msgstr "Menu social"
+msgstr "Menu réseaux sociaux"
 
 msgid "Newer Comments"
 msgstr "Derniers commentaires"
@@ -12884,7 +12884,9 @@ msgid "No action taken. Plugin %1$s was already active."
 msgstr "Aucune action effectuée. L’extension %1$s était déjà activée."
 
 msgid "The following plugin was activated successfully:"
-msgstr "L’extension suivante a bien été activée&nbsp;:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L’extension suivante a bien été activée&nbsp;:"
+msgstr[1] "Les extensions suivantes ont bien été activées&nbsp;:"
 
 msgid "Plugin activated successfully."
 msgstr "L’extension a bien été activée."
@@ -14343,27 +14345,6 @@ msgstr "Afficher cet élément."
 msgid "Hide this item."
 msgstr "Masquer cet élément."
 
-msgid "Saturday"
-msgstr "Samedi"
-
-msgid "Friday"
-msgstr "vendredi"
-
-msgid "Thursday"
-msgstr "Jeudi"
-
-msgid "Wednesday"
-msgstr "Mercredi"
-
-msgid "Tuesday"
-msgstr "Mardi"
-
-msgid "Monday"
-msgstr "Lundi"
-
-msgid "Sunday"
-msgstr "Dimanche"
-
 msgid "Closed"
 msgstr "Fermé"
 
@@ -14378,3 +14359,717 @@ msgstr "Fermeture"
 
 msgid "Opening"
 msgstr "Ouverture"
+
+msgid "%s is not a valid email address."
+msgstr "%s n’est pas une adresse de courriel valide."
+
+msgid "Out of Stock Color"
+msgstr "Couleur Rupture d'inventaire"
+
+msgid "Out of Stock Background"
+msgstr "Arrière-plan Rupture d'inventaire"
+
+msgid "Email (required)"
+msgstr "Courriel (obligatoire)"
+
+msgid "Show the latest news from your blog."
+msgstr "Affiche les dernières nouveutés de votre blogue."
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l'extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s."
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème requiert l'extension suivante : %1$s."
+msgstr[1] "Ce thème requiert les extensions suivantes : %1$s."
+
+msgid "This theme recommends the following plugin: %1$s"
+msgid_plural "This theme recommends the following plugins: %1$s"
+msgstr[0] "Ce thème recommande l'extension suivante : %1$s"
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s"
+
+msgid "This theme requires the following plugin: %1$s"
+msgid_plural "This theme requires the following plugins: %1$s"
+msgstr[0] "Ce thème requiert l'extension suivante : %1$s"
+msgstr[1] "Ce thème requiert les extensions suivantes : %1$s"
+
+msgid "Thanks for installing Hello Theme!"
+msgstr "Merci d’avoir installé le thème Hello !"
+
+msgid "Install Elementor"
+msgstr "Installer Elementor"
+
+msgid "Activate Elementor"
+msgstr "Activer Elementor"
+
+msgid "Learn more about Elementor"
+msgstr "En savoir plus sur Elementor"
+
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "%1$s réponse"
+msgstr[1] "%1$s réponses"
+
+msgid "newer %s"
+msgstr "plus récent %s"
+
+msgid "%s older"
+msgstr "%s plus ancien"
+
+msgid "It seems we can't find what you're looking for."
+msgstr "Il semble que nous ne pouvons pas trouver ce que vous cherchez."
+
+msgid "Search results for: "
+msgstr "Résultats de recherche pour : "
+
+msgid "Tagged "
+msgstr "Étiqueté "
+
+msgid "It looks like nothing was found at this location."
+msgstr "Il semble que rien n’a été trouvé à cet emplacement."
+
+msgid "The page can&rsquo;t be found."
+msgstr "La page ne peut pas être trouvée."
+
+msgid "Actions required"
+msgstr "Actions nécessaires"
+
+msgid "Iconic One"
+msgstr "Iconic One"
+
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Modèle de page pleine largeur, sans barre latérale"
+
+msgid "Social"
+msgstr "Réseaux sociaux"
+
+msgid "Customize Iconic One"
+msgstr "Personnaliser Iconic One"
+
+msgid "Post author"
+msgstr "Auteur de l&rsquo;article"
+
+msgid "0 Comment"
+msgstr "0 Commentaire"
+
+msgid "By"
+msgstr "De"
+
+msgid "Featured Article"
+msgstr "Article mis en avant"
+
+msgid "Nothing Here!"
+msgstr "Rien ici &nbsp;!"
+
+msgid "Themonic"
+msgstr "Themonic"
+
+msgid "PRO Version"
+msgstr "Version Pro"
+
+msgid "Dribbble Widget"
+msgstr "Widget Dribbble"
+
+msgid "Flickr Widget"
+msgstr "Widget Flickr"
+
+msgid "Archive template"
+msgstr "Modèle d'archive"
+
+msgid "Displays your latest Flickr photos."
+msgstr "Affiche vos dernières photos Flickr."
+
+msgid "Number of images to display:"
+msgstr "Nombre d'images à afficher :"
+
+msgid "Dribbble username"
+msgstr "Nom d'utilisateur Dribbble"
+
+msgid "More on Flickr &raquo;"
+msgstr "Plus sur Flickr &raquo;"
+
+msgid "Displays your latest Dribbble photos."
+msgstr "Affiche vos dernières photos Dribbble."
+
+msgid "Archives by Day"
+msgstr "Archives par jour"
+
+msgid "Follow %s on Dribbble &raquo;"
+msgstr "Suivre %s sur Dribbble &raquo;"
+
+msgid "Archives by Year"
+msgstr "Archives par année"
+
+msgid "Archives by Month"
+msgstr "Archives par mois"
+
+msgid "Archives by Categories"
+msgstr "Archives par catégories"
+
+msgid "Archives by Tags"
+msgstr "Archives par étiquettes"
+
+msgid "Next<span> attachment</span> &raquo;"
+msgstr "<span>Pièce jointe</span> suivante &raquo;"
+
+msgid "&laquo; Previous<span> attachment</span>"
+msgstr "&laquo; <span>Pièce jointe</span> précédente"
+
+msgid "Newer<span> posts</span> &raquo;"
+msgstr "<span>Articles</span> plus récents &raquo;"
+
+msgid "No results. Try again, would you kindly?"
+msgstr "Pas de résultats. Voulez vous gentiment essayer à nouveau ?"
+
+msgid "(Post author)"
+msgstr "(Auteur de l'article)"
+
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Les widgets dans cette zone seront vus dans la barre."
+
+msgid "Footer C"
+msgstr "Pied de page C"
+
+msgid "Footer B"
+msgstr "Pied de page B"
+
+msgid "Footer A"
+msgstr "Footer A"
+
+msgid "Up"
+msgstr "Haut"
+
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+msgid "Typography Settings"
+msgstr "Réglages de typographie"
+
+msgid "Contact Page Template"
+msgstr "Modèle de page contact"
+
+msgid "Multilingual"
+msgstr "Multilingue"
+
+msgid "Free"
+msgstr "Gratuit"
+
+msgid "Update companion now"
+msgstr "Mettre à jour Companion maintenant"
+
+msgid "Import Predesigned Sites"
+msgstr "Importer des sites pré-conçus"
+
+msgid "Settings applied"
+msgstr "Réglages appliqués"
+
+msgid "Import Demo sites with one click"
+msgstr "Importer des sites de démo en un clic"
+
+msgid "Demo Import"
+msgstr "Importation de démo"
+
+msgid "%s is active"
+msgstr "%s est activé"
+
+msgid "Getting started"
+msgstr "Commencer"
+
+msgid "Sitewide Banner"
+msgstr "Bandeau du site"
+
+msgid "Primary Menu Spacing"
+msgstr "Espacement du menu principal"
+
+msgid "Right Spacing"
+msgstr "Espacement à droite"
+
+msgid "Left Spacing"
+msgstr "Espacement à gauche"
+
+msgid "Bottom Spacing"
+msgstr "Espacement inférieur"
+
+msgid "Top Spacing"
+msgstr "Espacement supérieure"
+
+msgid "Logo Spacing"
+msgstr "Espacement du logo"
+
+msgid "Site Tagline Font"
+msgstr "Police du slogan du site"
+
+msgid "An optional line of text below your logo"
+msgstr "Une ligne de texte optionnelle sous votre logo"
+
+msgid "Sitename Logo Font"
+msgstr "Police du logo du nom du site"
+
+msgid "Choose how you want your logo to be laid out"
+msgstr "Choisissez la disposition de votre logo"
+
+msgid "Logo Layout"
+msgstr "Disposition du logo"
+
+msgid "Logo Options"
+msgstr "Options du logo"
+
+msgid "Select how many columns for footer widgets"
+msgstr "Choisir le nombre de colonnes pour les widgets de pied de page"
+
+msgid "Footer Widget Layout"
+msgstr "Disposition du widget de pied de page"
+
+msgid "Select Boxed or Wide Site Layout Style"
+msgstr "Choisir le style de disposition : encadré ou pleine largeur"
+
+msgid "Site Layout Style"
+msgstr "Style de disposition du site"
+
+msgid "For support please visit"
+msgstr "Pour du soutien, veuillez visiter"
+
+msgid "For theme documentation visit"
+msgstr "Pour la documentation du thème, visitez"
+
+msgid "This theme was developed by"
+msgstr "Ce thème a été développé par"
+
+msgid "Main Settings"
+msgstr "Réglages généraux"
+
+msgid "Add Icon"
+msgstr "Ajouter une icône"
+
+msgid "Delete Icon"
+msgstr "Supprimer l'icône"
+
+msgid "Open Link in New Tab/Window"
+msgstr "Ouvrir le lien dans un nouvel onglet/fenêtre"
+
+msgid "Icon Link"
+msgstr "Lien de l'icône"
+
+msgid "Select an Icon"
+msgstr "Sélectionner une icône"
+
+msgid "Upload Icon"
+msgstr "Uploader une icône"
+
+msgid "You must provide a valid URL for this option."
+msgstr "Vous devez fournir une URL valide pour cette option."
+
+msgid "You must provide a valid email for this option."
+msgstr "Vous devez fournir une adresse courriel valide pour cette option."
+
+msgid "This field must be a valid date."
+msgstr "Ce champ doit contenir une date valide."
+
+msgid "This field must be a valid color value."
+msgstr "Ce champ doit être une valeur de couleur valide."
+
+msgid "Google Webfonts"
+msgstr "Polices Web Google"
+
+msgid "Standard Fonts"
+msgstr "Polices standard"
+
+msgid "Font color"
+msgstr "Couleur de police"
+
+msgid "Font Color"
+msgstr "Couleur de police"
+
+msgid "Word Spacing"
+msgstr "Espacement des mots"
+
+msgid "Text Decoration"
+msgstr "Décoration du texte"
+
+msgid "Font script"
+msgstr "Script de police"
+
+msgid "Subsets"
+msgstr "Sous-ensembles"
+
+msgid "Font Subsets"
+msgstr "Sous-ensembles de police"
+
+msgid "Font subsets"
+msgstr "Sous-ensembles de police"
+
+msgid "Font Weight &amp; Style"
+msgstr "Poids de police &amp; Style"
+
+msgid "Font style"
+msgstr "Slyle de police"
+
+msgid "No items of this type were found."
+msgstr "Aucun objet de ce type n'a été trouvé."
+
+msgid "Select an item"
+msgstr "Sélectionner un élément"
+
+msgid "Add More"
+msgstr "Ajouter"
+
+msgid "Transparent"
+msgstr "Transparent"
+
+msgid "Export Options"
+msgstr "Options d'exportation"
+
+msgid "Import from URL"
+msgstr "Importer depuis une URL"
+
+msgid "Import Options"
+msgstr "Options d'Importation"
+
+msgid "Import / Export"
+msgstr "Importer / Exporter"
+
+msgid "Your panel has no fields. Nothing to save."
+msgstr "Votre panneau n'a pas de champ. Rien à sauvegarder."
+
+msgid "clicking"
+msgstr "cliquer"
+
+msgid "moving the mouse over"
+msgstr "déplacer la souris sur"
+
+msgid "Options panel created using %1$s"
+msgstr "Panneau d'options créé avec %1$s"
+
+msgid "warning(s) were found!"
+msgstr "avertissement(s) ont été trouvé !"
+
+msgid "error(s) were found!"
+msgstr "des erreurs ont été trouvées !"
+
+msgid "Settings have changed, you should save them!"
+msgstr "Les réglages ont changé, vous devriez les enregistrer !"
+
+msgid "Settings Saved!"
+msgstr "Réglages enregistrés !"
+
+msgid "Section Defaults Restored!"
+msgstr "Tous les réglages par défaut de la section sont restaurés&nbsp;!"
+
+msgid "All Defaults Restored!"
+msgstr "Tous les réglages par défaut sont restaurés&nbsp;!"
+
+msgid "Settings Imported!"
+msgstr "Réglages importés !"
+
+msgid "Please Wait"
+msgstr "Veuillez patienter"
+
+msgid "Similar Posts"
+msgstr "Articles similaires"
+
+msgid "Recent Projects"
+msgstr "Projets récents"
+
+msgid "Featured Projects"
+msgstr "Projets en vedette"
+
+msgid "Latest from the Blog"
+msgstr "Dernières nouvelles du blogue"
+
+msgid "posted in:"
+msgstr "classé dans :"
+
+msgid "Comments are Closed"
+msgstr "Les commentaires sont fermés"
+
+msgid "Edit Account"
+msgstr "Modifier le compte"
+
+msgid "Sorry, no portfolio entries found."
+msgstr "Désolé, aucun portfolio n'a été trouvé."
+
+msgid "Sorry, no blog entries found."
+msgstr "Désolé, aucune entrée de blogue n'a été trouvée."
+
+msgid "Text/Caption (optional)"
+msgstr "Texte / Légende (facultatif)"
+
+msgid "Image Link (optional)"
+msgstr "Lien de l&rsquo;image (facultatif)"
+
+msgid "Image opens in"
+msgstr "L'image s&rsquo;ouvre dans"
+
+msgid "No Link"
+msgstr "Pas de lien"
+
+msgid "Same Window"
+msgstr "Même fenêtre"
+
+msgid "New Window"
+msgstr "Nouvelle fenêtre"
+
+msgid "Lightbox"
+msgstr "Lightbox"
+
+msgid "This allows for an image and a simple about text."
+msgstr "Cela permet une image et un simple texte à propos."
+
+msgid "Number of images to show:"
+msgstr "Nombre d'images à afficher :"
+
+msgid "If Portfolio - Choose Type (Optional):"
+msgstr "Si c'est un portfolio, choisir le type (optionnel) :"
+
+msgid "If Post - Choose Category (Optional):"
+msgstr "Si c'est un article, choisir la catégorie (optionnel) :"
+
+msgid "Grid Choice:"
+msgstr "Choix de grille :"
+
+msgid "Post Gallery"
+msgstr "Galerie de l'article"
+
+msgid "Limit to Catagory (Optional):"
+msgstr "Limiter à la catégorie (optionnel)"
+
+msgid "RSS:"
+msgstr "RSS :"
+
+msgid "VK:"
+msgstr "VK&nbsp;:"
+
+msgid "Tumblr:"
+msgstr "Tumblr :"
+
+msgid "Linkedin:"
+msgstr "Linkedin :"
+
+msgid "Dribbble:"
+msgstr "Dribbble :"
+
+msgid "Pinterest:"
+msgstr "Pinterest :"
+
+msgid "Youtube:"
+msgstr "Youtube :"
+
+msgid "Vimeo:"
+msgstr "Vimeo :"
+
+msgid "Flickr:"
+msgstr "Flickr :"
+
+msgid "GooglePlus:"
+msgstr "Google+ :"
+
+msgid "Instagram:"
+msgstr "Instagram :"
+
+msgid "Twitter:"
+msgstr "Twitter :"
+
+msgid "Facebook:"
+msgstr "Facebook :"
+
+msgid "Simple way to add Social Icons"
+msgstr "Un moyen simple d'ajouter des icônes de réseaux sociaux"
+
+msgid "Fixed Telephone:"
+msgstr "Téléphone fixe&nbsp;:"
+
+msgid "Mobile Telephone:"
+msgstr "Téléphone portable&nbsp;:"
+
+msgid "Zipcode/Postal Code:"
+msgstr "Code postal :"
+
+msgid "State/Region:"
+msgstr "État / région&nbsp;:"
+
+msgid "City/Locality:"
+msgstr "Ville / Localité :"
+
+msgid "Street Address:"
+msgstr "Adresse :"
+
+msgid "vCard"
+msgstr "vCard"
+
+msgid "Use this widget to add a Vcard to your site"
+msgstr "Utilisez ce widget pour ajouter un vCard à votre site"
+
+msgid "Footer Column 4"
+msgstr "Pied de page - colonne 4"
+
+msgid "Footer Column 3"
+msgstr "Pied de page - colonne 3"
+
+msgid "Footer Column 2"
+msgstr "Pied de page - colonne 2"
+
+msgid "Footer Column 1"
+msgstr "Pied de page - colonne 1"
+
+msgid "Topbar Widget"
+msgstr "Widget de la barre supérieure"
+
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activer l'extension installée"
+msgstr[1] "Activer les plugins installés"
+
+msgid "Search Results for %s"
+msgstr "Résultats de la recherche pour %s"
+
+msgid "Display Post Content as:"
+msgstr "Afficher le contenu de l'article comme :"
+
+msgid "How Many Posts Per Page"
+msgstr "Combien d'articles par page"
+
+msgid "Blog Category"
+msgstr "Catégorie de blogue"
+
+msgid "Blog List Options"
+msgstr "Options de la list de blogues"
+
+msgid "ex. Similar Posts"
+msgstr "ex. articles similaires"
+
+msgstr "Titre du carrousel"
+msgid "Carousel Title"
+
+msgid "Yes - Display Similar Posts"
+msgstr "Oui, afficher les articles similaires"
+
+msgid "Yes - Display Recent Posts"
+msgstr "Oui, afficher les articles récents"
+
+msgid "Display a carousel with similar or recent posts?"
+msgstr "Afficher un carrousel avec des articles similaires ou récents ?"
+
+msgid "Posts Carousel"
+msgstr "Carrousel d'articles"
+
+msgid "Display an author info box?"
+msgstr "Afficher une boîte d'information sur l'auteur ?"
+
+msgid "Author Info"
+msgstr "Information sur l'auteur"
+
+msgid "Choose Sidebar"
+msgstr "Choisir la barre latérale"
+
+msgid "Choose if layout is fullwidth or sidebar"
+msgstr "Choisir la disposition pleine largeur ou avec barre latérale"
+
+msgid "Display Sidebar?"
+msgstr "Afficher la barre latérale ?"
+
+msgid "Post Summary"
+msgstr "Sommaire de l'article"
+
+msgid "Max Image/Slider Width"
+msgstr "Largeur maximale de l'image ou du carrousel"
+
+msgid "Max Image/Slider Height"
+msgstr "Hauteur maximale de l'image ou du carrousel"
+
+msgid "Image Slider"
+msgstr "Carrousel d'images"
+
+msgid "Head Content"
+msgstr "Contenu de l'entête"
+
+msgid "Post Options"
+msgstr "Options de l'article"
+
+msgid "All Blog Posts"
+msgstr "Tous les articles du blogue"
+
+msgid "Footer Navigation"
+msgstr "Navigation Pied de Page"
+
+msgid "Topbar Navigation"
+msgstr "Navigation de la barre supérieure"
+
+msgid "Mobile Navigation"
+msgstr "Navigation mobile"
+
+msgid "Secondary Navigation"
+msgstr "Navigation secondaire"
+
+msgid "Your Cart"
+msgstr "Votre panier d'achats"
+
+msgid "| (Edit)"
+msgstr "| (Modifier)"
+
+msgid "Continued"
+msgstr "Lire la suite­­"
+
+msgid "and"
+msgstr "et"
+
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Une mise à jour est disponible pour l'extension&nbsp;: %1$s."
+msgstr[1] "Des mises à jour sont disponibles pour les extensions&nbsp;: %1$s."
+
+msgid "Something went wrong with the plugin API."
+msgstr "Il y a un problème avec l'API de l'extension"
+
+msgid "Latest posts from"
+msgstr "Billets récents de"
+
+msgid "on Instagram"
+msgstr "sur Instagram"
+
+msgid "on Pinterest"
+msgstr "sur Pinterest"
+
+msgid "on Dribbble"
+msgstr "sur Dribbble"
+
+msgid "on linkedin"
+msgstr "sur linkedin"
+
+msgid "on Vimeo"
+msgstr "sur Vimeo"
+
+msgid "on Flickr"
+msgstr "sur Flickr"
+
+msgid "on YouTube"
+msgstr "sur YouTube"
+
+msgid "on Google Plus"
+msgstr "sur Google Plus"
+
+msgid "on Twitter"
+msgstr "sur Twitter"
+
+msgid "on Facebook"
+msgstr "sur Facebook"
+
+msgid "Follow"
+msgstr "Suivre"
+
+msgid "About Author"
+msgstr "À propos de l'auteur"
+
+msgid "Sorry, no results were found."
+msgstr "Désolé, aucun résultat n'a été trouvé."
+
+msgid "an out-of-date link"
+msgstr "un lien périmé"
+
+msgid "a mistyped address"
+msgstr "une adresse web mal écrite ou incorrecte"
+
+msgid "It looks like this was the result of either:"
+msgstr "Cela peut être dû à l'une des raisons suivante :"
