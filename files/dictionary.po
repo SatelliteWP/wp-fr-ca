@@ -4194,8 +4194,10 @@ msgctxt "Theme starter content"
 msgid "Home"
 msgstr "Accueil"
 
-msgctxt "Theme starter content"
 msgid "Email"
+msgstr "Courriel"
+
+msgid "E-mail"
 msgstr "Courriel"
 
 msgid "email"
@@ -12894,7 +12896,7 @@ msgstr "L’extension a bien été activée."
 msgid "Return to the Dashboard"
 msgstr "Retour au tableau de bord"
 
-msgid "Return to Required Plugins Installer"
+msgid "Return to Required Plugins Installer."
 msgstr "Retour à l’installation des extensions requises."
 
 msgid "Begin activating plugin"
@@ -14361,7 +14363,7 @@ msgid "Opening"
 msgstr "Ouverture"
 
 msgid "%s is not a valid email address."
-msgstr "%s n’est pas une adresse de courriel valide."
+msgstr "%s n’est pas une adresse courriel valide."
 
 msgid "Out of Stock Color"
 msgstr "Couleur Rupture d'inventaire"
@@ -14450,7 +14452,7 @@ msgid "Customize Iconic One"
 msgstr "Personnaliser Iconic One"
 
 msgid "Post author"
-msgstr "Auteur de l&rsquo;article"
+msgstr "Auteur de l'article"
 
 msgid "0 Comment"
 msgstr "0 Commentaire"
@@ -14698,9 +14700,6 @@ msgstr "Sous-ensembles"
 msgid "Font Subsets"
 msgstr "Sous-ensembles de police"
 
-msgid "Font subsets"
-msgstr "Sous-ensembles de police"
-
 msgid "Font Weight &amp; Style"
 msgstr "Poids de police &amp; Style"
 
@@ -14813,7 +14812,7 @@ msgid "New Window"
 msgstr "Nouvelle fenêtre"
 
 msgid "Lightbox"
-msgstr "Lightbox"
+msgstr "Visionneuse"
 
 msgid "This allows for an image and a simple about text."
 msgstr "Cela permet une image et un simple texte à propos."
@@ -15021,7 +15020,7 @@ msgstr[0] "Une mise à jour est disponible pour l'extension&nbsp;: %1$s."
 msgstr[1] "Des mises à jour sont disponibles pour les extensions&nbsp;: %1$s."
 
 msgid "Something went wrong with the plugin API."
-msgstr "Il y a un problème avec l'API de l'extension"
+msgstr "Il y a un problème avec l'API de l'extension."
 
 msgid "Latest posts from"
 msgstr "Billets récents de"
