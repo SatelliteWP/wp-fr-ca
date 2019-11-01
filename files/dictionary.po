@@ -14342,3 +14342,39 @@ msgstr "Afficher cet élément."
 
 msgid "Hide this item."
 msgstr "Masquer cet élément."
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Friday"
+msgstr "vendredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "Closed"
+msgstr "Fermé"
+
+msgid "Open"
+msgstr "Ouvert"
+
+msgid "Add Hours"
+msgstr "Ajouter les heures"
+
+msgid "Closing"
+msgstr "Fermeture"
+
+msgid "Opening"
+msgstr "Ouverture"
