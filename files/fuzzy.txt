@@ -32,7 +32,10 @@ blog.
 blog 
 blog,
 blog:
+blog!
+blog?
 blog&nbsp;
+blogs
 Newsletter
 newsletter
 newsletters
