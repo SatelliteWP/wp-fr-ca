@@ -20,7 +20,6 @@ mots-clés
 mot-clés
 mot-clef
 mots-clefs
-évènement
 image à la une
 bas de page
 WordPresss
