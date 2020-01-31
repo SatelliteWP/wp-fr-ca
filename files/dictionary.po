@@ -645,6 +645,9 @@ msgstr "https://fr.forums.wordpress.com/"
 msgid "Support"
 msgstr "Soutien"
 
+msgid "Supports"
+msgstr "Soutiens"
+
 #. translators: Network admin email change notification email subject. %s:
 #. Network title
 msgid "[%s] Network Admin Email Changed"
@@ -9067,78 +9070,50 @@ msgstr "Insérer/modifier une image"
 msgid "Print"
 msgstr "Imprimer"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Sat"
-msgstr "sam"
+msgstr "Sam"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Fri"
-msgstr "ven"
+msgstr "Ven"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Thu"
-msgstr "jeu"
+msgstr "Jeu"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Wed"
-msgstr "mer"
+msgstr "Mer"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Tue"
-msgstr "mar"
+msgstr "Mar"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Mon"
-msgstr "lun"
+msgstr "Lun"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Sun"
-msgstr "dim"
+msgstr "Dim"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Saturday"
-msgstr "samedi"
+msgstr "Samedi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Friday"
-msgstr "vendredi"
+msgstr "Vendredi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Thursday"
-msgstr "jeudi"
+msgstr "Jeudi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Wednesday"
-msgstr "mercredi"
+msgstr "Mercredi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Tuesday"
-msgstr "mardi"
+msgstr "Mardi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Monday"
-msgstr "lundi"
+msgstr "Lundi"
 
-#. translators: weekday
 msgid "Sunday"
-msgstr "dimanche"
+msgstr "Dimanche"
 
-#. translators: month name
-#. translators: three-letter abbreviation of the month
 msgid "December"
-msgstr "décembre"
+msgstr "Décembre"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
@@ -15072,3 +15047,15 @@ msgstr "une adresse web mal écrite ou incorrecte"
 
 msgid "It looks like this was the result of either:"
 msgstr "Cela peut être dû à l'une des raisons suivante :"
+
+msgid "Get PRO"
+msgstr "Passez Pro"
+
+msgid "SKU:"
+msgstr "UGS&nbsp;:"
+
+msgid "Transparent Header Logo"
+msgstr "Logo d’en-tête transparent"
+
+msgid "Transparent Navbar"
+msgstr "Barre de navigation transparente"
