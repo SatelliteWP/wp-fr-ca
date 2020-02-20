@@ -18,8 +18,13 @@ msgstr "Une réflexion à propos de &ldquo;%1$s&rdquo;"
 
 msgid "%1$s thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "%1$s réflexion sur &laquo;&nbsp;%2$s&nbsp;&raquo;"
-msgstr[1] "%1$s réflexions sur &laquo;&nbsp;%2$s&nbsp;&raquo;"
+msgstr[0] "%1$s avis sur « %2$s »"
+msgstr[1] "%1$s avis sur « %2$s »"
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L’extension recommandée suivante est présentement inactive : %1$s."
+msgstr[1] "Les extensions recommandées suivantes sont présentement inactives : %1$s."
 
 msgid "Footer"
 msgstr "Pied de page"
@@ -15059,3 +15064,38 @@ msgstr "Logo d’en-tête transparent"
 
 msgid "Transparent Navbar"
 msgstr "Barre de navigation transparente"
+
+msgid "Jetpack Portfolio"
+msgstr "Portfolio Jetpack"
+
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "type"
+msgstr "type"
+
+msgid "Debug"
+msgstr "Débogage"
+
+#. https://translate.wordpress.org/consistency/?search=Dismiss&set=fr-ca%2Fdefault&project=
+msgid "Dismiss"
+msgstr "Rejeter"
+
+msgid "dismiss"
+msgstr "rejeter"
+
+msgid "Don't show again"
+msgstr "Ne plus afficher"
+
+#. Statut (25 times) vs État (475 times) need to correct Consistency: https://translate.wordpress.org/consistency/?search=Status&set=fr-ca%2Fdefault&project=
+msgid "Status"
+msgstr "Statut"
+
+msgid "Sub Title"
+msgstr "Sous-titre"
+
+msgid "M j, Y @ G:i"
+msgstr "j F Y \à G \h i"
