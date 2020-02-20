@@ -393,6 +393,7 @@ msgstr "Plateforme sémantique de publication personnelle"
 msgid "Featured"
 msgstr "En vedette"
 
+#. Statut (25 times) vs État (475 times) need to correct Consistency: https://translate.wordpress.org/consistency/?search=Status&set=fr-ca%2Fdefault&project=
 msgid "Status"
 msgstr "État"
 
@@ -9559,9 +9560,6 @@ msgstr "Format de date"
 msgid "Allow people to post comments on new articles"
 msgstr "Autoriser les lecteurs à publier des commentaires sur les nouveaux articles"
 
-msgid "Email"
-msgstr "Adresse courriel"
-
 msgid "Site Title"
 msgstr "Titre du site Web"
 
@@ -9671,6 +9669,7 @@ msgstr "Non classé"
 msgid "View Page"
 msgstr "Voir la page"
 
+#. https://translate.wordpress.org/consistency/?search=Dismiss&set=fr-ca%2Fdefault&project=
 msgid "Dismiss"
 msgstr "Fermer"
 
@@ -14919,8 +14918,8 @@ msgstr "Options de la list de blogues"
 msgid "ex. Similar Posts"
 msgstr "ex. articles similaires"
 
-msgstr "Titre du carrousel"
 msgid "Carousel Title"
+msgstr "Titre du carrousel"
 
 msgid "Yes - Display Similar Posts"
 msgstr "Oui, afficher les articles similaires"
@@ -14990,9 +14989,6 @@ msgstr "| (Modifier)"
 
 msgid "Continued"
 msgstr "Lire la suite­­"
-
-msgid "and"
-msgstr "et"
 
 msgid "There is an update available for: %1$s."
 msgid_plural "There are updates available for the following plugins: %1$s."
@@ -15071,18 +15067,11 @@ msgstr "Portfolio Jetpack"
 msgid "Congratulations!"
 msgstr "Félicitations !"
 
-msgid "Type"
-msgstr "Type"
-
 msgid "type"
 msgstr "type"
 
 msgid "Debug"
 msgstr "Débogage"
-
-#. https://translate.wordpress.org/consistency/?search=Dismiss&set=fr-ca%2Fdefault&project=
-msgid "Dismiss"
-msgstr "Rejeter"
 
 msgid "dismiss"
 msgstr "rejeter"
@@ -15090,12 +15079,74 @@ msgstr "rejeter"
 msgid "Don't show again"
 msgstr "Ne plus afficher"
 
-#. Statut (25 times) vs État (475 times) need to correct Consistency: https://translate.wordpress.org/consistency/?search=Status&set=fr-ca%2Fdefault&project=
-msgid "Status"
-msgstr "Statut"
-
 msgid "Sub Title"
 msgstr "Sous-titre"
 
 msgid "M j, Y @ G:i"
-msgstr "j F Y \à G \h i"
+msgstr "j F Y \\à G \\h i"
+
+msgid "FOLLOW"
+msgstr "Suivre"
+
+msgid " Powered by %s"
+msgstr " Propulsé par %s"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Instagram Section Title"
+msgstr "Titre de la section Instagram"
+
+msgid "Choose the layout of the slider for your site."
+msgstr "Choisissez la disposition du diaporama pour votre site."
+
+msgid "Slider Layout"
+msgstr "Disposition du diaporama"
+
+msgid "This is the layout for header."
+msgstr "Ceci est la disposition pour l’en-tête."
+
+msgid "Layout Settings"
+msgstr "Réglages de mise en page"
+
+msgid "Primary color of the theme."
+msgstr "Couleur principale du thème"
+
+msgid "Change the font size of your site."
+msgstr "Modifier la Taille de la police de votre site."
+
+msgid "Secondary font of the site."
+msgstr "Police secondaire du site."
+
+msgid "Secondary Font"
+msgstr "Police Secondaire"
+
+msgid "Primary font of the site."
+msgstr "Police primaire du site."
+
+msgid "Primary Font"
+msgstr "Police Primaire"
+
+msgid "Appearance Settings"
+msgstr "Réglages d’apparence"
+
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Lien de la documentation : %1$sCliquez ici.%2$s"
+
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Lien de démonstration : %1$sCliquez ici.%2$s"
+
+msgid "Demo & Documentation"
+msgstr "Démo & Documentation"
+
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+msgid "Blossom Themes"
+msgstr "Thèmes Blossom"
+
+msgid "This is the layout for blog index page."
+msgstr "Ceci est la mise en page pour la page d’index du blogue."
+
+msgid "Home Page Layout"
+msgstr "Disposition de la page d'accueil"
