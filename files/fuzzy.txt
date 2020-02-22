@@ -1,3 +1,5 @@
+acceuil
+Acceuil
 e-mail
 é-mail
 du coup
@@ -27,7 +29,11 @@ TVA
 stock
 plugin
 paramètre
+paramètres
+Paramètre
+Paramètres
 paramétre
+portefolio
 blog.
 blog 
 blog,
@@ -42,3 +48,5 @@ newsletters
 Newsletters
 https://wordpress.org/plugins
 https://wordpress.org/themes
+réactif
+support

@@ -15110,7 +15110,7 @@ msgid "Layout Settings"
 msgstr "Réglages de mise en page"
 
 msgid "Primary color of the theme."
-msgstr "Couleur principale du thème"
+msgstr "Couleur principale du thème."
 
 msgid "Change the font size of your site."
 msgstr "Modifier la Taille de la police de votre site."
@@ -15468,7 +15468,7 @@ msgid "Hide Author"
 msgstr "Masquer l'auteur"
 
 msgid "Enable to hide category."
-msgstr "Activer pour masquer la catégorie"
+msgstr "Activer pour masquer la catégorie."
 
 msgid "Hide Category"
 msgstr "Masquer la catégorie"
@@ -15642,43 +15642,10 @@ msgctxt "font style"
 msgid "Lucida Console, Monaco"
 msgstr "Lucida Console, Monaco"
 
-msgid "Courier New, Courier"
-msgstr "Courier New, Courier"
-
-msgid "Verdana, Geneva"
-msgstr "Verdana, Geneva"
-
-msgid "Trebuchet MS, Helvetica"
-msgstr "Trebuchet MS, Helvetica"
-
-msgid "Tahoma, Geneva"
-msgstr "Tahoma, Geneva"
-
-msgid "Lucida Sans Unicode, Lucida Grande"
-msgstr "Lucida Sans Unicode, Lucida Grande"
-
-msgid "Impact, Charcoal"
-msgstr "Impact, Charcoal"
-
-msgid "Comic Sans MS, cursive"
-msgstr "Comic Sans MS, cursive"
-
-msgid "Arial Black, Gadget"
-msgstr "Arial Black, Gadget"
-
-msgid "Arial, Helvetica"
-msgstr "Arial, Helvetica"
-
-msgid "Times New Roman, Times"
-msgstr "Times New Roman, Times"
-
 #, fuzzy
 msgctxt "font style"
 msgid "Palatino Linotype, Book Antiqua, Palatino"
 msgstr "Palatino Linotype, Book Antiqua, Palatino"
-
-msgid "Georgia"
-msgstr "Georgia"
 
 msgid "Add new %s"
 msgstr "Ajouter un nouveau %s"
@@ -15699,3 +15666,280 @@ msgstr "404"
 
 msgid "Uh-Oh..."
 msgstr "Oh-Oh…"
+
+msgid " Blossom Themes"
+msgstr " Blossom Themes"
+
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "activée"
+
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "activée"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "activée"
+
+msgid "Home Page Layouts"
+msgstr "Dispositions de la page d'accueil"
+
+msgid "This is the slider layouts for your blog."
+msgstr "Il s'agit des dispositions de diaporama pour votre blogue."
+
+msgid "Slider Layouts"
+msgstr "Dispositions du diaporama"
+
+msgid "%1$sDocumentation Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLien de documentation : %2$s %3$sCliquez ici.%4$s"
+
+msgid "%1$sDemo Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLien de démonstration : %2$s %3$sCliquez ici.%4$s"
+
+msgid "Demo & Documentation "
+msgstr "Démonstration & Documentation "
+
+msgid "Related Projects"
+msgstr "Projects reliés"
+
+#, fuzzy
+msgid "Breadcrumb Home Text"
+msgstr "Texte du fil d'Ariane pour l'accueil"
+
+msgid "Full Name"
+msgstr "Nom complet"
+
+msgid "Submit your site for social share"
+msgstr "Envoyer vos sites web pour un partage sur les réseaux sociaux"
+
+msgid "Contact Support Team"
+msgstr "Contacter l'équipe de soutien"
+
+msgid "Regenerate Thumbnails"
+msgstr "Regénérer les miniatures"
+
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Afficher la colonne latérale seulement dans les pages WooCommerce."
+
+msgid "BlossomThemes Email Newsletter"
+msgstr "Courriel d'infolettre BlossomThemes"
+
+msgid "BlossomThemes Toolkit"
+msgstr "Boîte à outils BlossomThemes"
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+msgid "Written by"
+msgstr "Ecrit par"
+
+msgid "%1$s Showing: %2$s RESULTS %3$s"
+msgstr "%1$s Afficher : %2$s Résultats %3$s"
+
+msgid "%1$s Showing:  %2$s - %3$s of %4$s RESULTS %5$s"
+msgstr "%1$s Afficher : %2$s - %3$s de %4$s Résultats %5$s"
+
+msgid "SEARCH RESULT FOR:"
+msgstr "Recherche de résultats pour :"
+
+msgid "You are reading"
+msgstr "Vous lisez"
+
+msgid "All Rights Reserved. "
+msgstr "Tous droits réservés. "
+
+msgid "&copy; Copyright "
+msgstr "&copy; Copyright "
+
+msgid "Full Width Centered"
+msgstr "Pleine largeur centrée"
+
+#. translators: 1: list of tags.
+msgid "%1$sTags:%2$s %3$s"
+msgstr "%1$sÉtiquettes :%2$s %3$s"
+
+msgid "AJAX (Auto Infinite Scroll)"
+msgstr "AJAX (Défilement infini automatique)"
+
+msgid "Default (Next / Previous)"
+msgstr "Par défaut (Suivant/Précédent)"
+
+msgid "Select pagination type."
+msgstr "Sélectionner le type de pagination."
+
+msgid "Pagination Type"
+msgstr "Type de pagination"
+
+msgid "Pagination"
+msgstr "Pagination"
+
+msgid "This is the general sidebar layout for whole site."
+msgstr "C'est la disposition général de la barre latérale pour tout le site."
+
+msgid "Default Sidebar Layout"
+msgstr "Disposition par défaut de la colonne latérale"
+
+msgid "General Sidebar Layout"
+msgstr "Disposition générale de la colonne latérale"
+
+msgid "Recommended Articles Section Title"
+msgstr "Titre de la section des articles recommandés"
+
+msgid "Recommended Articles"
+msgstr "Articles recommandés"
+
+msgid "Show Recommended Articles"
+msgstr "Afficher les articles recommandés"
+
+msgid "Enable to hide the post author."
+msgstr "Activer pour masquer l'auteur de l'article."
+
+msgid "Hide Post Author"
+msgstr "Masquer l'auteur de l'article"
+
+msgid "<hr/>These options affect your individual posts."
+msgstr "<hr/>Ces options affectent vos articles individuels."
+
+msgid "Enable to hide prefix in archive page."
+msgstr "Activer pour masquer le préfixe dans la page d'archive."
+
+msgid "Hide Prefix in Archive Page"
+msgstr "Masquer le préfixe dans la page d'archive"
+
+msgid "Example: https://facebook.com"
+msgstr "Exemple : http://facebook.com"
+
+msgid "Example: fab fa-facebook-f"
+msgstr "Exemple : fab fa-facebook-f"
+
+msgid "Title for social links on newsletter section."
+msgstr "Le Titre pour les liens sociaux dans la section infolettre."
+
+msgid "Social Title"
+msgstr "Titre réseaux sociaux"
+
+msgid "Choose the number of slides you want to display"
+msgstr "Choisir le nombre de diapositives que vous voulez afficher"
+
+msgid "Banner Link"
+msgstr "Lien de la bannière"
+
+msgid "Banner Label"
+msgstr "Libellé de la bannière"
+
+msgid "Discover More"
+msgstr "Découvrir plus"
+
+msgid "Wondering how your peers are using social media?"
+msgstr "Vous vous demandez de quelle façon vos pairs utilisent les réseaux sociaux ?"
+
+msgid "Banner as Slider"
+msgstr "Bannière en diaporama"
+
+msgid "Static/Video Banner"
+msgstr "Bannière statique/vidéo"
+
+msgid "Disable Banner Section"
+msgstr "Activer la section Bannière"
+
+msgid "Banner Options"
+msgstr "Options de la bannière"
+
+msgid "Banner Section"
+msgstr "Section Bannière"
+
+msgid "Customize Typography & Background Image"
+msgstr "Personnaliser la Typographie et l'image d'arrière-plan"
+
+msgid "Search anything and hit enter."
+msgstr "Rechercher quelque chose et appuyez sur entrée."
+
+msgid "Looking for Something?"
+msgstr "Vous rechercher quelque chose ?"
+
+msgctxt "placeholder"
+msgid "What are you looking for..."
+msgstr "Que recherchez vous ?"
+
+msgid "%1$sArchives%2$s"
+msgstr "%1$sArchives%2$s"
+
+msgid "%1$s Archives %2$s %3$s"
+msgstr "%1$s Archives %2$s %3$s"
+
+msgid "%1$s Day %2$s %3$s"
+msgstr "%1$s Jour %2$s %3$s"
+
+msgid "%1$s Month %2$s %3$s"
+msgstr "%1$s Mois %2$s %3$s"
+
+msgid "%1$s Year %2$s %3$s"
+msgstr "%1$s Année %2$s %3$s"
+
+msgid "%1$s Tag %2$s %3$s"
+msgstr "%1$s Étiquette %2$s %3$s"
+
+msgid "%1$s Category %2$s %3$s"
+msgstr "%1$s Categorie %2$s %3$s"
+
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#. translators: 1: comment count number.
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s commentaire"
+msgstr[1] "%1$s commentaires"
+
+msgid "Take me to the home page"
+msgstr "Aller à la page d'accueil"
+
+msgid "Related products"
+msgstr "Produits similaires"
