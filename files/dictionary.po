@@ -11981,6 +11981,9 @@ msgstr "Actions recommandées"
 msgid "Getting Started"
 msgstr "Mise en route"
 
+msgid "Getting started"
+msgstr "Mise en route"
+
 msgid "See our full documentation"
 msgstr "Voir notre documentation intégrale"
 
@@ -14556,9 +14559,6 @@ msgstr "Importation de démo"
 msgid "%s is active"
 msgstr "%s est activé"
 
-msgid "Getting started"
-msgstr "Commencer"
-
 msgid "Sitewide Banner"
 msgstr "Bandeau du site"
 
@@ -15150,3 +15150,552 @@ msgstr "Ceci est la mise en page pour la page d’index du blogue."
 
 msgid "Home Page Layout"
 msgstr "Disposition de la page d'accueil"
+
+msgid "Skip to Content"
+msgstr "Passer au contenu"
+
+msgid "Enable to hide Comments."
+msgstr "Activez pour masquer les commentaires."
+
+msgid "Hide Comments"
+msgstr "Masquer les commentaires"
+
+msgid "Submit Here"
+msgstr "Soumettre ici"
+
+msgid "Enable slider auto transition."
+msgstr "Activer la transition automatique du diaporama."
+
+msgid "Slider Auto"
+msgstr "Lecture automatique du diaporama"
+
+msgid "Go to the getting started."
+msgstr "Aller à la Mise en route."
+
+msgid "Free vs Pro"
+msgstr "Gratuit Vs Pro"
+
+msgid "Version %s"
+msgstr "Version %s"
+
+msgid "View Contact Support"
+msgstr "Contactez le soutien technique"
+
+msgid "Free Vs Pro"
+msgstr "Gratuit Vs Pro"
+
+msgid "FAQ's &amp; Support"
+msgstr "Foire aux questions et Soutien"
+
+msgid "Getting started with %1$s v%2$s"
+msgstr "Mettre en route avec %1$s v%2$s"
+
+msgid "Activating "
+msgstr "Activation "
+
+msgid "Install and activate"
+msgstr "Installer et activer"
+
+msgid "These Free Plugins might be handy for you."
+msgstr "Ces extensions gratuites peuvent vous être utiles."
+
+msgid "Free Plugins"
+msgstr "Extensions gratuites"
+
+msgid "If this didn't help, please %1$scontact us%2$s."
+msgstr "Si cela ne fonctionne pas, bien vouloir %1$snous contacter%2$s."
+
+msgid "Why is my theme not working well?"
+msgstr "Pourquoi mon thème ne fonctionne-t-il pas bien ?"
+
+msgid "How do I change the copyright text?"
+msgstr "Comment changer le texte des droits d'auteur ?"
+
+msgid "What is the difference between Free and Pro?"
+msgstr "Quel est la différence entre les versions Gratuite et Pro ?"
+
+msgid "Visit the knowledge base"
+msgstr "Rechercher dans la base de connaissances"
+
+msgid "Visit the Knowledge Base"
+msgstr "Visitez la base de connaissances"
+
+msgid "Read More About the Pro Theme"
+msgstr "Lire davantage au sujet du thème Pro"
+
+msgid "Upgrade To Pro"
+msgstr "Passez à la version Pro"
+
+msgid "View Demo"
+msgstr "Voir la démonstration"
+
+msgid "Visit the Demo"
+msgstr "Visiter la Démonstration"
+
+msgid "View Our Demo"
+msgstr "Voir nos Démonstrations"
+
+msgid "Visit the Support"
+msgstr "Aller au support"
+
+msgid "Support Ticket"
+msgstr "Demande de soutien"
+
+msgid "View Documentation"
+msgstr "Voir la documentation"
+
+msgid "Visit the Documentation"
+msgstr "Visiter la documentation"
+
+msgid "View Our Documentation Link"
+msgstr "Afficher notre lien de la documentation"
+
+msgid "View Pro"
+msgstr "Voir Pro"
+
+msgid "View Premium Version"
+msgstr "Afficher la version Pro"
+
+msgid "Enable to show Shop Page Description."
+msgstr "Activer pour afficher la Page de Description de la Boutique."
+
+msgid "Shop Page Description"
+msgstr "Page de description de la boutique"
+
+msgid "Shop Settings"
+msgstr "Réglages de la boutique"
+
+msgid "Add More Posts"
+msgstr "Ajouter plus d'articles"
+
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+msgid "VIEW PRO THEME"
+msgstr "Voir le thème Pro"
+
+msgid "Pro Available"
+msgstr "Pro disponible"
+
+msgid "Add footer four widgets here."
+msgstr "Ajoutez des widgets de pied 4 ici."
+
+msgid "Footer Four"
+msgstr "Pied de page 4"
+
+msgid "Add footer three widgets here."
+msgstr "Ajouter les widgets du pied de page 3 ici."
+
+msgid "Footer Three"
+msgstr "Pied de page 3"
+
+msgid "Add footer two widgets here."
+msgstr "Ajouter les widgets du pied de page 2 ici."
+
+msgid "Footer Two"
+msgstr "Pied de page 2"
+
+msgid "Add footer one widgets here."
+msgstr "Ajouter les widgets du pied de page 1 ici."
+
+msgid "Footer One"
+msgstr "Pied de page 1"
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l’installation des extensions obligatoires"
+
+msgid "TOP"
+msgstr "Haut"
+
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+msgid "Post Navigation"
+msgstr "Navigation des articles"
+
+msgid "Next Article"
+msgstr "Article suivant"
+
+msgid "Previous Article"
+msgstr "Article précédent"
+
+msgid ")"
+msgstr ")"
+
+msgid " (Page"
+msgstr " (Page"
+
+msgid "404 Error - Page Not Found"
+msgstr "Erreur 404 (Page inaccessible)"
+
+msgid "d"
+msgstr "d"
+
+msgid "F"
+msgstr "F"
+
+msgid "m"
+msgstr "m"
+
+msgid "\""
+msgstr "\""
+
+msgid "Search Results for \""
+msgstr "Résultats de recherche pour"
+
+msgid "Showing %1$s Result(s)%2$s"
+msgstr "Affiche %1$s résultat(s)%2$s"
+
+msgid " Copyright "
+msgstr " Copyright "
+
+msgid "Choose Sidebar Template"
+msgstr "Choisissez le modèle de colonne latérale"
+
+msgid "Default Sidebar"
+msgstr "Colonne latérale par défaut"
+
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+msgid "Choose Category"
+msgstr "Choisissez une Catégorie"
+
+msgid " -- Choose -- "
+msgstr " — Choisir — "
+
+msgid "Posted on"
+msgstr "Publié le"
+
+msgid "Click here to add a menu"
+msgstr "Cliquez ici pour ajouter un menu"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifier <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post author.
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+msgid "updated on "
+msgstr "mis à jour le "
+
+msgid "Change the font size of your site title."
+msgstr "Changez la taille de police du titre de votre site."
+
+msgid "Site Title Font Size"
+msgstr "Taille de police du titre du site"
+
+msgid "Site title and tagline font."
+msgstr "Police de titre du site et du slogan."
+
+msgid "Site Title Font"
+msgstr "Police du titre du site"
+
+msgid "Enable to show Instagram Section"
+msgstr "Activer pour afficher la Section Instagram"
+
+msgid "Instagram Section"
+msgstr "Section Instagram"
+
+msgid "Instagram Settings"
+msgstr "Réglages Instagram"
+
+msgid "Newsletter Shortcode"
+msgstr "Shortcode Infolettre"
+
+msgid "Enable to show Newsletter Section"
+msgstr "Activer pour afficher la Section Infolettre"
+
+msgid "Newsletter Section"
+msgstr "Section Infolettre"
+
+msgid "Newsletter Settings"
+msgstr "Réglages de l'infolettre"
+
+msgid "Enable to hide posted date."
+msgstr "Activez pour masquer la date de publication."
+
+msgid "Hide Posted Date"
+msgstr "Masquer la date de publication"
+
+msgid "Enable to hide author section."
+msgstr "Activez pour masquer la section de l’auteur."
+
+msgid "Hide Author"
+msgstr "Masquer l'auteur"
+
+msgid "Enable to hide category."
+msgstr "Activer pour masquer la catégorie"
+
+msgid "Hide Category"
+msgstr "Masquer la catégorie"
+
+#, fuzzy
+msgid "Related Posts Section Title"
+msgstr "Titre de la section des articles similaires"
+
+msgid "You may also like..."
+msgstr "Vous pourriez aussi aimer..."
+
+#, fuzzy
+msgid "Enable to show related posts in single page."
+msgstr "Activez pour afficher les articles similaires sur les pages individuelles."
+
+msgid "Show Related Posts"
+msgstr "Afficher les articles similaires"
+
+msgid "These options affect your individual posts."
+msgstr "Ces options affectent vos articles individuels."
+
+msgid "Read More Text"
+msgstr "Lire plus de texte"
+
+msgid "Read More"
+msgstr "Lire plus"
+
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Longueur de l’extrait généré automatiquement (en mots)."
+
+msgid "Excerpt Length"
+msgstr "Longueur de l’extrait"
+
+msgid "Enable Blog Excerpt"
+msgstr "Activez l’extrait du blogue"
+
+msgid "Post Sidebar Layout"
+msgstr "Disposition de la colonne latérale des articles"
+
+msgid "Page Sidebar Layout"
+msgstr "Disposition de la colonne latérale sur les pages"
+
+msgid "/"
+msgstr "/"
+
+msgid "Enable to show breadcrumb in inner pages."
+msgstr "Activer pour afficher le fil d'Ariane à l'intérieur des pages."
+
+msgid "Enable Breadcrumb"
+msgstr "Activer le fil d’Ariane"
+
+msgid "Enable Last Update Post Date"
+msgstr "Activez la date de l’article à la dernière mise à jour"
+
+msgid "SEO Settings"
+msgstr "Réglages SEO"
+
+msgid "links"
+msgstr "liens"
+
+msgid "Example: http://facebook.com"
+msgstr "Exemple : http://facebook.com"
+
+msgid "Example: fa-bell"
+msgstr "Exemple : fa-bell"
+
+msgid "Font Awesome Icon"
+msgstr "Icône Font Awesome"
+
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+msgid "Enable to show social links at header."
+msgstr "Activez pour afficher les liens des réseaux sociaux dans l’en-tête."
+
+msgid "Enable Social Links"
+msgstr "Activez les liens sociaux"
+
+msgid "Featured Content One"
+msgstr "Contenu mis en avant 1"
+
+msgid "Featured Content Two"
+msgstr "Contenu mis en avant 2"
+
+msgid "Featured Content Three"
+msgstr "Contenu mis en avant 3"
+
+msgid "Enable to show Featured Area in home page."
+msgstr "Activer pour afficher la zone mise en avant sur la page d'accueil."
+
+msgid "Enable Featured Area"
+msgstr "Activer la zone mise en avant"
+
+msgid "Featured Area Settings"
+msgstr "Réglages de la zone mise en avant"
+
+msgid "Slide Out Down"
+msgstr "Faites glisser vers le bas"
+
+msgid "Slide Out Up"
+msgstr "Faites glisser vers le haut"
+
+msgid "Slide Out Right"
+msgstr "Faites glisser vers la droite"
+
+msgid "Slide Out Left"
+msgstr "Faites glisser vers la gauche"
+
+msgid "Slide"
+msgstr "Glissement"
+
+msgid "Fade Out Down"
+msgstr "Faire disparaître vers le bas"
+
+msgid "Fade Out Up"
+msgstr "Faire disparaître vers le haut"
+
+msgid "Fade Out Right"
+msgstr "Faire disparaître vers la droite"
+
+msgid "Fade Out Left"
+msgstr "Faire disparaître vers la gauche"
+
+msgid "Fade Out"
+msgstr "Faire disparaître"
+
+msgid "Slider Animation"
+msgstr "Animation du diaporama"
+
+msgid "Number of Slides"
+msgstr "Nombre de diapositives"
+
+msgid "Slider Category"
+msgstr "Catégorie du diaporama"
+
+msgid "Slider Content Style"
+msgstr "Style de contenu du diaporama"
+
+msgid "Enable Slider"
+msgstr "Activer le diaporama"
+
+msgid "Slider Settings"
+msgstr "Réglages du diaporama"
+
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+msgid "Footer Copyright Text"
+msgstr "Texte des droits d’auteur en pieds de page"
+
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+#, fuzzy
+msgid "Book 300 Italic"
+msgstr "Book 300 Italique"
+
+#, fuzzy
+msgid "Book 300"
+msgstr "Book 300"
+
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#, fuzzy
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Add new %s"
+msgstr "Ajouter un nouveau %s"
+
+msgid "row"
+msgstr "rangée"
+
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s commentaire"
+msgstr[1] "%1$s commentaires"
+
+msgid "TAKE ME TO THE HOME PAGE"
+msgstr "Retour à la page d'accueil"
+
+msgid "404"
+msgstr "404"
+
+msgid "Uh-Oh..."
+msgstr "Oh-Oh…"
