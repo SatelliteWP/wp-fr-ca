@@ -1,16 +1,24 @@
-e-mail
-é-mail
-du coup
-email
-émail
-adresse de messagerie
-adresses de messagerie
 adresse de courriel
 adresses de courriel
+adresse de messagerie
+adresses de messagerie
+bas de page
+blog.
+blog 
+blog,
+blog:
+blog&nbsp;
 code court
-embarquer
+du coup
+e-mail
+é-mail
+email
+émail
 embarqué
+embarquer
 embarquez
+évènement
+image à la une
 mot clé
 mot-clé
 mots clés
@@ -18,17 +26,10 @@ mots-clés
 mot-clés
 mot-clef
 mots-clefs
-évènement
-image à la une
-bas de page
-WordPresss
-TVA
-stock
-plugin
+newsletter
 paramètre
 paramétre
-blog.
-blog 
-blog,
-blog:
-blog&nbsp;
+plugin
+stock
+TVA
+WordPresss
