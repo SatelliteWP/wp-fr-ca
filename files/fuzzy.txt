@@ -7,6 +7,9 @@ blog.
 blog 
 blog,
 blog:
+blog!
+blog?
+blog :
 blog&nbsp;
 code court
 du coup
@@ -17,7 +20,6 @@ email
 embarqué
 embarquer
 embarquez
-évènement
 image à la une
 mot clé
 mot-clé
