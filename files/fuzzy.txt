@@ -33,3 +33,5 @@ plugin
 stock
 TVA
 WordPresss
+https://wordpress.org/plugins
+https://wordpress.org/themes
