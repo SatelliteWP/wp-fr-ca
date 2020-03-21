@@ -34,6 +34,7 @@ Paramètre
 Paramètres
 paramétre
 portefolio
+porte folio
 blog.
 blog 
 blog,
