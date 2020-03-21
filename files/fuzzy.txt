@@ -22,12 +22,7 @@ mots-clés
 mot-clés
 mot-clef
 mots-clefs
-image à la une
-bas de page
-WordPresss
-TVA
-stock
-plugin
+newsletter
 paramètre
 paramètres
 Paramètre
@@ -47,6 +42,10 @@ Newsletter
 newsletter
 newsletters
 Newsletters
+plugin
+stock
+TVA
+WordPresss
 https://wordpress.org/plugins
 https://wordpress.org/themes
 réactif
