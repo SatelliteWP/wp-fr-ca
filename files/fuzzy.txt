@@ -12,6 +12,8 @@ adresses de courriel
 billet
 billets
 code court
+codes courts
+click
 embarquer
 embarqué
 embarquez
@@ -43,10 +45,14 @@ newsletter
 newsletters
 Newsletters
 plugin
+réactif
+slide
+slides
 stock
+support 
 TVA
+upload
+uploads
 WordPresss
 https://wordpress.org/plugins
 https://wordpress.org/themes
-réactif
-support

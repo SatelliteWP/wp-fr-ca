@@ -510,6 +510,9 @@ msgstr "L'équipe WordPress"
 msgid "https://wordpress.org/"
 msgstr "https://fr-ca.wordpress.org/"
 
+msgid "https://wordpress.org/support/"
+msgstr "https://wpfr.net/support/"
+
 msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
 msgstr "Désolé, mais rien ne correspond à vos critères. Réessayez en modifiant les termes de recherche."
 
@@ -2377,9 +2380,6 @@ msgstr "Remplacer l’image"
 msgid "Edit or update the image"
 msgstr "Modifier ou mettre à jour l'image"
 
-msgid "Learn more about manual excerpts"
-msgstr "En apprendre plus sur les extraits manuels"
-
 msgid "Write an excerpt (optional)"
 msgstr "Écrire un extrait (optionnel)..."
 
@@ -2580,9 +2580,6 @@ msgstr "Des plus récents aux plus anciens"
 
 msgid "Order by"
 msgstr "Ordonner par"
-
-msgid "Dismiss this notice"
-msgstr "Ignorer cette notification"
 
 #. translators: 1: term name, 2: term position in a set of terms, 3: total term
 #. set count.
@@ -4867,9 +4864,6 @@ msgstr "Valeur non valide pour le fichier-joint en arrière-plan."
 msgid "Invalid value for background repeat."
 msgstr "Valeur non valide pour la répétition de l’arrière-plan."
 
-msgid "Learn more about CSS"
-msgstr "En savoir plus sur le CSS (en anglais)"
-
 msgid "Additional CSS"
 msgstr "CSS additionnel"
 
@@ -6116,9 +6110,6 @@ msgstr "Mise à jour annulée."
 msgctxt "theme"
 msgid "Change"
 msgstr "Changer"
-
-msgid "Dismiss this notice."
-msgstr "Ne pas tenir compte de ce message."
 
 msgid "%1$s response to %2$s"
 msgid_plural "%1$s responses to %2$s"
@@ -7373,9 +7364,6 @@ msgstr "Supprimer définitivement"
 
 msgid "Upload Limit Exceeded"
 msgstr "Limite de mise en ligne dépassée"
-
-msgid "Dismiss Errors"
-msgstr "Ignorer les erreurs"
 
 msgid "Uploading"
 msgstr "Mise en ligne"
@@ -9669,9 +9657,20 @@ msgstr "Non classé"
 msgid "View Page"
 msgstr "Voir la page"
 
-#. https://translate.wordpress.org/consistency/?search=Dismiss&set=fr-ca%2Fdefault&project=
 msgid "Dismiss"
-msgstr "Fermer"
+msgstr "Ignorer"
+
+msgid "dismiss"
+msgstr "ignorer"
+
+msgid "Dismiss Errors"
+msgstr "Ignorer les erreurs"
+
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notification"
+
+msgid "Dismiss this alert"
+msgstr "Ignorer cette alerte"
 
 msgid "All Categories"
 msgstr "Toutes"
@@ -10436,9 +10435,6 @@ msgstr "Afficher le numéro de série"
 msgid "Course Content Table"
 msgstr "Tableau du contenu du cours"
 
-msgid "Learn More"
-msgstr "En savoir plus"
-
 msgid "Theme Color"
 msgstr "Couleur du thème"
 
@@ -10480,9 +10476,6 @@ msgstr "Blogue Pro"
 
 msgid "Spacing"
 msgstr "Espacement"
-
-msgid "Learn More »"
-msgstr "En savoir plus »"
 
 msgid "Sidebar Options"
 msgstr "Options de colonne latérale"
@@ -11258,8 +11251,23 @@ msgstr "Largeur de la barre du haut"
 msgid "Top Bar"
 msgstr "Barre du haut"
 
-msgid "Learn more"
+msgid "learn More"
+msgstr "en savoir plus"
+
+msgid "Learn More"
 msgstr "En savoir plus"
+
+msgid "Learn More &#187;"
+msgstr "En savoir plus »"
+
+msgid "Learn More »"
+msgstr "En savoir plus »"
+
+msgid "Learn more about CSS"
+msgstr "En savoir plus sur le CSS (en anglais)"
+
+msgid "Learn more about manual excerpts"
+msgstr "En savoir plus sur les extraits manuels"
 
 msgid "Premium"
 msgstr "Premium"
@@ -14317,9 +14325,6 @@ msgstr "Schéma"
 msgid "Settings saved."
 msgstr "Réglages enregistrés."
 
-msgid "Dismiss this alert"
-msgstr "Ignorer cette alerte"
-
 msgid "Continue learning"
 msgstr "Continuez d’apprendre"
 
@@ -15072,9 +15077,6 @@ msgstr "type"
 
 msgid "Debug"
 msgstr "Débogage"
-
-msgid "dismiss"
-msgstr "rejeter"
 
 msgid "Don't show again"
 msgstr "Ne plus afficher"
@@ -15943,3 +15945,25 @@ msgstr "Aller à la page d'accueil"
 
 msgid "Related products"
 msgstr "Produits similaires"
+
+msgid "Display as Dropdown"
+msgstr "Afficher comme liste déroulante"
+
+msgid "Tiles"
+msgstr "Mosaïque d'images rectangulaires"
+
+msgid "Coupon"
+msgstr "Coupon"
+
+msgid "coupon"
+msgstr "coupon"
+
+msgid "coupon"
+msgid_plural "coupons"
+msgstr[0] "coupon"
+msgstr[1] "coupons"
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "L’extension nécessaire suivante est présentement inactive : %1$s."
+msgstr[1] "Les extensions nécessaires suivantes sont présentement inactives : %1$s."
