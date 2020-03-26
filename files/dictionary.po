@@ -462,6 +462,12 @@ msgstr "<strong>%</strong> commentaires"
 msgid "<strong>1</strong> Reply"
 msgstr "<strong>1</strong> commentaire"
 
+msgid "View all % comments"
+msgstr "Afficher les % commentaires"
+
+msgid "One comment so far"
+msgstr "Un commentaire pour le moment"
+
 msgid "Comments are closed."
 msgstr "Les commentaires sont fermés."
 
@@ -16376,6 +16382,9 @@ msgstr "Recherche :"
 msgid "Sticky post"
 msgstr "Article mis en avant"
 
+msgid "Sticky"
+msgstr "Mis en avant"
+
 msgid "Post date"
 msgstr "Date de l’article"
 
@@ -16694,9 +16703,6 @@ msgstr "Archives mensuelles&nbsp;: <span>%s</span>"
 msgid "Daily Archives: <span>%s</span>"
 msgstr "Archives quotidiennes&nbsp;: <span>%s</span>"
 
-msgid "&rarr;"
-msgstr "»"
-
 msgid "No posts to display"
 msgstr "Aucun article à afficher"
 
@@ -16705,3 +16711,62 @@ msgstr "% commentaires"
 
 msgid "1 Reply"
 msgstr "1 Commentaire"
+
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une pensée sur &ldquo;%s&rdquo;"
+
+msgid "Off-white"
+msgstr "Blanc crème"
+
+msgid "Beige"
+msgstr "Beige"
+
+msgid "Light Brown"
+msgstr "Marron clair"
+
+msgid "Light Orange"
+msgstr "Orange clair"
+
+msgid "Medium Orange"
+msgstr "Orange moyen"
+
+msgid "%s Archives"
+msgstr "Archives des %s"
+
+msgid "Star"
+msgstr "Étoile"
+
+msgid "Diamond"
+msgstr "Losange"
+
+msgid "Circle"
+msgstr "Cercle"
+
+msgid "Full resolution"
+msgstr "Pleine résolution"
+
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s le %2$s"
+
+#, fuzzy
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#, fuzzy
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Apparaît dans la barre latérale des articles et pages."
+
+msgid "Appears in the footer section of the site."
+msgstr "Apparaît dans le pied de page du site."
+
+msgid "Main Widget Area"
+msgstr "Zone principale de widgets"
+
+msgid "All posts by %s"
+msgstr "Tous les articles par %s"
