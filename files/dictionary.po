@@ -16211,3 +16211,49 @@ msgstr "Type de bordure"
 #, fuzzy
 msgid "Inline CSS"
 msgstr "CSS incorporée"
+
+msgid "Coffee"
+msgstr "Café"
+
+msgid "Sandwich"
+msgstr "Sandwich"
+
+msgid "Espresso"
+msgstr "Expresso"
+
+msgid "Pause background video"
+msgstr "Stopper le vidéo en arrière-plan"
+
+msgid "Play background video"
+msgstr "Lecture du vidéo en arrière-plan"
+
+msgid "Front Page Section %1$s Placeholder"
+msgstr "Texte indicatif de la section %1$s de la page d’accueil"
+
+msgid "Please define an SVG icon filename."
+msgstr "Veuillez définir un nom de fichier d’icône SVG."
+
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Modifier<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+msgid "Collapse child menu"
+msgstr "Réduire le sous-menu"
+
+msgid "Expand child menu"
+msgstr "Étendre le sous-menu"
+
+msgid "Social Links Menu"
+msgstr "Menu des liens de réseaux sociaux"
+
+msgid "Footer Social Links Menu"
+msgstr "Menu des liens sociaux du pied de page"
+
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réponses sur &ldquo;%2$s&rdquo;"
+
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Une réponse sur &ldquo;%s&rdquo;"
