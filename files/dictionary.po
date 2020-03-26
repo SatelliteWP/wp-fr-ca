@@ -586,8 +586,24 @@ msgstr "Mois&nbsp;: %s"
 msgid "Day: %s"
 msgstr "Jour&nbsp;: %s"
 
+msgid "Authors"
+msgstr "Auteurs"
+
 msgid "Author: %s"
 msgstr "Auteur&nbsp;: %s"
+
+msgid "By Post Author"
+msgstr "Par auteur de l'article"
+
+#. translators: %s: Author name
+msgid "By %s"
+msgstr "Par %s"
+
+msgid "Show author bio"
+msgstr "Afficher la biographie de l'auteur"
+
+msgid "Hide Author Bio"
+msgstr "Cacher la biographie de l'auteur"
 
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "Oups! Cette page est introuvable."
@@ -5475,10 +5491,6 @@ msgstr "Le site Web que vous cherchez (%s) n’existe pas."
 msgid "Oops! That embed can&#8217;t be found."
 msgstr "Oups! Ce contenu intégré n’a pas pu être trouvé."
 
-#. translators: %s: Name of current post
-msgid "Continue reading %s"
-msgstr "Lire la suite de %s"
-
 msgid "Site Language:"
 msgstr "Langue du site Web&nbsp;:"
 
@@ -5726,11 +5738,36 @@ msgid_plural "%s <span class=\"screen-reader-text\">Comments</span>"
 msgstr[0] "%s <span class=\"screen-reader-text\">Commentaire</span>"
 msgstr[1] "%s <span class=\"screen-reader-text\">Commentaires</span>"
 
-msgid "Read more"
-msgstr "Lire la suite"
+msgid "Continue reading"
+msgstr "Continuer la lecture"
 
 msgid "Continue reading &rarr;"
-msgstr "Continuer la lecture &rarr;"
+msgstr "Continuer la lecture »"
+
+msgid "Continue reading %s"
+msgstr "Continuer la lecture de %s"
+
+msgid "Continued"
+msgstr "Lire la suite­­"
+
+msgid "Read more"
+msgstr "Continuer la lecture"
+
+msgctxt "Read More"
+msgid "Read More"
+msgstr "Lire la suite"
+
+msgid "Read More &raquo;"
+msgstr "Continuer la lecture »"
+
+msgid "Insert Read More tag"
+msgstr "Insérer la balise « Continuer la lecture... »"
+
+msgid "Read more..."
+msgstr "Continuer la lecture..."
+
+msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture de %s <span class=\"meta-nav\"> »</span>"
 
 msgid "Embed a WordPress post."
 msgstr "Intégrer une publication WordPress."
@@ -6514,9 +6551,6 @@ msgstr "Fermer le panneau de chargement"
 msgid "Close media panel"
 msgstr "Fermer le panneau des médias"
 
-msgid "Read more..."
-msgstr "Lire la suite..."
-
 msgid "Bitrate"
 msgstr "Débit"
 
@@ -6949,9 +6983,6 @@ msgstr "Retour"
 
 msgid "Image Details"
 msgstr "Détails de l’image"
-
-msgid "Insert Read More tag"
-msgstr "Insérer la balise « Lire la suite... »"
 
 msgid "Tools"
 msgstr "Outils"
@@ -9995,6 +10026,21 @@ msgstr "Alignement du fil d’Ariane"
 msgid "Disable on 404 Page?"
 msgstr "Désactiver sur la page 404 ?"
 
+msgid "404"
+msgstr "404"
+
+msgid "404 Error - Page Not Found"
+msgstr "Erreur 404 (Page introuvable)"
+
+msgid "404 Not Found"
+msgstr "404 Introuvable"
+
+msgid "404 not found"
+msgstr "404 introuvable"
+
+msgid "Page Not Found"
+msgstr "Page introuvable"
+
 msgid "Disable on Singular?"
 msgstr "Désactiver sur les publications seules ?"
 
@@ -10082,9 +10128,6 @@ msgstr "Page de commentaire %s"
 #. Translators: %s is the search query.
 msgid "Search results for: %s"
 msgstr "Résultats de recherche pour : %s"
-
-msgid "404 Not Found"
-msgstr "404 - Introuvable"
 
 msgctxt "breadcrumbs aria label"
 msgid "Breadcrumbs"
@@ -11159,9 +11202,6 @@ msgstr "Après la page"
 msgid "Before Page"
 msgstr "Avant la page"
 
-msgid "Read More &raquo;"
-msgstr "Lire la suite »"
-
 msgid "Comments Navigation"
 msgstr "Navigation de commentaires"
 
@@ -11881,9 +11921,6 @@ msgstr[1] "%1$s commentaires"
 msgid "Home Page"
 msgstr "Page d’accueil"
 
-msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Lire la suite de %s <span class=\"meta-nav\">&rarr;</span>"
-
 msgid "View all posts in %s"
 msgstr "Voir tous les articles dans %s"
 
@@ -11920,10 +11957,6 @@ msgstr "Saisir ici"
 
 msgid "Search for:"
 msgstr "Rechercher :"
-
-msgctxt "Read More"
-msgid "Read More"
-msgstr "Lire la suite"
 
 msgid "Theme by %1$s Powered by %2$s"
 msgstr "Thème par %1$s Propulsé par %2$s"
@@ -15026,9 +15059,6 @@ msgstr "Votre panier d'achats"
 msgid "| (Edit)"
 msgstr "| (Modifier)"
 
-msgid "Continued"
-msgstr "Lire la suite­­"
-
 msgid "There is an update available for: %1$s."
 msgid_plural "There are updates available for the following plugins: %1$s."
 msgstr[0] "Une mise à jour est disponible pour l'extension&nbsp;: %1$s."
@@ -15368,9 +15398,6 @@ msgstr ")"
 msgid " (Page"
 msgstr " (Page"
 
-msgid "404 Error - Page Not Found"
-msgstr "Erreur 404 (Page inaccessible)"
-
 msgid "d"
 msgstr "d"
 
@@ -15687,9 +15714,6 @@ msgstr[1] "%1$s commentaires"
 
 msgid "TAKE ME TO THE HOME PAGE"
 msgstr "Retour à la page d'accueil"
-
-msgid "404"
-msgstr "404"
 
 msgid "Uh-Oh..."
 msgstr "Oh-Oh…"
@@ -16182,12 +16206,6 @@ msgstr "permalien"
 msgid "Attachments"
 msgstr "Pièces jointes"
 
-msgid "Authors"
-msgstr "Auteurs"
-
-msgid "Hide Author Bio"
-msgstr "Cacher la biographie de l'auteur"
-
 msgid "Hide Post Tags"
 msgstr "Cacher les étiquettes"
 
@@ -16264,17 +16282,154 @@ msgstr "Menu des liens de réseaux sociaux"
 msgid "Footer Social Links Menu"
 msgstr "Menu des liens sociaux du pied de page"
 
-msgid "Featured"
-msgstr "Mis en avant"
-
 msgid "More"
 msgstr "Plus"
 
-msgid "Custom"
-msgstr "Personnalisé"
-
-msgid "Default"
-msgstr "Valeur par défaut"
-
 msgid "Join the Conversation"
 msgstr "Rejoindre la conversation"
+
+msgid "Join the Club"
+msgstr "Joindre le club"
+
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "Devenez membre et obtenez des offres exclusives !"
+
+msgid "The color used for the text in the overlay."
+msgstr "La couleur utilisée pour le texte de la superposition."
+
+msgid "Overlay Text Color"
+msgstr "Couleur du texte de superposition"
+
+msgid "Overlay Background Color"
+msgstr "Couleur de superposition de l’arrière-plan"
+
+msgid "search again"
+msgstr "chercher de nouveau"
+
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "Nous avons trouvé %s résultat pour votre recherche."
+msgstr[1] "Nous avons trouvé %s résultats pour votre recherche."
+
+#. translators: %s: HTML character for up arrow
+msgid "Up %s"
+msgstr "Haut %s"
+
+#. translators: %s: HTML character for up arrow
+msgid "To the top %s"
+msgstr "Vers le haut %s"
+
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+msgid "Full Width Template"
+msgstr "Modèle pleine largeur"
+
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Articles</span> plus anciens"
+
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Articles</span> plus récents"
+
+msgid "Close search"
+msgstr "Fermer la recherche"
+
+msgid "Expanded Social links"
+msgstr "Liens de réseaux sociaux étendus"
+
+msgid "Social links"
+msgstr "Liens de réseaux sociaux"
+
+msgid "Expanded"
+msgstr "Étendus"
+
+msgid "Close Menu"
+msgstr "Fermer menu"
+
+msgid "Scroll Down"
+msgstr "Défiler vers le bas"
+
+msgid "Search:"
+msgstr "Recherche :"
+
+msgid "Sticky post"
+msgstr "Article mis en avant"
+
+msgid "Post date"
+msgstr "Date de l’article"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "XL"
+msgstr "TG"
+
+msgid "Larger"
+msgstr "Plus grand"
+
+msgid "L"
+msgstr "G"
+
+msgid "Large"
+msgstr "Grand"
+
+msgid "M"
+msgstr "M"
+
+msgid "Regular"
+msgstr "Régulier"
+
+msgid "S"
+msgstr "P"
+
+msgid "Small"
+msgstr "Petit"
+
+msgid "Subtle Background"
+msgstr "Arrière-plan subtil"
+
+msgid "Accent Color"
+msgstr "Couleur d'accent"
+
+msgid "Footer #1"
+msgstr "Pied de page 1"
+
+msgid "Footer #2"
+msgstr "Pied de page 2"
+
+msgid "Skip to the content"
+msgstr "Aller au contenu"
+
+msgid "Desktop Expanded Menu"
+msgstr "Menu étendu grands écrans"
+
+msgid "Desktop Horizontal Menu"
+msgstr "Menu horizontal grand écrans"
+
+msgid "Show sub menu"
+msgstr "Afficher sous-menu"
+
+msgid "says:"
+msgstr "dit :"
+
+msgid "Fixed Background Image"
+msgstr "Image d'arrière-plan fixe"
+
+msgid "Cover Template"
+msgstr "Gabarit de couverture"
+
+msgid "Summary"
+msgstr "Résumé"
+
+msgid "On archive pages, posts show:"
+msgstr "Sur les pages d'archive, les articles affichent :"
+
+msgid "Show search in header"
+msgstr "Afficher la recherche dans l’en-tête"
+
+msgid "Header &amp; Footer Background Color"
+msgstr "Couleur d’arrière-plan de l’en-tête et du pied de page"
+
+msgid "Retina logo"
+msgstr "Logo Rétina"
