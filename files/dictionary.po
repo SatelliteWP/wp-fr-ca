@@ -466,6 +466,31 @@ msgstr "Navigation des commentaires"
 msgid "This post is password protected. Enter the password to view any comments."
 msgstr "Cet article est protégé par un mot de passe. Entrez le mot de passe pour lire les commentaires."
 
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d commentaire"
+msgstr[1] "%d commentaires"
+
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Une réponse sur « %s »"
+
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse sur « %2$s »"
+msgstr[1] "%1$s réponses sur « %2$s »"
+
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse sur « %2$s »"
+msgstr[1] "%1$s réponses sur « %2$s »"
+
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Une réponse sur « %s »"
+
 msgid "Category Archives: %s"
 msgstr "Archives de catégorie&nbsp;: %s"
 
@@ -16212,15 +16237,6 @@ msgstr "Type de bordure"
 msgid "Inline CSS"
 msgstr "CSS incorporée"
 
-msgid "Coffee"
-msgstr "Café"
-
-msgid "Sandwich"
-msgstr "Sandwich"
-
-msgid "Espresso"
-msgstr "Expresso"
-
 msgid "Pause background video"
 msgstr "Stopper le vidéo en arrière-plan"
 
@@ -16248,12 +16264,17 @@ msgstr "Menu des liens de réseaux sociaux"
 msgid "Footer Social Links Menu"
 msgstr "Menu des liens sociaux du pied de page"
 
-msgctxt "comments title"
-msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
-msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
-msgstr[0] "%1$s réponse sur &ldquo;%2$s&rdquo;"
-msgstr[1] "%1$s réponses sur &ldquo;%2$s&rdquo;"
+msgid "Featured"
+msgstr "Mis en avant"
 
-msgctxt "comments title"
-msgid "One Reply to &ldquo;%s&rdquo;"
-msgstr "Une réponse sur &ldquo;%s&rdquo;"
+msgid "More"
+msgstr "Plus"
+
+msgid "Custom"
+msgstr "Personnalisé"
+
+msgid "Default"
+msgstr "Valeur par défaut"
+
+msgid "Join the Conversation"
+msgstr "Rejoindre la conversation"

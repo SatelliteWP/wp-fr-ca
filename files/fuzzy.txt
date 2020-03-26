@@ -17,6 +17,8 @@ click
 embarquer
 embarqué
 embarquez
+À la une
+à la une
 image a la une
 image à la une
 Image à la une
