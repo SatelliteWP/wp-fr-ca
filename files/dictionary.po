@@ -265,6 +265,9 @@ msgstr "Mettant en vedette&nbsp;: %s"
 msgid "Featured Post"
 msgstr "Article en vedette"
 
+msgid "Featured post"
+msgstr "Article en vedette"
+
 msgid "Search"
 msgstr "Recherche"
 
@@ -544,7 +547,7 @@ msgid "This is somewhat embarrassing, isn&rsquo;t it?"
 msgstr "Voilà qui est embarrassant. N’est-ce pas ?"
 
 msgid "the WordPress team"
-msgstr "L'équipe WordPress"
+msgstr "l'équipe WordPress"
 
 msgid "https://wordpress.org/"
 msgstr "https://fr-ca.wordpress.org/"
@@ -5751,6 +5754,9 @@ msgstr "Continuer la lecture"
 
 msgid "Continue reading &rarr;"
 msgstr "Continuer la lecture »"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture <span class=\"meta-nav\">»</span>"
 
 msgid "Continue reading %s"
 msgstr "Continuer la lecture de %s"
@@ -16687,3 +16693,15 @@ msgstr "Archives mensuelles&nbsp;: <span>%s</span>"
 
 msgid "Daily Archives: <span>%s</span>"
 msgstr "Archives quotidiennes&nbsp;: <span>%s</span>"
+
+msgid "&rarr;"
+msgstr "»"
+
+msgid "No posts to display"
+msgstr "Aucun article à afficher"
+
+msgid "% Replies"
+msgstr "% commentaires"
+
+msgid "1 Reply"
+msgstr "1 Commentaire"
