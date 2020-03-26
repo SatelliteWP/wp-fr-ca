@@ -53,6 +53,14 @@ msgstr "Articles"
 msgid "Tags"
 msgstr "Étiquettes"
 
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Étiquettes"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgctxt "Used before category names."
 msgid "Categories"
 msgstr "Catégories"
 
@@ -16362,29 +16370,11 @@ msgstr "Date de l’article"
 msgid "Horizontal"
 msgstr "Horizontal"
 
-msgid "XL"
-msgstr "TG"
-
 msgid "Larger"
 msgstr "Plus grand"
 
-msgid "L"
-msgstr "G"
-
-msgid "Large"
-msgstr "Grand"
-
-msgid "M"
-msgstr "M"
-
 msgid "Regular"
 msgstr "Régulier"
-
-msgid "S"
-msgstr "P"
-
-msgid "Small"
-msgstr "Petit"
 
 msgid "Subtle Background"
 msgstr "Arrière-plan subtil"
@@ -16433,3 +16423,72 @@ msgstr "Couleur d’arrière-plan de l’en-tête et du pied de page"
 
 msgid "Retina logo"
 msgstr "Logo Rétina"
+
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+msgid "https://www.godaddy.com/"
+msgstr "https://www.godaddy.com/"
+
+msgid "Bright Red"
+msgstr "Rouge brillant"
+
+msgid "Dark Red"
+msgstr "Rouge foncé"
+
+msgid "Medium Brown"
+msgstr "Marron moyen"
+
+msgid "Dark Brown"
+msgstr "Marron foncé"
+
+msgid "Light Blue"
+msgstr "Bleu clair"
+
+msgid "Bright Blue"
+msgstr "Bleu brillant"
+
+msgid "Blue Gray"
+msgstr "Bleu gris"
+
+msgid "Footer Primary Menu"
+msgstr "Menu principal de pied de page"
+
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Ajoutez des widgets ici pour les afficher dans votre colonne latérale."
+
+msgid ", "
+msgstr ", "
+
+msgid "Main Text Color"
+msgstr "Couleur primaire du texte"
+
+msgid "Secondary Text Color"
+msgstr "Couleur secondaire du texte"
+
+msgid "Page Background Color"
+msgstr "Couleur du fond de page"
+
+msgid "Base Color Scheme"
+msgstr "Jeu de couleurs de base"
+
+msgid "Full size"
+msgstr "Taille réelle"
+
+msgid "Next Image"
+msgstr "Image suivante"
+
+msgid "Previous Image"
+msgstr "Image précédente"
+
+msgid "expand child menu"
+msgstr "étendre le sous-menu"
+
+msgid "collapse child menu"
+msgstr "réduire le sous-menu"
+
+msgid "Content Bottom 1"
+msgstr "Contenu du bas 1"
+
+msgid "Content Bottom 2"
+msgstr "Contenu du bas 2"
