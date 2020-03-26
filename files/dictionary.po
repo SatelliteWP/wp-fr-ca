@@ -10049,6 +10049,9 @@ msgstr "404 introuvable"
 msgid "Page Not Found"
 msgstr "Page introuvable"
 
+msgid "Not Found"
+msgstr "Introuvable"
+
 msgid "Disable on Singular?"
 msgstr "Désactiver sur les publications seules ?"
 
@@ -16558,12 +16561,6 @@ msgstr "Violet foncé"
 msgid "One thought on &ldquo;%s&rdquo;"
 msgstr "Une réflexion sur &ldquo;%s&rdquo;"
 
-msgid "Full size"
-msgstr "Taille réelle"
-
-msgid ", "
-msgstr ", "
-
 msgctxt "Used before post author name."
 msgid "Author"
 msgstr "Auteur"
@@ -16587,3 +16584,106 @@ msgstr "Menu et widgets"
 
 msgid "Published by"
 msgstr "Publié par"
+
+msgid "One Response to %s"
+msgstr "Une réponse à l'article %s"
+
+msgid "One column, no sidebar"
+msgstr "Une colonne, pas de colonne latérale"
+
+msgid "View posts in the Gallery category"
+msgstr "Afficher les articles de la catégorie Galerie"
+
+msgid "More Galleries"
+msgstr "Plus de galeries"
+
+msgid "View Galleries"
+msgstr "Voir les galeries"
+
+msgid "gallery"
+msgstr "galerie"
+
+msgid "&rarr;"
+msgstr "»"
+
+#, fuzzy
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "«"
+
+msgid "Link to full-size image"
+msgstr "Lien vers l’image originale"
+
+msgid "Full size is %s pixels"
+msgstr "La taille originale est de %s pixels"
+
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Publié le</span> %2$s"
+
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Par</span> %2$s"
+
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">«</span> %s"
+
+msgid "Return to %s"
+msgstr "Revenir à %s"
+
+msgid "First Footer Widget Area"
+msgstr "Zone de pied de page 1"
+
+msgid "Second Footer Widget Area"
+msgstr "Zone de pied de page 2"
+
+msgid "Third Footer Widget Area"
+msgstr "Zone de pied de page 3"
+
+msgid "Fourth Footer Widget Area"
+msgstr "Zone de pied de page 4"
+
+msgid "An optional widget area for your site footer."
+msgstr "Une zone de widget optionnelle pour le pied de page de votre site."
+
+msgid "Secondary Widget Area"
+msgstr "Zone secondaire de widgets"
+
+msgid "Primary Widget Area"
+msgstr "Zone principale de widgets"
+
+msgid "Sunset"
+msgstr "Coucher du soleil"
+
+msgid "Path"
+msgstr "Chemin"
+
+msgid "Inkwell"
+msgstr "Encrier"
+
+msgid "Forest Floor"
+msgstr "Paysage forestier"
+
+msgid "Fern"
+msgstr "Fougère"
+
+msgid "Concave"
+msgstr "Mirroir"
+
+msgid "Cherry Blossoms"
+msgstr "Fleurs de cerisier"
+
+msgid "Berries"
+msgstr "Framboises"
+
+msgid "%1$s Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "%1$s réponse à %2$s"
+msgstr[1] "%1$s réponses à %2$s"
+
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archives annuelles&nbsp;: <span>%s</span>"
+
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archives mensuelles&nbsp;: <span>%s</span>"
+
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archives quotidiennes&nbsp;: <span>%s</span>"
