@@ -11099,9 +11099,6 @@ msgstr "Couleur d’arrière-plan de bouton au survol"
 msgid "Button Background Color"
 msgstr "Couleur d'arrière-plan de bouton"
 
-msgid "Widget Areas"
-msgstr "Zones de widget"
-
 msgid "Buttons"
 msgstr "Boutons"
 
@@ -12354,6 +12351,12 @@ msgstr "Taille originale"
 
 msgid "Subtitle"
 msgstr "Sous-titre"
+
+msgid "Widget Areas"
+msgstr "Zones de widget"
+
+msgid "Widget Area"
+msgstr "Zone de widgets"
 
 msgid "Sidebar widget area"
 msgstr "Zone de Colonne latérale"
@@ -16540,8 +16543,47 @@ msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
 msgstr[0] "Cette galerie contient <a %1$s>%2$s photo</a>."
 msgstr[1] "Cette galerie contient <a %1$s>%2$s photos</a>."
 
-msgid "%"
-msgstr "%"
-
 msgid "1"
 msgstr "1"
+
+msgid "Light Pink"
+msgstr "Rose clair"
+
+msgid "Medium Pink"
+msgstr "Rose moyen"
+
+msgid "Dark Purple"
+msgstr "Violet foncé"
+
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une réflexion sur &ldquo;%s&rdquo;"
+
+msgid "Full size"
+msgstr "Taille réelle"
+
+msgid ", "
+msgstr ", "
+
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Auteur"
+
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publié le"
+
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+msgid "Header and Sidebar Background Color"
+msgstr "Couleur de fond de l'en-tête et de la barre latérale"
+
+msgid "Header and Sidebar Text Color"
+msgstr "Couleur du texte de l'en-tête et de la barre latérale"
+
+msgid "Menu and widgets"
+msgstr "Menu et widgets"
+
+msgid "Published by"
+msgstr "Publié par"
