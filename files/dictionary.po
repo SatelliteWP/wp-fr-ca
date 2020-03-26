@@ -143,9 +143,6 @@ msgstr "Taille réelle"
 msgid "Primary Color"
 msgstr "Couleur principale"
 
-msgid "No comments"
-msgstr "Aucun commentaire"
-
 msgid "View more posts"
 msgstr "Voir plus d’articles"
 
@@ -214,9 +211,6 @@ msgstr "Principal"
 
 msgid "Proudly powered by %s."
 msgstr "Fièrement propulsé par %s."
-
-msgid "Comments"
-msgstr "Commentaires"
 
 msgid "White"
 msgstr "Blanc"
@@ -444,6 +438,18 @@ msgstr "%"
 
 msgid "Aside"
 msgstr "À-côté"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "No comments"
+msgstr "Aucun commentaire"
+
+msgid "<strong>%</strong> Replies"
+msgstr "<strong>%</strong> commentaires"
+
+msgid "<strong>1</strong> Reply"
+msgstr "<strong>1</strong> commentaire"
 
 msgid "Comments are closed."
 msgstr "Les commentaires sont fermés."
@@ -3894,6 +3900,9 @@ msgctxt "post"
 msgid "Featured Image"
 msgstr "Image mise en avant"
 
+msgid "Hide Featured Image"
+msgstr "Masquer l'image mise en avant"
+
 #. translators: 1: suggested width number, 2: suggested height number.
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
 msgstr "Dimensions suggérées de l’image&nbsp;: %1$s par %2$s pixels."
@@ -5695,6 +5704,9 @@ msgstr[1] "%s <span class=\"screen-reader-text\">Commentaires</span>"
 msgid "Read more"
 msgstr "Lire la suite"
 
+msgid "Continue reading &rarr;"
+msgstr "Continuer la lecture &rarr;"
+
 msgid "Embed a WordPress post."
 msgstr "Intégrer une publication WordPress."
 
@@ -7095,9 +7107,6 @@ msgstr "En-têtes suggérés aléatoires"
 
 msgid "Randomize uploaded headers"
 msgstr "En-têtes chargés aléatoires"
-
-msgid "https://wordpress.org/support/"
-msgstr "https://wpfr.net/support"
 
 msgid "Keywords"
 msgstr "Mots-clés"
@@ -15632,19 +15641,10 @@ msgstr "Serif"
 msgid "Khmer"
 msgstr "Khmer"
 
-#, fuzzy
-msgid "Book 300 Italic"
-msgstr "Book 300 Italique"
-
-#, fuzzy
-msgid "Book 300"
-msgstr "Book 300"
-
 msgctxt "font style"
 msgid "Lucida Console, Monaco"
 msgstr "Lucida Console, Monaco"
 
-#, fuzzy
 msgctxt "font style"
 msgid "Palatino Linotype, Book Antiqua, Palatino"
 msgstr "Palatino Linotype, Book Antiqua, Palatino"
@@ -15946,17 +15946,11 @@ msgstr "Aller à la page d'accueil"
 msgid "Related products"
 msgstr "Produits similaires"
 
-msgid "Display as Dropdown"
-msgstr "Afficher comme liste déroulante"
-
 msgid "Tiles"
 msgstr "Mosaïque d'images rectangulaires"
 
 msgid "Coupon"
 msgstr "Coupon"
-
-msgid "coupon"
-msgstr "coupon"
 
 msgid "coupon"
 msgid_plural "coupons"
@@ -15967,3 +15961,253 @@ msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
 msgstr[0] "L’extension nécessaire suivante est présentement inactive : %1$s."
 msgstr[1] "Les extensions nécessaires suivantes sont présentement inactives : %1$s."
+
+msgid "Couldn't forward to %1$s: %2$s"
+msgstr "Échec du transfert à %1$s : %2$s"
+
+msgid "Forwarded to %s"
+msgstr "Transféré à %s"
+
+msgid "User %s blocked"
+msgstr "Utilisateur %s désactivé"
+
+msgid "User %1$s unsubscribed from lists %2$s"
+msgstr "Utilisateur %1$s désinscrit des listes %2$s"
+
+msgid "User %s not subscribed"
+msgstr "Utilisateur %s non inscrit"
+
+msgid "User %1$s removed from lists %2$s"
+msgstr "Utilisateur %1$s supprimé des listes %2$s"
+
+msgid "User already unsubscribed"
+msgstr "Utilisateur déjà désinscrit"
+
+msgid "User already subscribed"
+msgstr "Utilisateur déjà inscrit"
+
+msgid "User %1$s not subscribed to %2$s: "
+msgstr "Utilisateur %1$s non inscrit à %2$s : "
+
+msgid "User %1$s subscribed to %2$s"
+msgstr "Utilisateur %1$s inscrit à %2$s"
+
+msgid "User %s deleted"
+msgstr "Utilisateur %s supprimé"
+
+msgid "Message deleted"
+msgstr "Message supprimé"
+
+msgid "Bounce rate"
+msgstr "Taux de rebonds"
+
+msgid "Configure"
+msgstr "Configurer"
+
+msgid "Run bounce handling"
+msgstr "Gérer les rebonds"
+
+msgid "Failed Permanently"
+msgstr "Échec permanent"
+
+msgid "Temporary failures"
+msgstr "Échec temporaire"
+
+msgid "Domain does not exist"
+msgstr "Le domaine n’existe pas"
+
+msgid "Mailbox Full"
+msgstr "Boîte mail pleine"
+
+msgid "Action required"
+msgstr "Action nécessaire"
+
+msgid "Rule"
+msgstr "Règle"
+
+msgid "Successfully connected to %s"
+msgstr "Connecté avec succès à %s"
+
+msgid "Frequency"
+msgstr "Fréquence"
+
+msgid "No discount"
+msgstr "Aucun rabais"
+
+msgid "Upgrade now!"
+msgstr "Mettre à niveau maintenant !"
+
+msgid "Copy default translations"
+msgstr "Copier les traductions par défaut"
+
+msgid "Image required"
+msgstr "Image obligatoire"
+
+msgid "Please check your e-mail to see the coupon"
+msgstr "Veuillez vérifier vos courriels pour obtenir le coupon"
+
+msgid "Apply discounts"
+msgstr "Appliquer les rabais"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "State"
+msgstr "État/Province"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Display"
+msgstr "Afficher"
+
+msgid "Title only"
+msgstr "Titre uniquement"
+
+msgid "Descending"
+msgstr "Décroissant"
+
+msgid "Ascending"
+msgstr "Croissant"
+
+msgid "By category"
+msgstr "Par catégorie"
+
+msgid "One by one"
+msgstr "Un par un"
+
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+msgid "Resized"
+msgstr "Redimensionnées"
+
+msgid "Display pictures"
+msgstr "Afficher les images"
+
+msgid "Clickable title"
+msgstr "Titre cliquable"
+
+msgid "Publishing date"
+msgstr "Date de publication"
+
+msgid "Full text"
+msgstr "Texte complet"
+
+msgid "Intro only"
+msgstr "Intro uniquement"
+
+msgid "Custom field"
+msgstr "Champ personnalisé"
+
+msgid "Here is you template"
+msgstr "Voici votre modèle de courriel"
+
+msgid "Here you can add dynamic text to your email"
+msgstr "Ici, vous pouvez ajouter du texte dynamique à votre courriel"
+
+msgid "Skip"
+msgstr "Passer"
+
+msgid "Successfully sent"
+msgstr "Bien envoyé"
+
+msgid "Border Width (px)"
+msgstr "Épaisseur de la bordure (px)"
+
+msgid "Get Help"
+msgstr "Obtenir de l'aide"
+
+msgid "Post Title Hover Color"
+msgstr "Couleur du titre des articles au survol de la souris"
+
+msgid "Author Archive"
+msgstr "Archives de l'auteur"
+
+msgid "Theme Name"
+msgstr "Nom du thème"
+
+msgid "BG Color"
+msgstr "Couleur du fond"
+
+msgid "Uploading..."
+msgstr "Téléversement en cours..."
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Global Options"
+msgstr "Options générales"
+
+msgid "Arial"
+msgstr "Arial"
+
+msgid "Roboto Condensed"
+msgstr "Roboto Condensed"
+
+msgid "Open Sans"
+msgstr "Open Sans"
+
+msgid "permalink"
+msgstr "permalien"
+
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+msgid "Authors"
+msgstr "Auteurs"
+
+msgid "Hide Author Bio"
+msgstr "Cacher la biographie de l'auteur"
+
+msgid "Hide Post Tags"
+msgstr "Cacher les étiquettes"
+
+msgid "Hide Post Categories"
+msgstr "Cacher les catégories"
+
+msgid "Excerpt length"
+msgstr "Longueur de l'extrait"
+
+msgid "Theme Default"
+msgstr "Thème par défaut"
+
+msgid "1 Column"
+msgstr "1 colonne"
+
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+msgid "4 Columns"
+msgstr "4 colonnes"
+
+msgid "5 Columns"
+msgstr "5 colonnes"
+
+msgid "Content Headings"
+msgstr "Titres de contenu"
+
+msgid "Header Widget Area"
+msgstr "Zone de widgets d'en-tête"
+
+msgid "Hide Site Title"
+msgstr "Cacher le titre du site"
+
+msgid "Dotted"
+msgstr "Pointillé"
+
+msgid "Solid"
+msgstr "Plein"
+
+msgid "Border Style"
+msgstr "Type de bordure"
+
+#, fuzzy
+msgid "Inline CSS"
+msgstr "CSS incorporée"

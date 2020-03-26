@@ -17,6 +17,9 @@ click
 embarquer
 embarqué
 embarquez
+image a la une
+image à la une
+Image à la une
 mot clé
 mot-clé
 mots clés
