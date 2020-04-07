@@ -807,7 +807,7 @@ msgid "Label text"
 msgstr "Texte du libellé"
 
 msgid "Hide the excerpt on the full content page"
-msgstr "Masquer l’extrait sur la page de contenu entier"
+msgstr "Cacher l’extrait sur la page de contenu entier"
 
 msgid "The excerpt is visible."
 msgstr "L'extrait est visible."
@@ -1930,7 +1930,7 @@ msgid "Show Block Settings"
 msgstr "Afficher les réglages du bloc"
 
 msgid "Hide Block Settings"
-msgstr "Masquer les réglages du bloc"
+msgstr "Cacher les réglages du bloc"
 
 msgid "Block settings closed"
 msgstr "Réglages du bloc fermés"
@@ -2069,7 +2069,7 @@ msgid "Open the block navigation menu."
 msgstr "Ouvrir le menu de navigation de bloc."
 
 msgid "Show or hide the settings sidebar."
-msgstr "Afficher ou masquer la colonne latérale de réglages."
+msgstr "Afficher ou cacher la colonne latérale de réglages."
 
 msgid "Redo your last undo."
 msgstr "Rétablir la dernière action."
@@ -2106,7 +2106,7 @@ msgid "Options"
 msgstr "Options"
 
 msgid "Hide more tools & options"
-msgstr "Masquer plus d’outils & options"
+msgstr "Cacher plus d’outils & options"
 
 msgid "Show more tools & options"
 msgstr "Afficher plus d’outils & options"
@@ -5768,14 +5768,17 @@ msgid "Continue reading %s"
 msgstr "Continuer la lecture de %s"
 
 msgid "Continued"
-msgstr "Lire la suite­­"
+msgstr "Continuer la lecture"
 
 msgid "Read more"
 msgstr "Continuer la lecture"
 
 msgctxt "Read More"
 msgid "Read More"
-msgstr "Lire la suite"
+msgstr "Continuer la lecture"
+
+msgid "read More"
+msgstr "Continuer la lecture"
 
 msgid "Read More &raquo;"
 msgstr "Continuer la lecture »"
@@ -11978,6 +11981,9 @@ msgstr "Saisir ici"
 msgid "Search for:"
 msgstr "Rechercher :"
 
+msgid "Theme by %s"
+msgstr "Thème par %s"
+
 msgid "Theme by %1$s Powered by %2$s"
 msgstr "Thème par %1$s Propulsé par %2$s"
 
@@ -16277,9 +16283,8 @@ msgstr "Plein"
 msgid "Border Style"
 msgstr "Type de bordure"
 
-#, fuzzy
 msgid "Inline CSS"
-msgstr "CSS incorporée"
+msgstr "CSS incorporé"
 
 msgid "Pause background video"
 msgstr "Stopper le vidéo en arrière-plan"
@@ -16712,9 +16717,6 @@ msgstr "% commentaires"
 msgid "1 Reply"
 msgstr "1 Commentaire"
 
-msgid "One thought on &ldquo;%s&rdquo;"
-msgstr "Une pensée sur &ldquo;%s&rdquo;"
-
 msgid "Off-white"
 msgstr "Blanc crème"
 
@@ -16738,9 +16740,6 @@ msgstr "Étoile"
 
 msgid "Diamond"
 msgstr "Losange"
-
-msgid "Circle"
-msgstr "Cercle"
 
 msgid "Full resolution"
 msgstr "Pleine résolution"
@@ -16770,3 +16769,102 @@ msgstr "Zone principale de widgets"
 
 msgid "All posts by %s"
 msgstr "Tous les articles par %s"
+
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Comment puis-je résoudre mes problèmes rapidement et obtenir un soutien plus rapide ?"
+
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Veuillez vous assurer que vous avez mis à jour à la dernière version du thème avant de soumettre un ticket de soutien pour n’importe quel problème. Nous avons peut-être déjà corrigé le bogue dans la mise à jour précédente du thème."
+
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Avec les fonctionnalités supplémentaires et les mises à jour régulières, vous obtenez un soutien dédié et rapide avec le thème premium. Si vous rencontrez n’importe quel problème lors de la création d’un site web avec le thème premium, vous obtiendrez une réponse plus rapide par rapport au soutien gratuit."
+
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple homepage sections which you can sort and hide as per your requirements. Also, the Pro theme comes with several predefined page templates."
+msgstr "La version Free et Pro des thèmes sont bien codées et développées avec les meilleures pratiques de codage. Cependant, la version Pro du thème est livré avec des fonctionnalités étendues et une équipe de soutien dédiée pour vous aider à résoudre vos requêtes. Le thème Pro est livré avec plusieurs sections de page d’accueil que vous pouvez trier et masquer selon vos besoins. En outre, le thème Pro est livré avec plusieurs modèles de page prédéfinis."
+
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Si le guide de documentation ne vous a pas aidé, contactez-nous via notre %1$sticket de soutien%2$s. Nous répondons à toutes les demandes de soutien en un jour ouvrable, sauf le week-end."
+
+msgid "Also, the Pro version gets regular updates and has a dedicated support team to solve your queries."
+msgstr "En outre, la version Pro reçoit des mises à jour régulières et dispose d’une équipe de soutien dédiée pour résoudre vos demandes."
+
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Vous pouvez changer les liens pour le réseau social à partir d'Outil de personnalisation dans les options des régalges pour le network social."
+
+msgid "Social Settings"
+msgstr "Réglages pour les réseaux sociaux"
+
+msgid "Breadcrumb Settings"
+msgstr "Réglages du fil d'Ariane"
+
+msgid "Customize Home Page Settings"
+msgstr "Personnaliser les réglages pour la page d'accueil"
+
+msgid "Home Page Settings"
+msgstr "Réglages de la page d'accueil"
+
+msgid "Header Settings"
+msgstr "Réglages de l'en-tête"
+
+msgid "Default Settings"
+msgstr "Réglages par défaut"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Default image"
+msgstr "Image par défaut"
+
+msgid "Theme options"
+msgstr "Options du thème"
+
+msgid "Theme colours"
+msgstr "Couleurs du thème"
+
+msgid "&copy; 2018 VsWeb"
+msgstr "&copy; 2018 VsWeb"
+
+msgid "Widgets area for right sidebar"
+msgstr "Zone de widgets de la barre latérale droite"
+
+msgid "Right sidebar"
+msgstr "Barre latérale droite"
+
+msgid "Widgets area for left sidebar"
+msgstr "Zone de widgets de la barre latérale gauche"
+
+msgid "Left sidebar"
+msgstr "Barre latérale gauche"
+
+msgid "Profile area of the footer"
+msgstr "Zone de profil du pied de page"
+
+msgid "Footer profile"
+msgstr "Profil du pied de page"
+
+msgid "Third widgets area of the footer"
+msgstr "Troisième zone de widget du pied de page"
+
+msgid "Second widgets area of the footer"
+msgstr "Deuxième zone de widget du pied de page"
+
+msgid "First widgets area of the footer"
+msgstr "Première zone de widget du pied de page"
+
+msgid "Second zone of profile menu"
+msgstr "Deuxième zone de menu du profil"
+
+msgid "First zone of profile menu"
+msgstr "Première zone de menu du profil"
+
+msgid "theme by"
+msgstr "thème par"
+
+msgid "about us"
+msgstr "à propos"
+
+msgid "next"
+msgstr "suivant"
+
+msgid "prev"
+msgstr "précédent"
