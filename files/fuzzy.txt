@@ -1,19 +1,24 @@
 acceuil
 Acceuil
+arrière plan
+bas de page
+Bas de page
+billet
+billets
+code court
+codes courts
+click
 e-mail
 é-mail
-du coup
 email
 émail
 adresse de messagerie
 adresses de messagerie
 adresse de courriel
 adresses de courriel
-billet
-billets
-code court
-codes courts
-click
+diapo 
+Diapo 
+du coup
 embarquer
 embarqué
 embarquez
@@ -22,6 +27,10 @@ embarquez
 image a la une
 image à la une
 Image à la une
+image mise à l'avant
+vedette
+montrer
+Montrer
 mot clé
 mot-clé
 mots clés
@@ -29,6 +38,8 @@ mots-clés
 mot-clés
 mot-clef
 mots-clefs
+mise en page
+Mise en page
 newsletter
 paramètre
 paramètres
@@ -50,6 +61,7 @@ newsletter
 newsletters
 Newsletters
 plugin
+plugiciel
 lire la suite
 Lire la suite
 réactif
@@ -60,6 +72,7 @@ support
 TVA
 upload
 uploads
+vignette
 WordPresss
 https://wordpress.org/plugins
 https://wordpress.org/themes

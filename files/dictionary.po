@@ -16868,3 +16868,51 @@ msgstr "suivant"
 
 msgid "prev"
 msgstr "précédent"
+
+msgid "Upload custom logo."
+msgstr "Téléversez le logo personnalisé."
+
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont terminées."
+
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation et d’activation est lancé. Cette opération peut prendre un certain temps selon l'hébergeur. Veuillez patienter..."
+
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semblerait qu’aucun résultat n’ait été trouvé ici. Peut-être essayer un des liens ci-dessous ou une recherche ?"
+
+msgid "It looks like nothing was found at this location. Try a search."
+msgstr "Il semblerait qu’aucun résultat n’ait été trouvé ici. Peut-être essayer un des liens ci-dessous ou une recherche ?"
+
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait qu’aucun résultat n’ait été trouvé ici. Peut-être essayer un des liens ci-dessous ou une recherche ?"
+
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension disponible pour être activée présentement."
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension sélectionné pour être activée. Aucune action effectuée."
+
+msgid ""
+msgstr ""
+
+#No plugins were selected to be updated. No action taken.
+#No plugins were selected to be installed. No action taken.
+#No plugins are available to be updated at this time.
+#No plugins are available to be installed at this time.
+#The remote plugin package consists of more than one file, but the files are not packaged in a folder.
+#Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.
+#The remote plugin package does not contain a folder with the desired slug and renaming did not work.
+#This plugin needs to be updated to be compatible with your theme.
+#Please contact the administrator of this site for help.
+#There are one or more required or recommended plugins to install, update or activate.
+#All plugins installed and activated successfully. %1$s
+#Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.
+#No action taken. Plugin was already active.
+#No action taken. Plugin %1$s was already active.
+#Return to Recommended Plugins Installer
+#Return to Required Plugins Installer
+#Ready to publish your first post? <a href="%1$s">Get started here</a>.
