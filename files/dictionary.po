@@ -18,8 +18,13 @@ msgstr "Une réflexion à propos de &ldquo;%1$s&rdquo;"
 
 msgid "%1$s thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "%1$s réflexion sur &laquo;&nbsp;%2$s&nbsp;&raquo;"
-msgstr[1] "%1$s réflexions sur &laquo;&nbsp;%2$s&nbsp;&raquo;"
+msgstr[0] "%1$s avis sur « %2$s »"
+msgstr[1] "%1$s avis sur « %2$s »"
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L’extension recommandée suivante est présentement inactive : %1$s."
+msgstr[1] "Les extensions recommandées suivantes sont présentement inactives : %1$s."
 
 msgid "Footer"
 msgstr "Pied de page"
@@ -48,6 +53,14 @@ msgstr "Articles"
 msgid "Tags"
 msgstr "Étiquettes"
 
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Étiquettes"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgctxt "Used before category names."
 msgid "Categories"
 msgstr "Catégories"
 
@@ -138,9 +151,6 @@ msgstr "Taille réelle"
 msgid "Primary Color"
 msgstr "Couleur principale"
 
-msgid "No comments"
-msgstr "Aucun commentaire"
-
 msgid "View more posts"
 msgstr "Voir plus d’articles"
 
@@ -210,9 +220,6 @@ msgstr "Principal"
 msgid "Proudly powered by %s."
 msgstr "Fièrement propulsé par %s."
 
-msgid "Comments"
-msgstr "Commentaires"
-
 msgid "White"
 msgstr "Blanc"
 
@@ -256,6 +263,9 @@ msgid "Featuring: %s"
 msgstr "Mettant en vedette&nbsp;: %s"
 
 msgid "Featured Post"
+msgstr "Article en vedette"
+
+msgid "Featured post"
 msgstr "Article en vedette"
 
 msgid "Search"
@@ -311,10 +321,10 @@ msgid "Link Color"
 msgstr "Couleur des liens"
 
 msgid "Next &rarr;"
-msgstr "Suivant &rarr;"
+msgstr "Suivant »"
 
 msgid "&larr; Previous"
-msgstr "&larr; Précédent"
+msgstr "« Précédent"
 
 msgid "Image navigation"
 msgstr "Navigation des images"
@@ -388,6 +398,7 @@ msgstr "Plateforme sémantique de publication personnelle"
 msgid "Featured"
 msgstr "En vedette"
 
+#. Statut (25 times) vs État (475 times) need to correct Consistency: https://translate.wordpress.org/consistency/?search=Status&set=fr-ca%2Fdefault&project=
 msgid "Status"
 msgstr "État"
 
@@ -439,20 +450,63 @@ msgstr "%"
 msgid "Aside"
 msgstr "À-côté"
 
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "No comments"
+msgstr "Aucun commentaire"
+
+msgid "<strong>%</strong> Replies"
+msgstr "<strong>%</strong> commentaires"
+
+msgid "<strong>1</strong> Reply"
+msgstr "<strong>1</strong> commentaire"
+
+msgid "View all % comments"
+msgstr "Afficher les % commentaires"
+
+msgid "One comment so far"
+msgstr "Un commentaire pour le moment"
+
 msgid "Comments are closed."
 msgstr "Les commentaires sont fermés."
 
 msgid "Newer Comments &rarr;"
-msgstr "Commentaires plus récents &rarr;"
+msgstr "Commentaires plus récents »"
 
 msgid "&larr; Older Comments"
-msgstr "&larr; Commentaires précédents"
+msgstr "« Commentaires précédents"
 
 msgid "Comment navigation"
 msgstr "Navigation des commentaires"
 
 msgid "This post is password protected. Enter the password to view any comments."
 msgstr "Cet article est protégé par un mot de passe. Entrez le mot de passe pour lire les commentaires."
+
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d commentaire"
+msgstr[1] "%d commentaires"
+
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Une réponse sur « %s »"
+
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse sur « %2$s »"
+msgstr[1] "%1$s réponses sur « %2$s »"
+
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse sur « %2$s »"
+msgstr[1] "%1$s réponses sur « %2$s »"
+
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Une réponse sur « %s »"
 
 msgid "Category Archives: %s"
 msgstr "Archives de catégorie&nbsp;: %s"
@@ -499,10 +553,13 @@ msgid "This is somewhat embarrassing, isn&rsquo;t it?"
 msgstr "Voilà qui est embarrassant. N’est-ce pas ?"
 
 msgid "the WordPress team"
-msgstr "L'équipe WordPress"
+msgstr "l'équipe WordPress"
 
 msgid "https://wordpress.org/"
 msgstr "https://fr-ca.wordpress.org/"
+
+msgid "https://wordpress.org/support/"
+msgstr "https://wpfr.net/support/"
 
 msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
 msgstr "Désolé, mais rien ne correspond à vos critères. Réessayez en modifiant les termes de recherche."
@@ -546,8 +603,24 @@ msgstr "Mois&nbsp;: %s"
 msgid "Day: %s"
 msgstr "Jour&nbsp;: %s"
 
+msgid "Authors"
+msgstr "Auteurs"
+
 msgid "Author: %s"
 msgstr "Auteur&nbsp;: %s"
+
+msgid "By Post Author"
+msgstr "Par auteur de l'article"
+
+#. translators: %s: Author name
+msgid "By %s"
+msgstr "Par %s"
+
+msgid "Show author bio"
+msgstr "Afficher la biographie de l'auteur"
+
+msgid "Hide Author Bio"
+msgstr "Cacher la biographie de l'auteur"
 
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "Oups! Cette page est introuvable."
@@ -645,6 +718,9 @@ msgstr "https://fr.forums.wordpress.com/"
 msgid "Support"
 msgstr "Soutien"
 
+msgid "Supports"
+msgstr "Soutiens"
+
 #. translators: Network admin email change notification email subject. %s:
 #. Network title
 msgid "[%s] Network Admin Email Changed"
@@ -731,7 +807,7 @@ msgid "Label text"
 msgstr "Texte du libellé"
 
 msgid "Hide the excerpt on the full content page"
-msgstr "Masquer l’extrait sur la page de contenu entier"
+msgstr "Cacher l’extrait sur la page de contenu entier"
 
 msgid "The excerpt is visible."
 msgstr "L'extrait est visible."
@@ -1854,7 +1930,7 @@ msgid "Show Block Settings"
 msgstr "Afficher les réglages du bloc"
 
 msgid "Hide Block Settings"
-msgstr "Masquer les réglages du bloc"
+msgstr "Cacher les réglages du bloc"
 
 msgid "Block settings closed"
 msgstr "Réglages du bloc fermés"
@@ -1993,7 +2069,7 @@ msgid "Open the block navigation menu."
 msgstr "Ouvrir le menu de navigation de bloc."
 
 msgid "Show or hide the settings sidebar."
-msgstr "Afficher ou masquer la colonne latérale de réglages."
+msgstr "Afficher ou cacher la colonne latérale de réglages."
 
 msgid "Redo your last undo."
 msgstr "Rétablir la dernière action."
@@ -2030,7 +2106,7 @@ msgid "Options"
 msgstr "Options"
 
 msgid "Hide more tools & options"
-msgstr "Masquer plus d’outils & options"
+msgstr "Cacher plus d’outils & options"
 
 msgid "Show more tools & options"
 msgstr "Afficher plus d’outils & options"
@@ -2368,9 +2444,6 @@ msgstr "Remplacer l’image"
 msgid "Edit or update the image"
 msgstr "Modifier ou mettre à jour l'image"
 
-msgid "Learn more about manual excerpts"
-msgstr "En apprendre plus sur les extraits manuels"
-
 msgid "Write an excerpt (optional)"
 msgstr "Écrire un extrait (optionnel)..."
 
@@ -2571,9 +2644,6 @@ msgstr "Des plus récents aux plus anciens"
 
 msgid "Order by"
 msgstr "Ordonner par"
-
-msgid "Dismiss this notice"
-msgstr "Ignorer cette notification"
 
 #. translators: 1: term name, 2: term position in a set of terms, 3: total term
 #. set count.
@@ -3193,10 +3263,10 @@ msgid "Custom HTML Widget"
 msgstr "Widget HTML personnalisé"
 
 msgid "&larr; Back to Categories"
-msgstr "&larr; Revenir aux catégories"
+msgstr "« Revenir aux catégories"
 
 msgid "&larr; Back to Link Categories"
-msgstr "&larr; Revenir aux catégories de liens"
+msgstr "« Revenir aux catégories de liens"
 
 msgid "Color value"
 msgstr "Valeur de couleur"
@@ -3887,6 +3957,9 @@ msgstr "Image mise en avant"
 msgctxt "post"
 msgid "Featured Image"
 msgstr "Image mise en avant"
+
+msgid "Hide Featured Image"
+msgstr "Masquer l'image mise en avant"
 
 #. translators: 1: suggested width number, 2: suggested height number.
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
@@ -4849,9 +4922,6 @@ msgstr "Valeur non valide pour le fichier-joint en arrière-plan."
 msgid "Invalid value for background repeat."
 msgstr "Valeur non valide pour la répétition de l’arrière-plan."
 
-msgid "Learn more about CSS"
-msgstr "En savoir plus sur le CSS (en anglais)"
-
 msgid "Additional CSS"
 msgstr "CSS additionnel"
 
@@ -5082,7 +5152,7 @@ msgstr "Désolé, vous n’avez pas l’autorisation de supprimer cet article."
 #. translators: %s: site title
 msgctxt "site"
 msgid "&larr; Back to %s"
-msgstr "&larr; Retour vers %s"
+msgstr "« Retour vers %s"
 
 msgid "Unable to retrieve the error message from MySQL"
 msgstr "Impossible de retrouver le message d’erreur depuis MYSQL"
@@ -5429,10 +5499,6 @@ msgstr "Le site Web que vous cherchez (%s) n’existe pas."
 msgid "Oops! That embed can&#8217;t be found."
 msgstr "Oups! Ce contenu intégré n’a pas pu être trouvé."
 
-#. translators: %s: Name of current post
-msgid "Continue reading %s"
-msgstr "Lire la suite de %s"
-
 msgid "Site Language:"
 msgstr "Langue du site Web&nbsp;:"
 
@@ -5680,8 +5746,42 @@ msgid_plural "%s <span class=\"screen-reader-text\">Comments</span>"
 msgstr[0] "%s <span class=\"screen-reader-text\">Commentaire</span>"
 msgstr[1] "%s <span class=\"screen-reader-text\">Commentaires</span>"
 
+msgid "Continue reading"
+msgstr "Continuer la lecture"
+
+msgid "Continue reading &rarr;"
+msgstr "Continuer la lecture »"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture <span class=\"meta-nav\">»</span>"
+
+msgid "Continue reading %s"
+msgstr "Continuer la lecture de %s"
+
+msgid "Continued"
+msgstr "Continuer la lecture"
+
 msgid "Read more"
-msgstr "Lire la suite"
+msgstr "Continuer la lecture"
+
+msgctxt "Read More"
+msgid "Read More"
+msgstr "Continuer la lecture"
+
+msgid "read More"
+msgstr "Continuer la lecture"
+
+msgid "Read More &raquo;"
+msgstr "Continuer la lecture »"
+
+msgid "Insert Read More tag"
+msgstr "Insérer la balise « Continuer la lecture... »"
+
+msgid "Read more..."
+msgstr "Continuer la lecture..."
+
+msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture de %s <span class=\"meta-nav\"> »</span>"
 
 msgid "Embed a WordPress post."
 msgstr "Intégrer une publication WordPress."
@@ -6099,9 +6199,6 @@ msgctxt "theme"
 msgid "Change"
 msgstr "Changer"
 
-msgid "Dismiss this notice."
-msgstr "Ne pas tenir compte de ce message."
-
 msgid "%1$s response to %2$s"
 msgid_plural "%1$s responses to %2$s"
 msgstr[0] "%1$s réponse à %2$s"
@@ -6467,9 +6564,6 @@ msgstr "Fermer le panneau de chargement"
 
 msgid "Close media panel"
 msgstr "Fermer le panneau des médias"
-
-msgid "Read more..."
-msgstr "Lire la suite..."
 
 msgid "Bitrate"
 msgstr "Débit"
@@ -6904,9 +6998,6 @@ msgstr "Retour"
 msgid "Image Details"
 msgstr "Détails de l’image"
 
-msgid "Insert Read More tag"
-msgstr "Insérer la balise « Lire la suite... »"
-
 msgid "Tools"
 msgstr "Outils"
 
@@ -7086,9 +7177,6 @@ msgstr "En-têtes suggérés aléatoires"
 
 msgid "Randomize uploaded headers"
 msgstr "En-têtes chargés aléatoires"
-
-msgid "https://wordpress.org/support/"
-msgstr "https://wpfr.net/support"
 
 msgid "Keywords"
 msgstr "Mots-clés"
@@ -7355,9 +7443,6 @@ msgstr "Supprimer définitivement"
 
 msgid "Upload Limit Exceeded"
 msgstr "Limite de mise en ligne dépassée"
-
-msgid "Dismiss Errors"
-msgstr "Ignorer les erreurs"
 
 msgid "Uploading"
 msgstr "Mise en ligne"
@@ -8499,7 +8584,7 @@ msgid "Registration Form"
 msgstr "Formulaire d&rsquo;inscription"
 
 msgid "&larr; Back to Tags"
-msgstr "&larr; Retour aux étiquettes"
+msgstr "« Retour aux étiquettes"
 
 msgid "Get New Password"
 msgstr "Générer un mot de passe"
@@ -9058,78 +9143,50 @@ msgstr "Insérer/modifier une image"
 msgid "Print"
 msgstr "Imprimer"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Sat"
-msgstr "sam"
+msgstr "Sam"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Fri"
-msgstr "ven"
+msgstr "Ven"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Thu"
-msgstr "jeu"
+msgstr "Jeu"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Wed"
-msgstr "mer"
+msgstr "Mer"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Tue"
-msgstr "mar"
+msgstr "Mar"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Mon"
-msgstr "lun"
+msgstr "Lun"
 
-#. translators: three-letter abbreviation of the weekday
 msgid "Sun"
-msgstr "dim"
+msgstr "Dim"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Saturday"
-msgstr "samedi"
+msgstr "Samedi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Friday"
-msgstr "vendredi"
+msgstr "Vendredi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Thursday"
-msgstr "jeudi"
+msgstr "Jeudi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Wednesday"
-msgstr "mercredi"
+msgstr "Mercredi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Tuesday"
-msgstr "mardi"
+msgstr "Mardi"
 
-#. translators: weekday
-#. translators: one-letter abbreviation of the weekday
-#. translators: three-letter abbreviation of the weekday
 msgid "Monday"
-msgstr "lundi"
+msgstr "Lundi"
 
-#. translators: weekday
 msgid "Sunday"
-msgstr "dimanche"
+msgstr "Dimanche"
 
-#. translators: month name
-#. translators: three-letter abbreviation of the month
 msgid "December"
-msgstr "décembre"
+msgstr "Décembre"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
@@ -9570,9 +9627,6 @@ msgstr "Format de date"
 msgid "Allow people to post comments on new articles"
 msgstr "Autoriser les lecteurs à publier des commentaires sur les nouveaux articles"
 
-msgid "Email"
-msgstr "Adresse courriel"
-
 msgid "Site Title"
 msgstr "Titre du site Web"
 
@@ -9683,7 +9737,19 @@ msgid "View Page"
 msgstr "Voir la page"
 
 msgid "Dismiss"
-msgstr "Fermer"
+msgstr "Ignorer"
+
+msgid "dismiss"
+msgstr "ignorer"
+
+msgid "Dismiss Errors"
+msgstr "Ignorer les erreurs"
+
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notification"
+
+msgid "Dismiss this alert"
+msgstr "Ignorer cette alerte"
 
 msgid "All Categories"
 msgstr "Toutes"
@@ -9974,6 +10040,24 @@ msgstr "Alignement du fil d’Ariane"
 msgid "Disable on 404 Page?"
 msgstr "Désactiver sur la page 404 ?"
 
+msgid "404"
+msgstr "404"
+
+msgid "404 Error - Page Not Found"
+msgstr "Erreur 404 (Page introuvable)"
+
+msgid "404 Not Found"
+msgstr "404 Introuvable"
+
+msgid "404 not found"
+msgstr "404 introuvable"
+
+msgid "Page Not Found"
+msgstr "Page introuvable"
+
+msgid "Not Found"
+msgstr "Introuvable"
+
 msgid "Disable on Singular?"
 msgstr "Désactiver sur les publications seules ?"
 
@@ -10061,9 +10145,6 @@ msgstr "Page de commentaire %s"
 #. Translators: %s is the search query.
 msgid "Search results for: %s"
 msgstr "Résultats de recherche pour : %s"
-
-msgid "404 Not Found"
-msgstr "404 - Introuvable"
 
 msgctxt "breadcrumbs aria label"
 msgid "Breadcrumbs"
@@ -10448,9 +10529,6 @@ msgstr "Afficher le numéro de série"
 msgid "Course Content Table"
 msgstr "Tableau du contenu du cours"
 
-msgid "Learn More"
-msgstr "En savoir plus"
-
 msgid "Theme Color"
 msgstr "Couleur du thème"
 
@@ -10492,9 +10570,6 @@ msgstr "Blogue Pro"
 
 msgid "Spacing"
 msgstr "Espacement"
-
-msgid "Learn More »"
-msgstr "En savoir plus »"
 
 msgid "Sidebar Options"
 msgstr "Options de colonne latérale"
@@ -11033,9 +11108,6 @@ msgstr "Couleur d’arrière-plan de bouton au survol"
 msgid "Button Background Color"
 msgstr "Couleur d'arrière-plan de bouton"
 
-msgid "Widget Areas"
-msgstr "Zones de widget"
-
 msgid "Buttons"
 msgstr "Boutons"
 
@@ -11144,9 +11216,6 @@ msgstr "Après la page"
 msgid "Before Page"
 msgstr "Avant la page"
 
-msgid "Read More &raquo;"
-msgstr "Lire la suite »"
-
 msgid "Comments Navigation"
 msgstr "Navigation de commentaires"
 
@@ -11175,7 +11244,7 @@ msgid "Reset Settings"
 msgstr "Réinitialiser les réglages"
 
 msgid "Visit documentation &rarr;"
-msgstr "Voir la documentation &rarr;"
+msgstr "Voir la documentation »"
 
 msgid "Start Customizing"
 msgstr "Commencer à personnaliser"
@@ -11270,8 +11339,23 @@ msgstr "Largeur de la barre du haut"
 msgid "Top Bar"
 msgstr "Barre du haut"
 
-msgid "Learn more"
+msgid "learn More"
+msgstr "en savoir plus"
+
+msgid "Learn More"
 msgstr "En savoir plus"
+
+msgid "Learn More &#187;"
+msgstr "En savoir plus »"
+
+msgid "Learn More »"
+msgstr "En savoir plus »"
+
+msgid "Learn more about CSS"
+msgstr "En savoir plus sur le CSS (en anglais)"
+
+msgid "Learn more about manual excerpts"
+msgstr "En savoir plus sur les extraits manuels"
 
 msgid "Premium"
 msgstr "Premium"
@@ -11851,9 +11935,6 @@ msgstr[1] "%1$s commentaires"
 msgid "Home Page"
 msgstr "Page d’accueil"
 
-msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Lire la suite de %s <span class=\"meta-nav\">&rarr;</span>"
-
 msgid "View all posts in %s"
 msgstr "Voir tous les articles dans %s"
 
@@ -11891,9 +11972,8 @@ msgstr "Saisir ici"
 msgid "Search for:"
 msgstr "Rechercher :"
 
-msgctxt "Read More"
-msgid "Read More"
-msgstr "Lire la suite"
+msgid "Theme by %s"
+msgstr "Thème par %s"
 
 msgid "Theme by %1$s Powered by %2$s"
 msgstr "Thème par %1$s Propulsé par %2$s"
@@ -11991,6 +12071,9 @@ msgid "Recommended Actions"
 msgstr "Actions recommandées"
 
 msgid "Getting Started"
+msgstr "Mise en route"
+
+msgid "Getting started"
 msgstr "Mise en route"
 
 msgid "See our full documentation"
@@ -12280,6 +12363,12 @@ msgstr "Taille originale"
 
 msgid "Subtitle"
 msgstr "Sous-titre"
+
+msgid "Widget Areas"
+msgstr "Zones de widget"
+
+msgid "Widget Area"
+msgstr "Zone de widgets"
 
 msgid "Sidebar widget area"
 msgstr "Zone de Colonne latérale"
@@ -12949,10 +13038,10 @@ msgid "Homepage Header Image"
 msgstr "Image d’en-tête de l’accueil"
 
 msgid "Newer Comments &gt;"
-msgstr "Commentaires plus récents &rarr;"
+msgstr "Commentaires plus récents »"
 
 msgid "&lt; Older Comments"
-msgstr "&larr; Commentaires plus anciens"
+msgstr "« Commentaires plus anciens"
 
 msgid "% Responses"
 msgstr "% réponses"
@@ -14326,9 +14415,6 @@ msgstr "Schéma"
 msgid "Settings saved."
 msgstr "Réglages enregistrés."
 
-msgid "Dismiss this alert"
-msgstr "Ignorer cette alerte"
-
 msgid "Continue learning"
 msgstr "Continuez d’apprendre"
 
@@ -14567,9 +14653,6 @@ msgstr "Importation de démo"
 
 msgid "%s is active"
 msgstr "%s est activé"
-
-msgid "Getting started"
-msgstr "Commencer"
 
 msgid "Sitewide Banner"
 msgstr "Bandeau du site"
@@ -14930,8 +15013,8 @@ msgstr "Options de la list de blogues"
 msgid "ex. Similar Posts"
 msgstr "ex. articles similaires"
 
-msgstr "Titre du carrousel"
 msgid "Carousel Title"
+msgstr "Titre du carrousel"
 
 msgid "Yes - Display Similar Posts"
 msgstr "Oui, afficher les articles similaires"
@@ -14999,12 +15082,6 @@ msgstr "Votre panier d'achats"
 msgid "| (Edit)"
 msgstr "| (Modifier)"
 
-msgid "Continued"
-msgstr "Lire la suite­­"
-
-msgid "and"
-msgstr "et"
-
 msgid "There is an update available for: %1$s."
 msgid_plural "There are updates available for the following plugins: %1$s."
 msgstr[0] "Une mise à jour est disponible pour l'extension&nbsp;: %1$s."
@@ -15063,3 +15140,1722 @@ msgstr "une adresse web mal écrite ou incorrecte"
 
 msgid "It looks like this was the result of either:"
 msgstr "Cela peut être dû à l'une des raisons suivante :"
+
+msgid "Get PRO"
+msgstr "Passez Pro"
+
+msgid "SKU:"
+msgstr "UGS&nbsp;:"
+
+msgid "Transparent Header Logo"
+msgstr "Logo d’en-tête transparent"
+
+msgid "Transparent Navbar"
+msgstr "Barre de navigation transparente"
+
+msgid "Jetpack Portfolio"
+msgstr "Portfolio Jetpack"
+
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+msgid "type"
+msgstr "type"
+
+msgid "Debug"
+msgstr "Débogage"
+
+msgid "Don't show again"
+msgstr "Ne plus afficher"
+
+msgid "Sub Title"
+msgstr "Sous-titre"
+
+msgid "M j, Y @ G:i"
+msgstr "j F Y \\à G \\h i"
+
+msgid "FOLLOW"
+msgstr "Suivre"
+
+msgid " Powered by %s"
+msgstr " Propulsé par %s"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Instagram Section Title"
+msgstr "Titre de la section Instagram"
+
+msgid "Choose the layout of the slider for your site."
+msgstr "Choisissez la disposition du diaporama pour votre site."
+
+msgid "Slider Layout"
+msgstr "Disposition du diaporama"
+
+msgid "This is the layout for header."
+msgstr "Ceci est la disposition pour l’en-tête."
+
+msgid "Layout Settings"
+msgstr "Réglages de mise en page"
+
+msgid "Primary color of the theme."
+msgstr "Couleur principale du thème."
+
+msgid "Change the font size of your site."
+msgstr "Modifier la Taille de la police de votre site."
+
+msgid "Secondary font of the site."
+msgstr "Police secondaire du site."
+
+msgid "Secondary Font"
+msgstr "Police Secondaire"
+
+msgid "Primary font of the site."
+msgstr "Police primaire du site."
+
+msgid "Primary Font"
+msgstr "Police Primaire"
+
+msgid "Appearance Settings"
+msgstr "Réglages d’apparence"
+
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Lien de la documentation : %1$sCliquez ici.%2$s"
+
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Lien de démonstration : %1$sCliquez ici.%2$s"
+
+msgid "Demo & Documentation"
+msgstr "Démo & Documentation"
+
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+msgid "Blossom Themes"
+msgstr "Thèmes Blossom"
+
+msgid "This is the layout for blog index page."
+msgstr "Ceci est la mise en page pour la page d’index du blogue."
+
+msgid "Home Page Layout"
+msgstr "Disposition de la page d'accueil"
+
+msgid "Skip to Content"
+msgstr "Passer au contenu"
+
+msgid "Enable to hide Comments."
+msgstr "Activez pour masquer les commentaires."
+
+msgid "Hide Comments"
+msgstr "Masquer les commentaires"
+
+msgid "Submit Here"
+msgstr "Soumettre ici"
+
+msgid "Enable slider auto transition."
+msgstr "Activer la transition automatique du diaporama."
+
+msgid "Slider Auto"
+msgstr "Lecture automatique du diaporama"
+
+msgid "Go to the getting started."
+msgstr "Aller à la Mise en route."
+
+msgid "Free vs Pro"
+msgstr "Gratuit Vs Pro"
+
+msgid "Version %s"
+msgstr "Version %s"
+
+msgid "View Contact Support"
+msgstr "Contactez le soutien technique"
+
+msgid "Free Vs Pro"
+msgstr "Gratuit Vs Pro"
+
+msgid "FAQ's &amp; Support"
+msgstr "Foire aux questions et Soutien"
+
+msgid "Getting started with %1$s v%2$s"
+msgstr "Mettre en route avec %1$s v%2$s"
+
+msgid "Activating "
+msgstr "Activation "
+
+msgid "Install and activate"
+msgstr "Installer et activer"
+
+msgid "These Free Plugins might be handy for you."
+msgstr "Ces extensions gratuites peuvent vous être utiles."
+
+msgid "Free Plugins"
+msgstr "Extensions gratuites"
+
+msgid "If this didn't help, please %1$scontact us%2$s."
+msgstr "Si cela ne fonctionne pas, bien vouloir %1$snous contacter%2$s."
+
+msgid "Why is my theme not working well?"
+msgstr "Pourquoi mon thème ne fonctionne-t-il pas bien ?"
+
+msgid "How do I change the copyright text?"
+msgstr "Comment changer le texte des droits d'auteur ?"
+
+msgid "What is the difference between Free and Pro?"
+msgstr "Quel est la différence entre les versions Gratuite et Pro ?"
+
+msgid "Visit the knowledge base"
+msgstr "Rechercher dans la base de connaissances"
+
+msgid "Visit the Knowledge Base"
+msgstr "Visitez la base de connaissances"
+
+msgid "Read More About the Pro Theme"
+msgstr "Lire davantage au sujet du thème Pro"
+
+msgid "Upgrade To Pro"
+msgstr "Passez à la version Pro"
+
+msgid "View Demo"
+msgstr "Voir la démonstration"
+
+msgid "Visit the Demo"
+msgstr "Visiter la Démonstration"
+
+msgid "View Our Demo"
+msgstr "Voir nos Démonstrations"
+
+msgid "Visit the Support"
+msgstr "Aller au support"
+
+msgid "Support Ticket"
+msgstr "Demande de soutien"
+
+msgid "View Documentation"
+msgstr "Voir la documentation"
+
+msgid "Visit the Documentation"
+msgstr "Visiter la documentation"
+
+msgid "View Our Documentation Link"
+msgstr "Afficher notre lien de la documentation"
+
+msgid "View Pro"
+msgstr "Voir Pro"
+
+msgid "View Premium Version"
+msgstr "Afficher la version Pro"
+
+msgid "Enable to show Shop Page Description."
+msgstr "Activer pour afficher la Page de Description de la Boutique."
+
+msgid "Shop Page Description"
+msgstr "Page de description de la boutique"
+
+msgid "Shop Settings"
+msgstr "Réglages de la boutique"
+
+msgid "Add More Posts"
+msgstr "Ajouter plus d'articles"
+
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+msgid "VIEW PRO THEME"
+msgstr "Voir le thème Pro"
+
+msgid "Pro Available"
+msgstr "Pro disponible"
+
+msgid "Add footer four widgets here."
+msgstr "Ajoutez des widgets de pied 4 ici."
+
+msgid "Footer Four"
+msgstr "Pied de page 4"
+
+msgid "Add footer three widgets here."
+msgstr "Ajouter les widgets du pied de page 3 ici."
+
+msgid "Footer Three"
+msgstr "Pied de page 3"
+
+msgid "Add footer two widgets here."
+msgstr "Ajouter les widgets du pied de page 2 ici."
+
+msgid "Footer Two"
+msgstr "Pied de page 2"
+
+msgid "Add footer one widgets here."
+msgstr "Ajouter les widgets du pied de page 1 ici."
+
+msgid "Footer One"
+msgstr "Pied de page 1"
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l’installation des extensions obligatoires"
+
+msgid "TOP"
+msgstr "Haut"
+
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+msgid "Post Navigation"
+msgstr "Navigation des articles"
+
+msgid "Next Article"
+msgstr "Article suivant"
+
+msgid "Previous Article"
+msgstr "Article précédent"
+
+msgid ")"
+msgstr ")"
+
+msgid " (Page"
+msgstr " (Page"
+
+msgid "d"
+msgstr "d"
+
+msgid "F"
+msgstr "F"
+
+msgid "m"
+msgstr "m"
+
+msgid "\""
+msgstr "\""
+
+msgid "Search Results for \""
+msgstr "Résultats de recherche pour"
+
+msgid "Showing %1$s Result(s)%2$s"
+msgstr "Affiche %1$s résultat(s)%2$s"
+
+msgid " Copyright "
+msgstr " Copyright "
+
+msgid "Choose Sidebar Template"
+msgstr "Choisissez le modèle de colonne latérale"
+
+msgid "Default Sidebar"
+msgstr "Colonne latérale par défaut"
+
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+msgid "Choose Category"
+msgstr "Choisissez une Catégorie"
+
+msgid " -- Choose -- "
+msgstr " — Choisir — "
+
+msgid "Posted on"
+msgstr "Publié le"
+
+msgid "Click here to add a menu"
+msgstr "Cliquez ici pour ajouter un menu"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifier <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post author.
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+msgid "updated on "
+msgstr "mis à jour le "
+
+msgid "Change the font size of your site title."
+msgstr "Changez la taille de police du titre de votre site."
+
+msgid "Site Title Font Size"
+msgstr "Taille de police du titre du site"
+
+msgid "Site title and tagline font."
+msgstr "Police de titre du site et du slogan."
+
+msgid "Site Title Font"
+msgstr "Police du titre du site"
+
+msgid "Enable to show Instagram Section"
+msgstr "Activer pour afficher la Section Instagram"
+
+msgid "Instagram Section"
+msgstr "Section Instagram"
+
+msgid "Instagram Settings"
+msgstr "Réglages Instagram"
+
+msgid "Newsletter Shortcode"
+msgstr "Shortcode Infolettre"
+
+msgid "Enable to show Newsletter Section"
+msgstr "Activer pour afficher la Section Infolettre"
+
+msgid "Newsletter Section"
+msgstr "Section Infolettre"
+
+msgid "Newsletter Settings"
+msgstr "Réglages de l'infolettre"
+
+msgid "Enable to hide posted date."
+msgstr "Activez pour masquer la date de publication."
+
+msgid "Hide Posted Date"
+msgstr "Masquer la date de publication"
+
+msgid "Enable to hide author section."
+msgstr "Activez pour masquer la section de l’auteur."
+
+msgid "Hide Author"
+msgstr "Masquer l'auteur"
+
+msgid "Enable to hide category."
+msgstr "Activer pour masquer la catégorie."
+
+msgid "Hide Category"
+msgstr "Masquer la catégorie"
+
+#, fuzzy
+msgid "Related Posts Section Title"
+msgstr "Titre de la section des articles similaires"
+
+msgid "You may also like..."
+msgstr "Vous pourriez aussi aimer..."
+
+#, fuzzy
+msgid "Enable to show related posts in single page."
+msgstr "Activez pour afficher les articles similaires sur les pages individuelles."
+
+msgid "Show Related Posts"
+msgstr "Afficher les articles similaires"
+
+msgid "These options affect your individual posts."
+msgstr "Ces options affectent vos articles individuels."
+
+msgid "Read More Text"
+msgstr "Lire plus de texte"
+
+msgid "Read More"
+msgstr "Lire plus"
+
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Longueur de l’extrait généré automatiquement (en mots)."
+
+msgid "Excerpt Length"
+msgstr "Longueur de l’extrait"
+
+msgid "Enable Blog Excerpt"
+msgstr "Activez l’extrait du blogue"
+
+msgid "Post Sidebar Layout"
+msgstr "Disposition de la colonne latérale des articles"
+
+msgid "Page Sidebar Layout"
+msgstr "Disposition de la colonne latérale sur les pages"
+
+msgid "/"
+msgstr "/"
+
+msgid "Enable to show breadcrumb in inner pages."
+msgstr "Activer pour afficher le fil d'Ariane à l'intérieur des pages."
+
+msgid "Enable Breadcrumb"
+msgstr "Activer le fil d’Ariane"
+
+msgid "Enable Last Update Post Date"
+msgstr "Activez la date de l’article à la dernière mise à jour"
+
+msgid "SEO Settings"
+msgstr "Réglages SEO"
+
+msgid "links"
+msgstr "liens"
+
+msgid "Example: http://facebook.com"
+msgstr "Exemple : http://facebook.com"
+
+msgid "Example: fa-bell"
+msgstr "Exemple : fa-bell"
+
+msgid "Font Awesome Icon"
+msgstr "Icône Font Awesome"
+
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+msgid "Enable to show social links at header."
+msgstr "Activez pour afficher les liens des réseaux sociaux dans l’en-tête."
+
+msgid "Enable Social Links"
+msgstr "Activez les liens sociaux"
+
+msgid "Featured Content One"
+msgstr "Contenu mis en avant 1"
+
+msgid "Featured Content Two"
+msgstr "Contenu mis en avant 2"
+
+msgid "Featured Content Three"
+msgstr "Contenu mis en avant 3"
+
+msgid "Enable to show Featured Area in home page."
+msgstr "Activer pour afficher la zone mise en avant sur la page d'accueil."
+
+msgid "Enable Featured Area"
+msgstr "Activer la zone mise en avant"
+
+msgid "Featured Area Settings"
+msgstr "Réglages de la zone mise en avant"
+
+msgid "Slide Out Down"
+msgstr "Faites glisser vers le bas"
+
+msgid "Slide Out Up"
+msgstr "Faites glisser vers le haut"
+
+msgid "Slide Out Right"
+msgstr "Faites glisser vers la droite"
+
+msgid "Slide Out Left"
+msgstr "Faites glisser vers la gauche"
+
+msgid "Slide"
+msgstr "Glissement"
+
+msgid "Fade Out Down"
+msgstr "Faire disparaître vers le bas"
+
+msgid "Fade Out Up"
+msgstr "Faire disparaître vers le haut"
+
+msgid "Fade Out Right"
+msgstr "Faire disparaître vers la droite"
+
+msgid "Fade Out Left"
+msgstr "Faire disparaître vers la gauche"
+
+msgid "Fade Out"
+msgstr "Faire disparaître"
+
+msgid "Slider Animation"
+msgstr "Animation du diaporama"
+
+msgid "Number of Slides"
+msgstr "Nombre de diapositives"
+
+msgid "Slider Category"
+msgstr "Catégorie du diaporama"
+
+msgid "Slider Content Style"
+msgstr "Style de contenu du diaporama"
+
+msgid "Enable Slider"
+msgstr "Activer le diaporama"
+
+msgid "Slider Settings"
+msgstr "Réglages du diaporama"
+
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+msgid "Footer Copyright Text"
+msgstr "Texte des droits d’auteur en pieds de page"
+
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+msgid "Add new %s"
+msgstr "Ajouter un nouveau %s"
+
+msgid "row"
+msgstr "rangée"
+
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s commentaire"
+msgstr[1] "%1$s commentaires"
+
+msgid "TAKE ME TO THE HOME PAGE"
+msgstr "Retour à la page d'accueil"
+
+msgid "Uh-Oh..."
+msgstr "Oh-Oh…"
+
+msgid " Blossom Themes"
+msgstr " Blossom Themes"
+
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "activée"
+
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "activée"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "activée"
+
+msgid "Home Page Layouts"
+msgstr "Dispositions de la page d'accueil"
+
+msgid "This is the slider layouts for your blog."
+msgstr "Il s'agit des dispositions de diaporama pour votre blogue."
+
+msgid "Slider Layouts"
+msgstr "Dispositions du diaporama"
+
+msgid "%1$sDocumentation Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLien de documentation : %2$s %3$sCliquez ici.%4$s"
+
+msgid "%1$sDemo Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLien de démonstration : %2$s %3$sCliquez ici.%4$s"
+
+msgid "Demo & Documentation "
+msgstr "Démonstration & Documentation "
+
+msgid "Related Projects"
+msgstr "Projects reliés"
+
+#, fuzzy
+msgid "Breadcrumb Home Text"
+msgstr "Texte du fil d'Ariane pour l'accueil"
+
+msgid "Full Name"
+msgstr "Nom complet"
+
+msgid "Submit your site for social share"
+msgstr "Envoyer vos sites web pour un partage sur les réseaux sociaux"
+
+msgid "Contact Support Team"
+msgstr "Contacter l'équipe de soutien"
+
+msgid "Regenerate Thumbnails"
+msgstr "Regénérer les miniatures"
+
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Afficher la colonne latérale seulement dans les pages WooCommerce."
+
+msgid "BlossomThemes Email Newsletter"
+msgstr "Courriel d'infolettre BlossomThemes"
+
+msgid "BlossomThemes Toolkit"
+msgstr "Boîte à outils BlossomThemes"
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+msgid "Written by"
+msgstr "Ecrit par"
+
+msgid "%1$s Showing: %2$s RESULTS %3$s"
+msgstr "%1$s Afficher : %2$s Résultats %3$s"
+
+msgid "%1$s Showing:  %2$s - %3$s of %4$s RESULTS %5$s"
+msgstr "%1$s Afficher : %2$s - %3$s de %4$s Résultats %5$s"
+
+msgid "SEARCH RESULT FOR:"
+msgstr "Recherche de résultats pour :"
+
+msgid "You are reading"
+msgstr "Vous lisez"
+
+msgid "All Rights Reserved. "
+msgstr "Tous droits réservés. "
+
+msgid "&copy; Copyright "
+msgstr "&copy; Copyright "
+
+msgid "Full Width Centered"
+msgstr "Pleine largeur centrée"
+
+#. translators: 1: list of tags.
+msgid "%1$sTags:%2$s %3$s"
+msgstr "%1$sÉtiquettes :%2$s %3$s"
+
+msgid "AJAX (Auto Infinite Scroll)"
+msgstr "AJAX (Défilement infini automatique)"
+
+msgid "Default (Next / Previous)"
+msgstr "Par défaut (Suivant/Précédent)"
+
+msgid "Select pagination type."
+msgstr "Sélectionner le type de pagination."
+
+msgid "Pagination Type"
+msgstr "Type de pagination"
+
+msgid "Pagination"
+msgstr "Pagination"
+
+msgid "This is the general sidebar layout for whole site."
+msgstr "C'est la disposition général de la barre latérale pour tout le site."
+
+msgid "Default Sidebar Layout"
+msgstr "Disposition par défaut de la colonne latérale"
+
+msgid "General Sidebar Layout"
+msgstr "Disposition générale de la colonne latérale"
+
+msgid "Recommended Articles Section Title"
+msgstr "Titre de la section des articles recommandés"
+
+msgid "Recommended Articles"
+msgstr "Articles recommandés"
+
+msgid "Show Recommended Articles"
+msgstr "Afficher les articles recommandés"
+
+msgid "Enable to hide the post author."
+msgstr "Activer pour masquer l'auteur de l'article."
+
+msgid "Hide Post Author"
+msgstr "Masquer l'auteur de l'article"
+
+msgid "<hr/>These options affect your individual posts."
+msgstr "<hr/>Ces options affectent vos articles individuels."
+
+msgid "Enable to hide prefix in archive page."
+msgstr "Activer pour masquer le préfixe dans la page d'archive."
+
+msgid "Hide Prefix in Archive Page"
+msgstr "Masquer le préfixe dans la page d'archive"
+
+msgid "Example: https://facebook.com"
+msgstr "Exemple : http://facebook.com"
+
+msgid "Example: fab fa-facebook-f"
+msgstr "Exemple : fab fa-facebook-f"
+
+msgid "Title for social links on newsletter section."
+msgstr "Le Titre pour les liens sociaux dans la section infolettre."
+
+msgid "Social Title"
+msgstr "Titre réseaux sociaux"
+
+msgid "Choose the number of slides you want to display"
+msgstr "Choisir le nombre de diapositives que vous voulez afficher"
+
+msgid "Banner Link"
+msgstr "Lien de la bannière"
+
+msgid "Banner Label"
+msgstr "Libellé de la bannière"
+
+msgid "Discover More"
+msgstr "Découvrir plus"
+
+msgid "Wondering how your peers are using social media?"
+msgstr "Vous vous demandez de quelle façon vos pairs utilisent les réseaux sociaux ?"
+
+msgid "Banner as Slider"
+msgstr "Bannière en diaporama"
+
+msgid "Static/Video Banner"
+msgstr "Bannière statique/vidéo"
+
+msgid "Disable Banner Section"
+msgstr "Activer la section Bannière"
+
+msgid "Banner Options"
+msgstr "Options de la bannière"
+
+msgid "Banner Section"
+msgstr "Section Bannière"
+
+msgid "Customize Typography & Background Image"
+msgstr "Personnaliser la Typographie et l'image d'arrière-plan"
+
+msgid "Search anything and hit enter."
+msgstr "Rechercher quelque chose et appuyez sur entrée."
+
+msgid "Looking for Something?"
+msgstr "Vous rechercher quelque chose ?"
+
+msgctxt "placeholder"
+msgid "What are you looking for..."
+msgstr "Que recherchez vous ?"
+
+msgid "%1$sArchives%2$s"
+msgstr "%1$sArchives%2$s"
+
+msgid "%1$s Archives %2$s %3$s"
+msgstr "%1$s Archives %2$s %3$s"
+
+msgid "%1$s Day %2$s %3$s"
+msgstr "%1$s Jour %2$s %3$s"
+
+msgid "%1$s Month %2$s %3$s"
+msgstr "%1$s Mois %2$s %3$s"
+
+msgid "%1$s Year %2$s %3$s"
+msgstr "%1$s Année %2$s %3$s"
+
+msgid "%1$s Tag %2$s %3$s"
+msgstr "%1$s Étiquette %2$s %3$s"
+
+msgid "%1$s Category %2$s %3$s"
+msgstr "%1$s Categorie %2$s %3$s"
+
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#. translators: 1: comment count number.
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s commentaire"
+msgstr[1] "%1$s commentaires"
+
+msgid "Take me to the home page"
+msgstr "Aller à la page d'accueil"
+
+msgid "Related products"
+msgstr "Produits similaires"
+
+msgid "Tiles"
+msgstr "Mosaïque d'images rectangulaires"
+
+msgid "Coupon"
+msgstr "Coupon"
+
+msgid "coupon"
+msgid_plural "coupons"
+msgstr[0] "coupon"
+msgstr[1] "coupons"
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "L’extension nécessaire suivante est présentement inactive : %1$s."
+msgstr[1] "Les extensions nécessaires suivantes sont présentement inactives : %1$s."
+
+msgid "Couldn't forward to %1$s: %2$s"
+msgstr "Échec du transfert à %1$s : %2$s"
+
+msgid "Forwarded to %s"
+msgstr "Transféré à %s"
+
+msgid "User %s blocked"
+msgstr "Utilisateur %s désactivé"
+
+msgid "User %1$s unsubscribed from lists %2$s"
+msgstr "Utilisateur %1$s désinscrit des listes %2$s"
+
+msgid "User %s not subscribed"
+msgstr "Utilisateur %s non inscrit"
+
+msgid "User %1$s removed from lists %2$s"
+msgstr "Utilisateur %1$s supprimé des listes %2$s"
+
+msgid "User already unsubscribed"
+msgstr "Utilisateur déjà désinscrit"
+
+msgid "User already subscribed"
+msgstr "Utilisateur déjà inscrit"
+
+msgid "User %1$s not subscribed to %2$s: "
+msgstr "Utilisateur %1$s non inscrit à %2$s : "
+
+msgid "User %1$s subscribed to %2$s"
+msgstr "Utilisateur %1$s inscrit à %2$s"
+
+msgid "User %s deleted"
+msgstr "Utilisateur %s supprimé"
+
+msgid "Message deleted"
+msgstr "Message supprimé"
+
+msgid "Bounce rate"
+msgstr "Taux de rebonds"
+
+msgid "Configure"
+msgstr "Configurer"
+
+msgid "Run bounce handling"
+msgstr "Gérer les rebonds"
+
+msgid "Failed Permanently"
+msgstr "Échec permanent"
+
+msgid "Temporary failures"
+msgstr "Échec temporaire"
+
+msgid "Domain does not exist"
+msgstr "Le domaine n’existe pas"
+
+msgid "Mailbox Full"
+msgstr "Boîte mail pleine"
+
+msgid "Action required"
+msgstr "Action nécessaire"
+
+msgid "Rule"
+msgstr "Règle"
+
+msgid "Successfully connected to %s"
+msgstr "Connecté avec succès à %s"
+
+msgid "Frequency"
+msgstr "Fréquence"
+
+msgid "No discount"
+msgstr "Aucun rabais"
+
+msgid "Upgrade now!"
+msgstr "Mettre à niveau maintenant !"
+
+msgid "Copy default translations"
+msgstr "Copier les traductions par défaut"
+
+msgid "Image required"
+msgstr "Image obligatoire"
+
+msgid "Please check your e-mail to see the coupon"
+msgstr "Veuillez vérifier vos courriels pour obtenir le coupon"
+
+msgid "Apply discounts"
+msgstr "Appliquer les rabais"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "State"
+msgstr "État/Province"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Display"
+msgstr "Afficher"
+
+msgid "Title only"
+msgstr "Titre uniquement"
+
+msgid "Descending"
+msgstr "Décroissant"
+
+msgid "Ascending"
+msgstr "Croissant"
+
+msgid "By category"
+msgstr "Par catégorie"
+
+msgid "One by one"
+msgstr "Un par un"
+
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+msgid "Resized"
+msgstr "Redimensionnées"
+
+msgid "Display pictures"
+msgstr "Afficher les images"
+
+msgid "Clickable title"
+msgstr "Titre cliquable"
+
+msgid "Publishing date"
+msgstr "Date de publication"
+
+msgid "Full text"
+msgstr "Texte complet"
+
+msgid "Intro only"
+msgstr "Intro uniquement"
+
+msgid "Custom field"
+msgstr "Champ personnalisé"
+
+msgid "Here is you template"
+msgstr "Voici votre modèle de courriel"
+
+msgid "Here you can add dynamic text to your email"
+msgstr "Ici, vous pouvez ajouter du texte dynamique à votre courriel"
+
+msgid "Skip"
+msgstr "Passer"
+
+msgid "Successfully sent"
+msgstr "Bien envoyé"
+
+msgid "Border Width (px)"
+msgstr "Épaisseur de la bordure (px)"
+
+msgid "Get Help"
+msgstr "Obtenir de l'aide"
+
+msgid "Post Title Hover Color"
+msgstr "Couleur du titre des articles au survol de la souris"
+
+msgid "Author Archive"
+msgstr "Archives de l'auteur"
+
+msgid "Theme Name"
+msgstr "Nom du thème"
+
+msgid "BG Color"
+msgstr "Couleur du fond"
+
+msgid "Uploading..."
+msgstr "Téléversement en cours..."
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Global Options"
+msgstr "Options générales"
+
+msgid "Arial"
+msgstr "Arial"
+
+msgid "Roboto Condensed"
+msgstr "Roboto Condensed"
+
+msgid "Open Sans"
+msgstr "Open Sans"
+
+msgid "permalink"
+msgstr "permalien"
+
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+msgid "Hide Post Tags"
+msgstr "Cacher les étiquettes"
+
+msgid "Hide Post Categories"
+msgstr "Cacher les catégories"
+
+msgid "Excerpt length"
+msgstr "Longueur de l'extrait"
+
+msgid "Theme Default"
+msgstr "Thème par défaut"
+
+msgid "1 Column"
+msgstr "1 colonne"
+
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+msgid "4 Columns"
+msgstr "4 colonnes"
+
+msgid "5 Columns"
+msgstr "5 colonnes"
+
+msgid "Content Headings"
+msgstr "Titres de contenu"
+
+msgid "Header Widget Area"
+msgstr "Zone de widgets d'en-tête"
+
+msgid "Hide Site Title"
+msgstr "Cacher le titre du site"
+
+msgid "Dotted"
+msgstr "Pointillé"
+
+msgid "Solid"
+msgstr "Plein"
+
+msgid "Border Style"
+msgstr "Type de bordure"
+
+msgid "Inline CSS"
+msgstr "CSS incorporé"
+
+msgid "Pause background video"
+msgstr "Stopper le vidéo en arrière-plan"
+
+msgid "Play background video"
+msgstr "Lecture du vidéo en arrière-plan"
+
+msgid "Front Page Section %1$s Placeholder"
+msgstr "Texte indicatif de la section %1$s de la page d’accueil"
+
+msgid "Please define an SVG icon filename."
+msgstr "Veuillez définir un nom de fichier d’icône SVG."
+
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Modifier<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+msgid "Collapse child menu"
+msgstr "Réduire le sous-menu"
+
+msgid "Expand child menu"
+msgstr "Étendre le sous-menu"
+
+msgid "Social Links Menu"
+msgstr "Menu des liens de réseaux sociaux"
+
+msgid "Footer Social Links Menu"
+msgstr "Menu des liens sociaux du pied de page"
+
+msgid "More"
+msgstr "Plus"
+
+msgid "Join the Conversation"
+msgstr "Rejoindre la conversation"
+
+msgid "Join the Club"
+msgstr "Joindre le club"
+
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "Devenez membre et obtenez des offres exclusives !"
+
+msgid "The color used for the text in the overlay."
+msgstr "La couleur utilisée pour le texte de la superposition."
+
+msgid "Overlay Text Color"
+msgstr "Couleur du texte de superposition"
+
+msgid "Overlay Background Color"
+msgstr "Couleur de superposition de l’arrière-plan"
+
+msgid "search again"
+msgstr "chercher de nouveau"
+
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "Nous avons trouvé %s résultat pour votre recherche."
+msgstr[1] "Nous avons trouvé %s résultats pour votre recherche."
+
+#. translators: %s: HTML character for up arrow
+msgid "Up %s"
+msgstr "Haut %s"
+
+#. translators: %s: HTML character for up arrow
+msgid "To the top %s"
+msgstr "Vers le haut %s"
+
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+msgid "Full Width Template"
+msgstr "Modèle pleine largeur"
+
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Articles</span> plus anciens"
+
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "<span class=\"nav-short\">Articles</span> plus récents"
+
+msgid "Close search"
+msgstr "Fermer la recherche"
+
+msgid "Expanded Social links"
+msgstr "Liens de réseaux sociaux étendus"
+
+msgid "Social links"
+msgstr "Liens de réseaux sociaux"
+
+msgid "Expanded"
+msgstr "Étendus"
+
+msgid "Close Menu"
+msgstr "Fermer menu"
+
+msgid "Scroll Down"
+msgstr "Défiler vers le bas"
+
+msgid "Search:"
+msgstr "Recherche :"
+
+msgid "Sticky post"
+msgstr "Article mis en avant"
+
+msgid "Sticky"
+msgstr "Mis en avant"
+
+msgid "Post date"
+msgstr "Date de l’article"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Larger"
+msgstr "Plus grand"
+
+msgid "Regular"
+msgstr "Régulier"
+
+msgid "Subtle Background"
+msgstr "Arrière-plan subtil"
+
+msgid "Accent Color"
+msgstr "Couleur d'accent"
+
+msgid "Footer #1"
+msgstr "Pied de page 1"
+
+msgid "Footer #2"
+msgstr "Pied de page 2"
+
+msgid "Skip to the content"
+msgstr "Aller au contenu"
+
+msgid "Desktop Expanded Menu"
+msgstr "Menu étendu grands écrans"
+
+msgid "Desktop Horizontal Menu"
+msgstr "Menu horizontal grand écrans"
+
+msgid "Show sub menu"
+msgstr "Afficher sous-menu"
+
+msgid "says:"
+msgstr "dit :"
+
+msgid "Fixed Background Image"
+msgstr "Image d'arrière-plan fixe"
+
+msgid "Cover Template"
+msgstr "Gabarit de couverture"
+
+msgid "Summary"
+msgstr "Résumé"
+
+msgid "On archive pages, posts show:"
+msgstr "Sur les pages d'archive, les articles affichent :"
+
+msgid "Show search in header"
+msgstr "Afficher la recherche dans l’en-tête"
+
+msgid "Header &amp; Footer Background Color"
+msgstr "Couleur d’arrière-plan de l’en-tête et du pied de page"
+
+msgid "Retina logo"
+msgstr "Logo Rétina"
+
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+msgid "https://www.godaddy.com/"
+msgstr "https://www.godaddy.com/"
+
+msgid "Bright Red"
+msgstr "Rouge brillant"
+
+msgid "Dark Red"
+msgstr "Rouge foncé"
+
+msgid "Medium Brown"
+msgstr "Marron moyen"
+
+msgid "Dark Brown"
+msgstr "Marron foncé"
+
+msgid "Light Blue"
+msgstr "Bleu clair"
+
+msgid "Bright Blue"
+msgstr "Bleu brillant"
+
+msgid "Blue Gray"
+msgstr "Bleu gris"
+
+msgid "Footer Primary Menu"
+msgstr "Menu principal de pied de page"
+
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Ajoutez des widgets ici pour les afficher dans votre colonne latérale."
+
+msgid "Main Text Color"
+msgstr "Couleur primaire du texte"
+
+msgid "Secondary Text Color"
+msgstr "Couleur secondaire du texte"
+
+msgid "Page Background Color"
+msgstr "Couleur du fond de page"
+
+msgid "Base Color Scheme"
+msgstr "Jeu de couleurs de base"
+
+msgid "Next Image"
+msgstr "Image suivante"
+
+msgid "Previous Image"
+msgstr "Image précédente"
+
+msgid "expand child menu"
+msgstr "étendre le sous-menu"
+
+msgid "collapse child menu"
+msgstr "réduire le sous-menu"
+
+msgid "Content Bottom 1"
+msgstr "Contenu du bas 1"
+
+msgid "Content Bottom 2"
+msgstr "Contenu du bas 2"
+
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Prochain <span class=\"meta-nav\">»</span>"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">«</span> Précédent"
+
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr "% <span class=\"reply\">commentaires »</span>"
+
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr "1 <span class=\"reply\">commentaire»</span>"
+
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr "0 <span class=\"reply\">commentaires »</span>"
+
+msgid "Ephemera"
+msgstr "Éphémère"
+
+msgid "One-column, no sidebar"
+msgstr "Une colonne, pas de barre latérale"
+
+msgid "Reply <span>&darr;</span>"
+msgstr "Répondre <span>&darr;</span>"
+
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "Le %2$s, %1$s <span class=\"says\">a dit :</span>"
+
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">»</span>"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">«</span> Articles Précédents"
+
+msgid "An optional widget area for your site footer"
+msgstr "Une zone facultative de widgets pour le pied de page de votre site"
+
+msgid "The sidebar for the optional Showcase Template"
+msgstr "La colonne latérale pour le gabarit optionnel de portfolio"
+
+msgid "Hanoi Plant"
+msgstr "Plante de Hanoï"
+
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Étiqueté</span> %2$s"
+
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Publié dans</span> %2$s"
+
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Cette galerie contient <a %1$s>%2$s photo</a>."
+msgstr[1] "Cette galerie contient <a %1$s>%2$s photos</a>."
+
+msgid "1"
+msgstr "1"
+
+msgid "Light Pink"
+msgstr "Rose clair"
+
+msgid "Medium Pink"
+msgstr "Rose moyen"
+
+msgid "Dark Purple"
+msgstr "Violet foncé"
+
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une réflexion sur &ldquo;%s&rdquo;"
+
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Auteur"
+
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publié le"
+
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+msgid "Header and Sidebar Background Color"
+msgstr "Couleur de fond de l'en-tête et de la barre latérale"
+
+msgid "Header and Sidebar Text Color"
+msgstr "Couleur du texte de l'en-tête et de la barre latérale"
+
+msgid "Menu and widgets"
+msgstr "Menu et widgets"
+
+msgid "Published by"
+msgstr "Publié par"
+
+msgid "One Response to %s"
+msgstr "Une réponse à l'article %s"
+
+msgid "One column, no sidebar"
+msgstr "Une colonne, pas de colonne latérale"
+
+msgid "View posts in the Gallery category"
+msgstr "Afficher les articles de la catégorie Galerie"
+
+msgid "More Galleries"
+msgstr "Plus de galeries"
+
+msgid "View Galleries"
+msgstr "Voir les galeries"
+
+msgid "gallery"
+msgstr "galerie"
+
+msgid "&rarr;"
+msgstr "»"
+
+#, fuzzy
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "«"
+
+msgid "Link to full-size image"
+msgstr "Lien vers l’image originale"
+
+msgid "Full size is %s pixels"
+msgstr "La taille originale est de %s pixels"
+
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Publié le</span> %2$s"
+
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Par</span> %2$s"
+
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">«</span> %s"
+
+msgid "Return to %s"
+msgstr "Revenir à %s"
+
+msgid "First Footer Widget Area"
+msgstr "Zone de pied de page 1"
+
+msgid "Second Footer Widget Area"
+msgstr "Zone de pied de page 2"
+
+msgid "Third Footer Widget Area"
+msgstr "Zone de pied de page 3"
+
+msgid "Fourth Footer Widget Area"
+msgstr "Zone de pied de page 4"
+
+msgid "An optional widget area for your site footer."
+msgstr "Une zone de widget optionnelle pour le pied de page de votre site."
+
+msgid "Secondary Widget Area"
+msgstr "Zone secondaire de widgets"
+
+msgid "Primary Widget Area"
+msgstr "Zone principale de widgets"
+
+msgid "Sunset"
+msgstr "Coucher du soleil"
+
+msgid "Path"
+msgstr "Chemin"
+
+msgid "Inkwell"
+msgstr "Encrier"
+
+msgid "Forest Floor"
+msgstr "Paysage forestier"
+
+msgid "Fern"
+msgstr "Fougère"
+
+msgid "Concave"
+msgstr "Mirroir"
+
+msgid "Cherry Blossoms"
+msgstr "Fleurs de cerisier"
+
+msgid "Berries"
+msgstr "Framboises"
+
+msgid "%1$s Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "%1$s réponse à %2$s"
+msgstr[1] "%1$s réponses à %2$s"
+
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archives annuelles&nbsp;: <span>%s</span>"
+
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archives mensuelles&nbsp;: <span>%s</span>"
+
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archives quotidiennes&nbsp;: <span>%s</span>"
+
+msgid "No posts to display"
+msgstr "Aucun article à afficher"
+
+msgid "% Replies"
+msgstr "% commentaires"
+
+msgid "1 Reply"
+msgstr "1 Commentaire"
+
+msgid "Off-white"
+msgstr "Blanc crème"
+
+msgid "Beige"
+msgstr "Beige"
+
+msgid "Light Brown"
+msgstr "Marron clair"
+
+msgid "Light Orange"
+msgstr "Orange clair"
+
+msgid "Medium Orange"
+msgstr "Orange moyen"
+
+msgid "%s Archives"
+msgstr "Archives des %s"
+
+msgid "Star"
+msgstr "Étoile"
+
+msgid "Diamond"
+msgstr "Losange"
+
+msgid "Full resolution"
+msgstr "Pleine résolution"
+
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s le %2$s"
+
+#, fuzzy
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#, fuzzy
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Apparaît dans la barre latérale des articles et pages."
+
+msgid "Appears in the footer section of the site."
+msgstr "Apparaît dans le pied de page du site."
+
+msgid "Main Widget Area"
+msgstr "Zone principale de widgets"
+
+msgid "All posts by %s"
+msgstr "Tous les articles par %s"
+
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Comment puis-je résoudre mes problèmes rapidement et obtenir un soutien plus rapide ?"
+
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Veuillez vous assurer que vous avez mis à jour à la dernière version du thème avant de soumettre un ticket de soutien pour n’importe quel problème. Nous avons peut-être déjà corrigé le bogue dans la mise à jour précédente du thème."
+
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Avec les fonctionnalités supplémentaires et les mises à jour régulières, vous obtenez un soutien dédié et rapide avec le thème premium. Si vous rencontrez n’importe quel problème lors de la création d’un site web avec le thème premium, vous obtiendrez une réponse plus rapide par rapport au soutien gratuit."
+
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple homepage sections which you can sort and hide as per your requirements. Also, the Pro theme comes with several predefined page templates."
+msgstr "La version Free et Pro des thèmes sont bien codées et développées avec les meilleures pratiques de codage. Cependant, la version Pro du thème est livré avec des fonctionnalités étendues et une équipe de soutien dédiée pour vous aider à résoudre vos requêtes. Le thème Pro est livré avec plusieurs sections de page d’accueil que vous pouvez trier et masquer selon vos besoins. En outre, le thème Pro est livré avec plusieurs modèles de page prédéfinis."
+
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Si le guide de documentation ne vous a pas aidé, contactez-nous via notre %1$sticket de soutien%2$s. Nous répondons à toutes les demandes de soutien en un jour ouvrable, sauf le week-end."
+
+msgid "Also, the Pro version gets regular updates and has a dedicated support team to solve your queries."
+msgstr "En outre, la version Pro reçoit des mises à jour régulières et dispose d’une équipe de soutien dédiée pour résoudre vos demandes."
+
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Vous pouvez changer les liens pour le réseau social à partir d'Outil de personnalisation dans les options des régalges pour le network social."
+
+msgid "Social Settings"
+msgstr "Réglages pour les réseaux sociaux"
+
+msgid "Breadcrumb Settings"
+msgstr "Réglages du fil d'Ariane"
+
+msgid "Customize Home Page Settings"
+msgstr "Personnaliser les réglages pour la page d'accueil"
+
+msgid "Home Page Settings"
+msgstr "Réglages de la page d'accueil"
+
+msgid "Header Settings"
+msgstr "Réglages de l'en-tête"
+
+msgid "Default Settings"
+msgstr "Réglages par défaut"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Default image"
+msgstr "Image par défaut"
+
+msgid "Theme options"
+msgstr "Options du thème"
+
+msgid "Theme colours"
+msgstr "Couleurs du thème"
+
+msgid "&copy; 2018 VsWeb"
+msgstr "&copy; 2018 VsWeb"
+
+msgid "Widgets area for right sidebar"
+msgstr "Zone de widgets de la barre latérale droite"
+
+msgid "Right sidebar"
+msgstr "Barre latérale droite"
+
+msgid "Widgets area for left sidebar"
+msgstr "Zone de widgets de la barre latérale gauche"
+
+msgid "Left sidebar"
+msgstr "Barre latérale gauche"
+
+msgid "Profile area of the footer"
+msgstr "Zone de profil du pied de page"
+
+msgid "Footer profile"
+msgstr "Profil du pied de page"
+
+msgid "Third widgets area of the footer"
+msgstr "Troisième zone de widget du pied de page"
+
+msgid "Second widgets area of the footer"
+msgstr "Deuxième zone de widget du pied de page"
+
+msgid "First widgets area of the footer"
+msgstr "Première zone de widget du pied de page"
+
+msgid "Second zone of profile menu"
+msgstr "Deuxième zone de menu du profil"
+
+msgid "First zone of profile menu"
+msgstr "Première zone de menu du profil"
+
+msgid "theme by"
+msgstr "thème par"
+
+msgid "about us"
+msgstr "à propos"
+
+msgid "next"
+msgstr "suivant"
+
+msgid "prev"
+msgstr "précédent"
