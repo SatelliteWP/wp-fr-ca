@@ -2949,7 +2949,7 @@ msgid "User URL"
 msgstr "URL de l’utilisateur"
 
 msgid "User Email"
-msgstr "Courriel de l’utilisateur"
+msgstr "Adresse courriel de l’utilisateur"
 
 msgid "User Nice Name"
 msgstr "Nom à afficher publiquement"
@@ -3058,7 +3058,7 @@ msgid "Comment Author URL"
 msgstr "URL de l'auteur du commentaire"
 
 msgid "Comment Author Email"
-msgstr "Courriel de l'auteur du commentaire"
+msgstr "Adresse courriel de l'auteur du commentaire"
 
 msgid "Comment Author"
 msgstr "Auteur du commentaire"
@@ -4194,15 +4194,6 @@ msgctxt "Theme starter content"
 msgid "Home"
 msgstr "Accueil"
 
-msgid "Email"
-msgstr "Courriel"
-
-msgid "E-mail"
-msgstr "Courriel"
-
-msgid "email"
-msgstr "courriel"
-
 msgctxt "Theme starter content"
 msgid "Instagram"
 msgstr "Instagram"
@@ -4233,11 +4224,11 @@ msgstr "Heures d’ouverture"
 
 msgctxt "Theme starter content"
 msgid "New York, NY 10001"
-msgstr "75008, Paris"
+msgstr "Montreal - Quebec, H0H 0H0"
 
 msgctxt "Theme starter content"
 msgid "123 Main Street"
-msgstr "Avenue des Champs-Élysées"
+msgstr "123, rue Ste-Catherine"
 
 msgctxt "Theme starter content"
 msgid "Address"
@@ -14372,7 +14363,7 @@ msgid "Out of Stock Background"
 msgstr "Arrière-plan Rupture d'inventaire"
 
 msgid "Email (required)"
-msgstr "Courriel (obligatoire)"
+msgstr "Adresse courriel (obligatoire)"
 
 msgid "Show the latest news from your blog."
 msgstr "Affiche les dernières nouveutés de votre blogue."
