@@ -16899,41 +16899,8 @@ msgstr "Aucune extension sélectionné pour être activée. Aucune action effect
 msgid "Page %1$s of %2$s"
 msgstr "Page %1$s sur %2$s"
 
-msgid "XL"
-msgstr "TG"
-
-msgid "Larger"
-msgstr "Plus grand"
-
-msgid "L"
-msgstr "G"
-
-msgid "Large"
-msgstr "Grand"
-
 msgid "N"
 msgstr "R"
-
-msgid "Normal"
-msgstr "Régulier"
-
-msgid "S"
-msgstr "P"
-
-msgid "Small"
-msgstr "Petit"
-
-msgid "White"
-msgstr "Blanc"
-
-msgid "Light Gray"
-msgstr "Gris clair"
-
-msgid "Dark Gray"
-msgstr "Gris foncé"
-
-msgid "Black"
-msgstr "Noir"
 
 msgid "Accent"
 msgstr "Accent"
@@ -16952,3 +16919,75 @@ msgstr "Thème par"
 
 msgid "Error 404"
 msgstr "Erreur 404"
+
+msgid "Choose your content container type."
+msgstr "Choisissez votre type de conteneur de contenu."
+
+msgid "Content Container"
+msgstr "Conteneur de contenu"
+
+msgid "Close Sub-Menu"
+msgstr "Fermer le sous-menu"
+
+msgid "Open Sub-Menu"
+msgstr "Ouvrir le sous-menu"
+
+msgid "Show Content Title"
+msgstr "Afficher le titre du contenu"
+
+msgid "Disable Content Title"
+msgstr "Désactiver le titre du contenu"
+
+msgid "More on %s"
+msgstr "En savoir plus sur %s"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "%s Previous"
+msgstr "%s précédent"
+
+msgid "here"
+msgstr "ici"
+
+msgid "Caution:"
+msgstr "Attention :"
+
+msgid "Floats"
+msgstr "Boîtes flottantes"
+
+msgid "Flexbox"
+msgstr "Boîtes flexibles"
+
+msgid "Structure"
+msgstr "Structure"
+
+msgid "Navigation After"
+msgstr "Navigation après"
+
+msgid "Navigation Before"
+msgstr "Navigation avant"
+
+msgid "Close Search Bar"
+msgstr "Fermer la barre de recherche"
+
+msgid "Open Search Bar"
+msgstr "Ouvrir la barre de recherche"
+
+msgid "Learn more"
+msgstr "En savoir plus"
+
+msgid ", "
+msgstr ", "
+
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+msgid "1 Widgets"
+msgstr "1 widget"
+
+msgid "Below Header"
+msgstr "Sous l'en-tête"
+
+msgid "Font family"
+msgstr "Famille de polices"
