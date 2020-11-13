@@ -9793,9 +9793,6 @@ msgstr "Publié en privé"
 msgid "Save as Pending"
 msgstr "Mettre à relire"
 
-msgid "Image URL"
-msgstr "Adresse web de l&rsquo;image"
-
 msgid "Media"
 msgstr "Média"
 
@@ -9991,6 +9988,9 @@ msgstr "Commentaire"
 
 msgid "URL"
 msgstr "Adresse web"
+
+msgid "Image URL"
+msgstr "Adresse web de l'image"
 
 msgid "Author"
 msgstr "Auteur"
@@ -16896,23 +16896,59 @@ msgstr "Aucune extension disponible pour être activée présentement."
 msgid "No plugins were selected to be activated. No action taken."
 msgstr "Aucune extension sélectionné pour être activée. Aucune action effectuée."
 
-msgid ""
-msgstr ""
+msgid "Page %1$s of %2$s"
+msgstr "Page %1$s sur %2$s"
 
-#No plugins were selected to be updated. No action taken.
-#No plugins were selected to be installed. No action taken.
-#No plugins are available to be updated at this time.
-#No plugins are available to be installed at this time.
-#The remote plugin package consists of more than one file, but the files are not packaged in a folder.
-#Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.
-#The remote plugin package does not contain a folder with the desired slug and renaming did not work.
-#This plugin needs to be updated to be compatible with your theme.
-#Please contact the administrator of this site for help.
-#There are one or more required or recommended plugins to install, update or activate.
-#All plugins installed and activated successfully. %1$s
-#Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.
-#No action taken. Plugin was already active.
-#No action taken. Plugin %1$s was already active.
-#Return to Recommended Plugins Installer
-#Return to Required Plugins Installer
-#Ready to publish your first post? <a href="%1$s">Get started here</a>.
+msgid "XL"
+msgstr "TG"
+
+msgid "Larger"
+msgstr "Plus grand"
+
+msgid "L"
+msgstr "G"
+
+msgid "Large"
+msgstr "Grand"
+
+msgid "N"
+msgstr "R"
+
+msgid "Normal"
+msgstr "Régulier"
+
+msgid "S"
+msgstr "P"
+
+msgid "Small"
+msgstr "Petit"
+
+msgid "White"
+msgstr "Blanc"
+
+msgid "Light Gray"
+msgstr "Gris clair"
+
+msgid "Dark Gray"
+msgstr "Gris foncé"
+
+msgid "Black"
+msgstr "Noir"
+
+msgid "Accent"
+msgstr "Accent"
+
+msgid "Show Preview Titles"
+msgstr "Afficher les titres des aperçus"
+
+msgid "In"
+msgstr "Dans"
+
+msgid "Search Form"
+msgstr "Formulaire de recherche"
+
+msgid "Theme by"
+msgstr "Thème par"
+
+msgid "Error 404"
+msgstr "Erreur 404"
