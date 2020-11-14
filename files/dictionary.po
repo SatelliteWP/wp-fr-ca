@@ -80,7 +80,7 @@ msgid "One Column"
 msgstr "Une colonne"
 
 msgid "Page Layout"
-msgstr "Mise en page"
+msgstr "Disposition"
 
 msgid "Theme Options"
 msgstr "Options du thème"
@@ -1878,7 +1878,7 @@ msgid "Embeds"
 msgstr "Contenus incorporés"
 
 msgid "Layout Elements"
-msgstr "Mise en page"
+msgstr "Disposition"
 
 msgid "Formatting"
 msgstr "Mise en forme"
@@ -5125,13 +5125,13 @@ msgid "Photoblogging"
 msgstr "Blogage photo"
 
 msgid "Responsive Layout"
-msgstr "Mise en page responsive"
+msgstr "Disposition réactive"
 
 msgid "Fluid Layout"
-msgstr "Mise en page fluide"
+msgstr "Disposition fluide"
 
 msgid "Fixed Layout"
-msgstr "Mise en page fixe"
+msgstr "Disposition fixe"
 
 msgid "Tan"
 msgstr "Ocre"
@@ -10404,7 +10404,7 @@ msgid "Container Overview"
 msgstr "Aperçu du conteneur"
 
 msgid "Site Layout Overview"
-msgstr "Aperçu de la mise en page du site"
+msgstr "Aperçu de la disposition du site"
 
 msgid "Helpful Information"
 msgstr "Informations utiles"
@@ -10446,7 +10446,7 @@ msgid "Last Item in Menu"
 msgstr "Dernier élément de menu"
 
 msgid "Header Layout"
-msgstr "Mise en page d’en-tête"
+msgstr "Disposition d’en-tête"
 
 msgid "Menu Breakpoint"
 msgstr "Point de rupture du menu"
@@ -10584,7 +10584,7 @@ msgid "Header Options"
 msgstr "Options d’en-tête"
 
 msgid "Layout Options"
-msgstr "Options de mise en page"
+msgstr "Options de disposition"
 
 msgid "Customize Fonts"
 msgstr "Personnaliser les polices"
@@ -10819,13 +10819,13 @@ msgid "Footer Bar Top Border"
 msgstr "Bordure supérieure de barre du pied de page"
 
 msgid "Footer Bar Layout 2"
-msgstr "Mise en page 2 de barre du pied de page"
+msgstr "Disposition 2 de barre du pied de page"
 
 msgid "Footer Bar Layout 1"
-msgstr "Mise en page 1 de barre du pied de page"
+msgstr "Disposition 1 de barre du pied de page"
 
 msgid "Footer Bar Layout"
-msgstr "Mise en page du pied de page"
+msgstr "Disposition du pied de page"
 
 msgid "Full Width / Stretched"
 msgstr "Pleine largeur - Étiré"
@@ -10834,13 +10834,13 @@ msgid "Full Width / Contained"
 msgstr "Pleine largeur - Espacé"
 
 msgid "Layout 4"
-msgstr "Mise en page 4"
+msgstr "Disposition 4"
 
 msgid "Disable"
 msgstr "Désactiver"
 
 msgid "Footer Widgets Layout"
-msgstr "Mise en page des widgets du pied de page"
+msgstr "Disposition des widgets du pied de page"
 
 msgid "Widget Title Color"
 msgstr "Couleur de titre du widget"
@@ -11064,7 +11064,7 @@ msgid "Boxed"
 msgstr "Encadré"
 
 msgid "Content Layout"
-msgstr "Mise en page du contenu"
+msgstr "Disposition du contenu"
 
 msgid "Blog Content Width"
 msgstr "Largeur du contenu du blogue"
@@ -11127,7 +11127,7 @@ msgid "Container"
 msgstr "Conteneur"
 
 msgid "Site Layout"
-msgstr "Mise en page du site"
+msgstr "Disposition du site"
 
 msgid "Enter valid email address!"
 msgstr "Saisissez une adresse courriel valide !"
@@ -11467,10 +11467,10 @@ msgid "No Sidebars"
 msgstr "Aucune colonne latérale"
 
 msgid "Single Post Sidebar Layout"
-msgstr "Mise en page de la colonne latérale en mode d'un article seul"
+msgstr "Disposition la colonne latérale en mode d'un article unique"
 
 msgid "Blog Sidebar Layout"
-msgstr "Mise en page de la colonne latérale en mode blogue"
+msgstr "Disposition de la colonne latérale en mode blogue"
 
 msgid "Content / Sidebar / Sidebar"
 msgstr "Contenu / Colonne latérale / Colonne latérale"
@@ -11779,7 +11779,7 @@ msgid "Choose how you want to display projects"
 msgstr "Veuillez choisir comment afficher les projets"
 
 msgid "Projects Layout"
-msgstr "Mise en page des projets"
+msgstr "Disposition des projets"
 
 msgid "Show Portfolio Archive Title"
 msgstr "Afficher le titre dans la page archive du Portfolio"
@@ -11999,7 +11999,7 @@ msgid "Grid only"
 msgstr "Grille uniquement"
 
 msgid "Blog Layout"
-msgstr "Mise en page du blogue"
+msgstr "Disposition du blogue"
 
 msgid "Post Author Left Side"
 msgstr "Auteur de la publication côté gauche"
@@ -13258,7 +13258,7 @@ msgid "Select your column"
 msgstr "Sélectionnez votre colonne"
 
 msgid "Select your layout"
-msgstr "Sélectionnez votre mise en page"
+msgstr "Sélectionnez votre disposition"
 
 msgid "Save and Exit"
 msgstr "Enregistrer et quitter"
@@ -15196,7 +15196,7 @@ msgid "This is the layout for header."
 msgstr "Ceci est la disposition pour l’en-tête."
 
 msgid "Layout Settings"
-msgstr "Réglages de mise en page"
+msgstr "Réglages de disposition"
 
 msgid "Primary color of the theme."
 msgstr "Couleur principale du thème."
@@ -15235,7 +15235,7 @@ msgid "Blossom Themes"
 msgstr "Thèmes Blossom"
 
 msgid "This is the layout for blog index page."
-msgstr "Ceci est la mise en page pour la page d’index du blogue."
+msgstr "Ceci est la disposition pour la page d’index du blogue."
 
 msgid "Home Page Layout"
 msgstr "Disposition de la page d'accueil"
