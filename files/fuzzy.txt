@@ -13,6 +13,7 @@ billet
 billets
 code court
 codes courts
+compte
 click
 embarquer
 embarqué
