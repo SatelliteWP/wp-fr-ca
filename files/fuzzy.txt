@@ -1,60 +1,58 @@
-acceuil
-Acceuil
-e-mail
-é-mail
-du coup
-email
-émail
-adresse de messagerie
-adresses de messagerie
-adresse de courriel
-adresses de courriel
-billet
-billets
-code court
-codes courts
-compte
-click
-embarquer
-embarqué
-embarquez
-À la une
 à la une
-image a la une
-image à la une
-Image à la une
-mot clé
-mot-clé
-mots clés
-mots-clés
-mot-clés
-mot-clef
-mots-clefs
-newsletter
-paramètre
-paramètres
-Paramètre
-Paramètres
-paramétre
-portefolio
-porte folio
-blog.
+acceuil
+adresse de courriel
+adresse de messagerie
+adresses de courriel
+adresses de messagerie
+arrière plan
+bas de page
+billet
 blog 
 blog,
 blog:
 blog!
 blog?
+blog.
 blog&nbsp;
 blogs
-Newsletter
+click
+code court
+codes courts
+compte
+diapo 
+du coup
+e-mail
+é-mail
+email
+émail
+embarqué
+embarquer
+embarquez
+https://wordpress.org/plugins
+https://wordpress.org/themes
+image a la une
+image à la une
+image mise à l'avant
+lire la suite
+mise en page
+mot clé
+mot-clé
+mot-clef
+mot-clés
+mots clés
+mots-clefs
+mots-clés
 newsletter
 newsletters
-Newsletters
+paramétre
+paramètre
+paramètres
+plugiciel
 plugin
+porte folio
+portefolio
 prendre la main
 pris la main
-lire la suite
-Lire la suite
 réactif
 slide
 slides
@@ -63,6 +61,5 @@ support
 TVA
 upload
 uploads
+vignette
 WordPresss
-https://wordpress.org/plugins
-https://wordpress.org/themes
