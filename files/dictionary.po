@@ -9186,7 +9186,7 @@ msgid "Sunday"
 msgstr "Dimanche"
 
 msgid "December"
-msgstr "Décembre"
+msgstr "décembre"
 
 #. translators: month name
 #. translators: three-letter abbreviation of the month
